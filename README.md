@@ -107,9 +107,9 @@ Submit pull requests if anything can be fixed, and also any correction to `gold.
 | Brian Eno | Deep Blue Day - Remastered 2005 |
 | Bright Eyes | Something Vague |
 | Bruce Springsteen | Atlantic City |
-| Buddy Holly | "(Ummmm, Oh Yeah) Dearest" |
+| Buddy Holly | (Ummmm, Oh Yeah) Dearest |
 | CHVRCHES | The Mother We Share |
-| Camille Saint-Saëns | "The Carnival of the Animals, R. 125: XIII. The Swan (Arr. for Cello and Piano)" |
+| Camille Saint-Saëns | The Carnival of the Animals, R. 125: XIII. The Swan (Arr. for Cello and Piano) |
 | Camille Saint-Saëns | Carnival of the Animals: XIII. Le Cygne (The Swan) |
 | Carole King | (You Make Me Feel Like) A Natural Woman |
 | Carpenters | (They Long To Be) Close To You |
@@ -117,14 +117,14 @@ Submit pull requests if anything can be fixed, and also any correction to `gold.
 | Carpenters | We’ve Only Just Begun |
 | Carpenters | Yesterday Once More |
 | Charlie Chaplin | Smile (Theme from Modern Times) [with Joshua Bell] |
-| Chris Cornell | "Thank You - Recorded Live At Sixth & I Historic Synagogue, Washington, DC on April 17, 2011" |
+| Chris Cornell | Thank You - Recorded Live At Sixth & I Historic Synagogue, Washington, DC on April 17, 2011 |
 | Chris Cornell | Nothing Compares 2 U - Live At SiriusXM/2015 |
 | Chris Stapleton | Traveller |
 | Christophe | Aline |
 | Cj Da Juice | Better than I was Yesterday |
-| Claude Debussy | "Debussy: Arabesque no. 2 in G major (Deux Arabesques, L. 66)" |
-| Claude Debussy | "Préludes / Book 1, L. 117: 8. La fille aux cheveux de lin" |
-| Claude Debussy | "Suite bergamasque, L. 75: III. Clair de lune" |
+| Claude Debussy | Debussy: Arabesque no. 2 in G major (Deux Arabesques, L. 66) |
+| Claude Debussy | Préludes / Book 1, L. 117: 8. La fille aux cheveux de lin |
+| Claude Debussy | Suite bergamasque, L. 75: III. Clair de lune |
 | Climax Blues Band | I Love You |
 | Cocteau Twins | Evangeline |
 | Cody Fry | I Hear a Symphony |
@@ -146,7 +146,7 @@ Submit pull requests if anything can be fixed, and also any correction to `gold.
 | Death Cab for Cutie | What Sarah Said |
 | Declan O'Rourke | Galileo |
 | Deftones | Beauty School |
-| Denez Prigent | "Gortoz A Ran - From ""Black Hawk Down""" |
+| Denez Prigent | Gortoz A Ran - From Black Hawk Down |
 | Des'ree | I'm Kissing You |
 | Dire Straits | Brothers In Arms |
 | Dire Straits | Romeo and Juliet |
@@ -155,20 +155,20 @@ Submit pull requests if anything can be fixed, and also any correction to `gold.
 | Disturbed | The Sound of Silence |
 | Dolly Parton | I Will Always Love You |
 | Dolly Parton | Love Is Like a Butterfly |
-| Don McLean | "Vincent (Starry, Starry Night)" |
+| Don McLean | Vincent (Starry, Starry Night) |
 | Don McLean | Crying |
 | Donna Lewis | I Love You Always Forever |
 | Donnie Iris | Ah! Leah! |
 | Doris Day | Dream a Little Dream of Me (with Paul Weston & His Music From Hollywood) |
 | Eagles | Desperado - 2013 Remaster |
 | Eagles | Seven Bridges Road - Live; 1999 Remaster |
-| Edvard Grieg | "Peer Gynt Suite No. 2, Op. 55: IV. Solveig's Song" |
-| Edvard Grieg | "Peer Gynt, Op. 23, Act IV: Morning Mood" |
+| Edvard Grieg | Peer Gynt Suite No. 2, Op. 55: IV. Solveig's Song |
+| Edvard Grieg | Peer Gynt, Op. 23, Act IV: Morning Mood |
 | Ella Fitzgerald | I Can't Stop Loving You - Live / 1972 |
 | Ella Fitzgerald | Stars Fell On Alabama |
 | Ella Fitzgerald | Summertime |
 | Elliott Smith | Angeles |
-| Elton John | "Rocket Man (I Think It's Going To Be A Long, Long Time)" |
+| Elton John | Rocket Man (I Think It's Going To Be A Long, Long Time) |
 | Elton John | Bennie And The Jets - Remastered 2014 |
 | Elton John | Bennie And The Jets |
 | Elton John | Goodbye Yellow Brick Road - Remastered 2014 |
@@ -179,7 +179,7 @@ Submit pull requests if anything can be fixed, and also any correction to `gold.
 | Elvis Presley | Young and Beautiful |
 | Emerson, Lake & Palmer | Lucky Man - 2012 Remaster |
 | Emilíana Torrini | Sunny Road |
-| Ennio Morricone | """Finale"" from Once Upon a Time in the West - Instrumental" |
+| Ennio Morricone | Finale from Once Upon a Time in the West - Instrumental |
 | Ennio Morricone | Un amico - Titoli |
 | Enya | Amarantine |
 | Enya | Boadicea |
@@ -223,7 +223,7 @@ Submit pull requests if anything can be fixed, and also any correction to `gold.
 | Fleet Foxes | Tiger Mountain Peasant Song |
 | Fleet Foxes | Wading In Waist-High Water |
 | Fleet Foxes | White Winter Hymnal |
-| Fleetwood Mac | "The Chain - Live at Warner Brothers Studios in Burbank, CA 5/23/97" |
+| Fleetwood Mac | The Chain - Live at Warner Brothers Studios in Burbank, CA 5/23/97 |
 | Fleetwood Mac | Dreams - 2004 Remaster |
 | Fleetwood Mac | Everywhere - 2017 Remaster |
 | Fleetwood Mac | Landslide |
@@ -235,7 +235,7 @@ Submit pull requests if anything can be fixed, and also any correction to `gold.
 | Flight Facilities | Clair De Lune |
 | Florence + The Machine | Stand By Me |
 | Flying Lotus | Getting There |
-| Flyte | "Archie, Marry Me" |
+| Flyte | Archie, Marry Me |
 | Foo Fighters | Everlong - Acoustic Version |
 | Frank Mills | Music Box Dancer |
 | Frank Ocean | Ivy |
@@ -243,8 +243,8 @@ Submit pull requests if anything can be fixed, and also any correction to `gold.
 | Frank Ocean | White Ferrari |
 | Frank Zappa | Watermelon In Easter Hay |
 | Fred Astaire | Cheek to Cheek |
-| Frédéric Chopin | "Chopin: Nocturne No. 20 in C-Sharp Minor, Op. Posth." |
-| Frédéric Chopin | "Nocturne No. 2 in E-Flat Major, Op. 9 No. 2" |
+| Frédéric Chopin | Chopin: Nocturne No. 20 in C-Sharp Minor, Op. Posth. |
+| Frédéric Chopin | Nocturne No. 2 in E-Flat Major, Op. 9 No. 2 |
 | Fugees | Killing Me Softly With His Song |
 | Gang Starr | Moment Of Truth |
 | Gary Jules | Mad World |
@@ -257,7 +257,7 @@ Submit pull requests if anything can be fixed, and also any correction to `gold.
 | Gordon Lightfoot | The Wreck of the Edmund Fitzgerald |
 | Gorillaz | On Melancholy Hill |
 | Gorillaz | To Binge (feat. Little Dragon) |
-| Grateful Dead | "They Love Each Other - Live at Barton Hall, Cornell University, Ithaca, NY 5/8/77" |
+| Grateful Dead | They Love Each Other - Live at Barton Hall, Cornell University, Ithaca, NY 5/8/77 |
 | Grateful Dead | Box of Rain - 2013 Remaster |
 | Grateful Dead | Casey Jones - 2013 Remaster |
 | Grateful Dead | Mountains of the Moon - 2013 Remaster |
@@ -268,8 +268,8 @@ Submit pull requests if anything can be fixed, and also any correction to `gold.
 | Gregory Alan Isakov | The Stable Song |
 | Grimes | Symphonia IX (My Wait Is U) |
 | Grover Washington, Jr. | Just the Two of Us (feat. Bill Withers) |
-| Gustav Holst | "The Planets, Op. 32: 4. Jupiter, the Bringer of Jollity" |
-| Hans Zimmer | "This Land - From ""The Lion King""/Score" |
+| Gustav Holst | The Planets, Op. 32: 4. Jupiter, the Bringer of Jollity |
+| Hans Zimmer | This Land - From The Lion King/Score |
 | Hans Zimmer | Chevaliers De Sangreal - From The Da Vinci Code Original Motion Picture Soundtrack |
 | Hans Zimmer | Injection |
 | Hans Zimmer | No Time for Caution |
@@ -285,7 +285,7 @@ Submit pull requests if anything can be fixed, and also any correction to `gold.
 | Henry Mancini | Moon River(Vocal Audrey Hepburn) |
 | Herb Alpert & The Tijuana Brass | Ladyfingers |
 | Howie Day | Collide |
-| Hozier | "Wasteland, Baby!" |
+| Hozier | Wasteland, Baby! |
 | Hozier | Cherry Wine - Live |
 | Hozier | In a Week (feat. Karen Cowley) |
 | Hozier | In the Woods Somewhere |
@@ -301,7 +301,7 @@ Submit pull requests if anything can be fixed, and also any correction to `gold.
 | Incubus | Aqueous Transmission |
 | Indigo Girls | Closer to Fine |
 | Indigo Girls | Ghost |
-| Iron & Wine | "Flightless Bird, American Mouth" |
+| Iron & Wine | Flightless Bird, American Mouth |
 | Iron & Wine | Boy With a Coin |
 | Iron & Wine | Naked as We Came |
 | Iron & Wine | Such Great Heights |
@@ -315,14 +315,14 @@ Submit pull requests if anything can be fixed, and also any correction to `gold.
 | Jay-Jay Johanson | Poison |
 | Jed Kurzel | Dead Civilization |
 | Jed Kurzel | The Animus |
-| Jeff Buckley | "Lover, You Should've Come Over" |
+| Jeff Buckley | Lover, You Should've Come Over |
 | Jeff Buckley | Grace |
 | Jeff Buckley | Hallelujah |
 | Jeff Buckley | Just Like a Woman |
 | Jeff Buckley | Lilac Wine |
 | Jeremy Soule | Kyne's Peace |
 | Jewel | Angel Standing By |
-| Jim Croce | "Next Time, This Time - Live at Harper College 2/5/73" |
+| Jim Croce | Next Time, This Time - Live at Harper College 2/5/73 |
 | Jim Croce | Age |
 | Jim Croce | Alabama Rain |
 | Jim Croce | Dreamin' Again |
@@ -341,14 +341,14 @@ Submit pull requests if anything can be fixed, and also any correction to `gold.
 | Jimi Hendrix | Little Wing |
 | Jimmy Eat World | Hear You Me |
 | Joaquín Rodrigo | Aranjuez Concerto BWV 1056 |
-| Joe Cocker | "Up Where We Belong - From ""An Officer And A Gentleman""" |
+| Joe Cocker | Up Where We Belong - From An Officer And A Gentleman |
 | Joe Cocker | You Are So Beautiful |
 | Johann Pachelbel | Pachelbel: Canon and Gigue for Three Violins and Continuo in D Major: Canon |
-| Johann Sebastian Bach | "Brandenburg Concerto No. 2 in F Major, BWV 1047: I. Allegro" |
-| Johann Sebastian Bach | "Cello Suite No. 1 in G Major, BWV 1007: I. Prélude" |
-| Johann Sebastian Bach | "Orchestral Suite No. 3 in D Major, BWV 1068: II. Air ""Air on the G string""" |
+| Johann Sebastian Bach | Brandenburg Concerto No. 2 in F Major, BWV 1047: I. Allegro |
+| Johann Sebastian Bach | Cello Suite No. 1 in G Major, BWV 1007: I. Prélude |
+| Johann Sebastian Bach | Orchestral Suite No. 3 in D Major, BWV 1068: II. Air Air on the G string |
 | Johann Sebastian Bach | Toccata and Fugue in D minor |
-| John Denver | "Take Me Home, Country Roads - Original Version" |
+| John Denver | Take Me Home, Country Roads - Original Version |
 | John Denver | Annie's Song |
 | John Denver | Aspenglow |
 | John Denver | Sunshine On My Shoulders |
@@ -370,7 +370,7 @@ Submit pull requests if anything can be fixed, and also any correction to `gold.
 | Joni Mitchell | The Circle Game |
 | Journey | Faithfully |
 | Journey | Open Arms |
-| Judy Collins | "So Early, Early in the Spring" |
+| Judy Collins | So Early, Early in the Spring |
 | Judy Collins | First Boy I Loved |
 | Julie London | Fly Me To The Moon (In Other Words) |
 | KISS | Beth |
@@ -409,16 +409,16 @@ Submit pull requests if anything can be fixed, and also any correction to `gold.
 | Louis Armstrong | Dream A Little Dream Of Me |
 | Louis Armstrong | What A Wonderful World |
 | Ludovico Einaudi | Nuvole Bianche |
-| Ludwig van Beethoven | "Bagatelle No. 25 in A Minor, WoO 59 ""Für Elise""" |
-| Ludwig van Beethoven | "Beethoven: 'Ode To Joy' From Symphony No. 9 In D Minor 'Choral', Op. 125" |
+| Ludwig van Beethoven | Bagatelle No. 25 in A Minor, WoO 59 Für Elise |
+| Ludwig van Beethoven | Beethoven: 'Ode To Joy' From Symphony No. 9 In D Minor 'Choral', Op. 125 |
 | Låpsley | Painter (Valentine) |
-| Léo Delibes | "The Flower Duet (From ""Lakmé"")" |
+| Léo Delibes | The Flower Duet (From Lakmé) |
 | M83 | Outro |
 | Mac Miller | 2009 |
 | Mac Miller | Come Back to Earth |
 | Mad Season | River of Deceit |
 | Mariah Carey | Without You |
-| Mark Lowry | "Mary, Did You Know?" |
+| Mark Lowry | Mary, Did You Know? |
 | Marty Robbins | Ribbon Of Darkness |
 | Marvin Berry | Earth Angel (Will You Be Mine?) |
 | Massive Attack | Dissolved Girl |
@@ -443,12 +443,12 @@ Submit pull requests if anything can be fixed, and also any correction to `gold.
 | Morcheeba | Who Can You Trust? |
 | Morrissey | Everyday Is Like Sunday - 2011 Remaster |
 | Natalia Lafourcade | El lugar correcto |
-| Nicole Kidman | "Come What May - From ""Moulin Rouge"" Soundtrack" |
+| Nicole Kidman | Come What May - From Moulin Rouge Soundtrack |
 | Norman Connors | Love from the Sun |
 | Prince | Nothing Compares 2 U (feat. Rosie Gaines) - Live |
-| Pyotr Ilyich Tchaikovsky | "Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 13, Waltz of the Flowers" |
+| Pyotr Ilyich Tchaikovsky | Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 13, Waltz of the Flowers |
 | R.E.M. | Everybody Hurts |
-| Radiohead | "There, There" |
+| Radiohead | There, There |
 | Radiohead | All I Need |
 | Radiohead | Daydreaming |
 | Radiohead | Decks Dark |
@@ -502,9 +502,9 @@ Submit pull requests if anything can be fixed, and also any correction to `gold.
 | Sigur Rós | Untitled #3 - Samskeyti |
 | Sigur Rós | Varúð |
 | Silversun Pickups | Lazy Eye |
-| Simon & Garfunkel | "For Emily, Whenever I May Find Her - Live in St. Louis, MO - November 1969" |
-| Simon & Garfunkel | "Mrs. Robinson - From ""The Graduate"" Soundtrack" |
-| Simon & Garfunkel | "Wednesday Morning, 3 A.M." |
+| Simon & Garfunkel | For Emily, Whenever I May Find Her - Live in St. Louis, MO - November 1969 |
+| Simon & Garfunkel | Mrs. Robinson - From The Graduate Soundtrack |
+| Simon & Garfunkel | Wednesday Morning, 3 A.M. |
 | Simon & Garfunkel | America |
 | Simon & Garfunkel | April Come She Will |
 | Simon & Garfunkel | Bleecker Street |
@@ -544,7 +544,7 @@ Submit pull requests if anything can be fixed, and also any correction to `gold.
 | Sufjan Stevens | Mystery of Love (From the Original Motion Picture “Call Me by Your Name”) |
 | Supertask | Healing |
 | Sweet Sweet Loverboy | The Love Of My Life |
-| TOOL | "10,000 Days (Wings Pt 2)" |
+| TOOL | 10,000 Days (Wings Pt 2) |
 | TOOL | Sober |
 | TOOL | Wings For Marie (Pt 1) |
 | TOTO | I'll Be Over You |
@@ -557,7 +557,7 @@ Submit pull requests if anything can be fixed, and also any correction to `gold.
 | The Appleseed Cast | A Dream For Us |
 | The Band | Atlantic City |
 | The Band | When I Paint My Masterpiece - Remastered |
-| The Beach Boys | "Caroline, No - Mono" |
+| The Beach Boys | Caroline, No - Mono |
 | The Beach Boys | God Only Knows - Mono |
 | The Beach Boys | Good Vibrations - Remastered 2001 |
 | The Beach Boys | I Just Wasn't Made For These Times - Mono |
@@ -567,7 +567,7 @@ Submit pull requests if anything can be fixed, and also any correction to `gold.
 | The Beach Boys | Sloop John B |
 | The Beach Boys | Wouldn’t It Be Nice |
 | The Beach Boys | You Still Believe In Me - Mono |
-| The Beatles | "Here, There And Everywhere - Remastered 2009" |
+| The Beatles | Here, There And Everywhere - Remastered 2009 |
 | The Beatles | Across The Universe - Remastered 2009 |
 | The Beatles | All You Need Is Love - Remastered 2009 |
 | The Beatles | Because - Remastered 2009 |
@@ -614,7 +614,7 @@ Submit pull requests if anything can be fixed, and also any correction to `gold.
 | The Fray | How to Save a Life |
 | The Goo Goo Dolls | Black Balloon |
 | The Goo Goo Dolls | Iris |
-| The Hollies | "He Ain't Heavy, He's My Brother" |
+| The Hollies | He Ain't Heavy, He's My Brother |
 | The Killers | Shadowplay |
 | The King's Singers | You are the new day |
 | The La's | There She Goes |
@@ -633,7 +633,7 @@ Submit pull requests if anything can be fixed, and also any correction to `gold.
 | The Shins | New Slang - 2021 Remaster |
 | The Smashing Pumpkins | 1979 - Remastered 2012 |
 | The Smashing Pumpkins | Mellon Collie And The Infinite Sadness - Remastered 2012 |
-| The Smiths | "Please, Please, Please, Let Me Get What I Want - 2011 Remaster" |
+| The Smiths | Please, Please, Please, Let Me Get What I Want - 2011 Remaster |
 | The Smiths | Asleep |
 | The Smiths | Stop Me If You Think You've Heard This One Before - 2011 Remaster |
 | The Smiths | There Is a Light That Never Goes Out - 2011 Remaster |
@@ -668,7 +668,7 @@ Submit pull requests if anything can be fixed, and also any correction to `gold.
 | Weyes Blood | Picture Me Better |
 | When In Rome | The Promise |
 | Whitney Houston | I Will Always Love You |
-| Wolfgang Amadeus Mozart | "Requiem in D minor, K.626: 3. Sequentia: Lacrimosa" |
+| Wolfgang Amadeus Mozart | Requiem in D minor, K.626: 3. Sequentia: Lacrimosa |
 | Yazoo | Only You |
 | Yazoo | Situation |
 | Yazoo | Winter Kills |
