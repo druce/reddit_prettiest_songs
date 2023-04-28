@@ -11,7 +11,7 @@ Use OpenAI API to do entity extraction of all the songs from [this Reddit thread
 
 To run the Jupyter notebook you will need to sign up for those 3 APIs, and put IDs and secrets in a `.env` file similar to `dot-env-template`.
 
-Submit pull requests if anything can be fixed, and also any correction to `gold.csv` which was the final file after some manual scrubbing, but still had some unresolvable songs or ones that didn't resolve correctly.
+Submit pull requests if anything can be fixed, and also any correction to `gold.csv` which was the final file after some manual scrubbing, but still had some songs that weren't find via Spotify search or where wrong song was returned.
 
 | artist | track |
 | :------ |:------ |
