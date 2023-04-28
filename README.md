@@ -13,8 +13,8 @@ To run the Jupyter notebook you will need to sign up for those 3 APIs, and put I
 
 Submit pull requests if anything can be fixed, and also any correction to `gold.csv` which was the final file after some manual scrubbing, but still had some unresolvable songs or ones that didn't resolve correctly.
 
-| :artist | :track |
-| ------ |------ |
+| artist | track |
+| :------ |:------ |
 | 311 | Amber |
 | A Perfect Circle | 3 Libras |
 | A Perfect Circle | Blue |
