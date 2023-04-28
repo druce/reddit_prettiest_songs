@@ -1,6 +1,6 @@
 # reddit_prettiest_songs
 
-Use OpenAI API to do entity extraction of all the songs from [this Reddit thread](https://www.reddit.com/r/AskReddit/comments/12viv4v/what_is_the_prettiest_song_you_ever_heard_in_your/) and create a Spotify playlist with ~700 songs
+Use OpenAI API to do entity extraction of all the songs from [this Reddit thread](https://www.reddit.com/r/AskReddit/comments/12viv4v/what_is_the_prettiest_song_you_ever_heard_in_your/) and create a [Spotify playlist](https://open.spotify.com/playlist/08YFkbtTV6GBfNtjJ4PHDu?si=753676632a9b47c6) with ~600+ songs
 
  - Use Reddit [PRAW API](https://praw.readthedocs.io/en/stable/) to download all the comments (with [Reddit API key](https://www.reddit.com/prefs/apps))
  - Use [OpenAI API](https://platform.openai.com/docs/quickstart) with a prompt like, extract all the songs from this text to CSV (with [OpenAI API key](https://platform.openai.com/account/api-keys))
