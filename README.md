@@ -5,7 +5,7 @@ Use OpenAI API to do entity extraction of all the songs from this [huge Reddit t
  - Use Reddit [PRAW API](https://praw.readthedocs.io/en/stable/) to download all the comments (with [Reddit API key](https://www.reddit.com/prefs/apps))
  - Use [OpenAI API](https://platform.openai.com/docs/quickstart) with a prompt like, extract all the songs from this text to CSV (with [OpenAI API key](https://platform.openai.com/account/api-keys))
  - Use [Spotify API](https://developer.spotify.com/documentation/web-api/reference/add-tracks-to-playlist) with [Spotipy](https://spotipy.readthedocs.io/en/2.22.1/#examples) to make a playlist (with [Spotify API key](https://developer.spotify.com/documentation/web-api/tutorials/getting-started))
- - Needed a bit of scrubbing, but about 1 day of work, wouldn't have been possible to do a 700-song playlist manually without a team of Mechanical Turks or something
+ - Needed a bit of scrubbing, but about 1 day of work, wouldn't have been possible to do a 900-song playlist manually without a team of Mechanical Turks or something
  - Possible enhancements: Could prompt ChatGPT on a per-comment basis and save a file for each comment's extracted songs, make it easier to track down what OpenAI gets wrong, have a resumable, retryable, repeatable process.
  - Could get the reply karma score and save it, rank the songs by sum(mention x reply karma)
  - Could make a Reddit bot that people could summon to extract all the songs
