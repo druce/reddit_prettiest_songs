@@ -1,1127 +1,1559 @@
-"artist","song_title"
-"Don McLean","Vincent (Starry, Starry Night)"
-"Lord Huron","The night we met"
-"Simon & Garfunkel","Scarborough Fair"
-"Neil Young","Harvest Moon"
-"John Denver","Annie’s Song"
-"Joni Mitchell","Both Sides Now"
-"Etta James","At last"
-"Sigur Ros","Hoppipolla"
-"Jim Croce","Time in a Bottle"
-"The Cure","Just like heaven"
-"Israel Kamakawiwoʻole","Over the Rainbow/Wonderful World"
-"Billy Joel","Vienna"
-"Elton John","Your Song"
-"Simon and Garfunkel","April come she will"
-"Death Cab for Cutie","I Will Follow You Into the Dark"
-"Massive Attack","Teardrop"
-"Ben E. King","Stand By Me"
-"The Beach Boys","God only knows"
-"Mozart","Lacrimosa from Mozart’s Requiem K.626"
-"Cindy Lauper","Time after time"
-"The Cranberries","Dreams"
-"Fleetwood Mac","Everywhere"
-"The Smiths","Please, Please, Please Let Me Get What I Want"
-"Pachelbel","Pachelbel's Greatest Hit"
-"Emerson, Lake, and Palmer","Lucky Man"
-"Radiohead","Let Down"
-"Nine Inch Nails","A Warm Place"
-"The Band","Atlantic City"
-"Explosions in the Sky","Your Hand in Mine"
-"Alison Krauss & Union Station","The Lucky One"
-"Damien Rice","The Blower's Daughter"
-"Yeah Yeah Yeahs","Maps"
-"Max Richter","On the Nature of Daylight"
-"Hozier","Like Real People Do"
-"Karen Carpenter","(They Long to Be) Close to You"
-"Crosby, Stills, Nash & Young","Helplessly Hoping"
-"Foo Fighters","Everlong (Acoustic)"
-"AlphaVille","Forever Young"
-"Harry Waters Jr., Marvin Berry, and Starlighters","Earth Angel (Will You Be Mine)"
-"Queensryche","Silent Lucidity"
-"Chris Stapleton","Traveller"
-"Vince Gill","Go Rest High on That Mountain"
-"Leon Bridges","River"
-"Louis Armstrong","What a Wonderful World"
-"Erik Satie","Gymnopedie No.1"
-
-"artist","song_title"
-"George Harrison","While My Guitar Gently Weeps"
-"Mick Hucknall & Simply Red","Holding Back the Years"
-"Mac Miller","2009"
-"Cat Stevens","Morning Has Broken"
-"Heart","These Dreams"
-"The Moody Blues","Nights in White Satin"
-"Grateful Dead","Ripple"
-"Straylight Run","Existentialism On Prom Night"
-"Allison Kraus","When You Say Nothing at All"
-"The Flower Duet",""
-"Alice in Chains","Nutshell"
-"The Beatles","Yesterday"
-"The Beatles","The Long and Winding Road"
-"The Beatles","Golden Slumbers"
-"Led Zeppelin","The Rain Song"
-"Enya","Boadicea"
-"The Verve","Bittersweet Symphony"
-"The Cure","Plainsong"
-"Yaz","Only You"
-"Johann Sebastian Bach","Jesu, Joy of Man's Desiring"
-"Tori Amos","Little Earthquakes"
-"Sinead O'Connor","Troy"
-"Pearl Jam","Black"
-"Fleetwood Mac","Silver Springs"
-"The Mamas and the Papas","Dream a Little Dream"
-"Gordon Lightfoot","The Wreck of the Edmund Fitzgerald"
-"Ray LaMontagne","Jolene"
-"Radiohead","Reckoner"
-"The Beatles","The Long and Winding Road"
-"Yiruma","River Flows in You"
-"John Denver","Annie's Song"
-"Tori Amos","A Sorta Fairytale"
-"Queensrÿche","Silent Lucidity"
-"Roberta Flack","First Time Ever I Saw Your Face"
-"Coldplay","Fix You"
-"The Carpenters","We've Only Just Begun"
-"George Michael","Careless Whisper"
-"Bon Iver","Holocene"
-"Cat Stevens","The Wind"
-"The Beatles","In My Life"
-"Sigur Rós","Hoppípolla"
-"Coldplay","Clocks"
-"The Smiths","There Is a Light That Never Goes Out"
-"Loggins & Messina","Danny's Song"
-"The Beatles","Here Comes the Sun"
-"Anne Murray","You Needed Me"
-"Black Pumas","Colors"
-"The Beatles","She's Leaving Home"
-"Giacomo Puccini","Un Bel Di Vedremo"
-"Pearl Jam","Just Breathe"
-"Imogen Heap","Hide and Seek"
-"Pink Floyd","The Great Gig in the Sky"
-"Tracy Chapman","Fast Car"
-"Sophie B. Hawkins","As I Lay Me Down"
-"Johann Pachelbel","Canon in D Major"
-"Sinead O'Connor","Nothing Compares 2 U"
-"The Sundays","Here's Where the Story Ends"
-"Frédéric Chopin","Nocturne No. 2 in E-Flat Major, Op. 9 No. 2"
-"Snow Patrol","Chasing Cars"
-"Fleetwood Mac","Landslide"
-"Imogen Heap","Goodnight and Go"
-"Dan Fogelberg","Longer Than"
-"Franz Schubert","Ave Maria"
-"Coldplay","The Scientist"
-"The Beach Boys","God Only Knows"
-"Ludwig van Beethoven","Ode to Joy"
-"Journey","Faithfully"
-"The Cranberries","Linger"
-"Sting","Fields of Gold"
-"Gary Jules","Mad World"
-"Christine McVie","Over My Head"
-"Simon & Garfunkel","The Sound of Silence"
-"Etta James","I'd Rather Go Blind"
-"Tina Turner","The Best"
-"America","A Horse with No Name"
-"Goo Goo Dolls","Iris"
-"Pearl Jam","Yellow Ledbetter"
-"Andrea Bocelli","Con te partirò"
-"Frank Zappa","Watermelon in Easter Hay"
-"Pink Floyd","Wish You Were Here"
-"Don McLean","Vincent"
-
-"artist","song_title"
-"Led Zeppelin","Rain Song"
-"Stevie Ray Vaughan","Lenny"
-"Pink Floyd","The Great Gig in the Sky"
-"Regina Spektor","Fidelity"
-"Sleeping At Last","Saturn"
-"Jim Croce","Time in a Bottle"
-"The Eagles","Seven Bridges Road"
-"Al Stewart","Year of the Cat"
-"Cyndi Lauper","Time After Time"
-"The Smashing Pumpkins","1979"
-"The Cure","Just Like Heaven"
-"Elvis","Can't Help Falling in Love"
-"Queen","Somebody to Love"
-"Minnie Riperton","Loving You"
-"Eva Cassidy","Fields of Gold"
-"Greg Brown","Spring Wind"
-"The Sunday's","Wild Horses"
-"Les Miserables","I Dreamed a Dream"
-"Massive Attack","Teardrop"
-"Jose Gonzalez","Teardrop"
-"The King's Singers","You Are The New Day"
-"Leo Delibes","Lakme"
-"John Denver","Annie's Song"
-"Seal","Kiss from a Rose"
-"Stephen Sondheim","Send in the Clowns"
-"Tool","Sober"
-"U2","Where the Streets Have No Name"
-"Sting","Shape of My Heart"
-"Jewel","Angels Standing By"
-"Eva Cassidy","Songbird"
-"Ella Fitzgerald","Summertime"
-"Louis Armstrong","Summertime"
-"Orbital","Halcyon On and On"
-"The Smashing Pumpkins","Mellon Collie and the Infinite Sadness"
-"Imogen Heap","Hide and Seek"
-"A-Ha","Take on Me"
-"Boz Scaggs","Harbor Lights"
-"Fleetwood Mac","Songbird"
-"Sixpence None the Richer","Kiss Me"
-"Van Morrison","Into the Mystic"
-"Simon and Garfunkel","The Sound of Silence"
-"Sting","Fields of Gold"
-"Joe Cocker","Up Where We Belong"
-"Jennifer Warnes","Up Where We Belong"
-"Sigur Ros","Hoppipolla"
-"Prince","Purple Rain"
-"K.D. Lang","Hallelujah"
-"The Flaming Lips","Do You Realize"
-"Van Gogh","Vincent"
-"Lily Allen","Somewhere Only We Know"
-"Bee Gees","Inmortality"
-"Bright Eyes","Something Vague"
-"Pachelbel","Canon in D"
-"Ministry","Jesus Built My Hotrod"
-"Israel Kamakawiwo'ole","Somewhere Over the Rainbow/What a Wonderful World"
-"Roy Orbison","In Dreams"
-"Kansas","Dust in the Wind"
-"N/A","Songs My Daughter Made Up"
-"Eric Clapton","Wonderful Tonight"
-"Frank Mills","Music Box Dancer"
-"Nobuo Uematsu","To Zanarkand"
-"Boa","Duvet"
-"N/A","My Name is Preeti and I'm Very Pretty"
-"Johnny Cash","Hurt"
-"Fleetwood Mac","Songbird"
-
-"artist","song_title"
-"Aphex Twin","Avrl 14"
-"Jeremy Soule","Kyne's Peace"
-"VV","Heartfull of Ghosts"
-"Beach House","Myth"
-"Coctaeu Twins","Evangeline"
-"Beach House","PPP"
-"Billy Joel","And So It Goes"
-"Leon Bridges","River"
-"Led Zeppelin","The Rain Song"
-"Sade","Pearls"
-"Marty Robbins","Ribbon of Darkness"
-"Bjork","Yoga"
-"K.D. Lang","Constant Craving"
-"The Rolling Stones","She's a Rainbow"
-"Alice In Chains","Nutshell"
-"Celine Dion and Andrea Bocelli","The Prayer"
-"The Carpenters","Close to You"
-"Final Fantasy X","To Zanarkand"
-"Fleet Foxes","White Winter Hymnal"
-"Crowded House","Don't Dream It's Over"
-"Taylor Swift","Invisible String"
-"Heart","Dreamboat Annie"
-"Des'ree","Kissing You"
-"Israel Kamakawiwoʻole","Over the Rainbow"
-"Jeff Buckley","Hallelujah"
-"Simon and Garfunkel","The Boxer"
-"Eric Clapton","Tears in Heaven"
-"Family of the Year","Hero"
-"Sia","Breathe Me"
-"Alicia Keys","If I Ain't Got You"
-"Paul Maurreat","Love is Blue"
-"Beach Boys","God Only Knows"
-"Crosby Stills Nash and Young","Our House"
-"Claude Debussy","Clair de Lune"
-"Annie Lennox","Into the West"
-"Joe Cocker","You Are So Beautiful"
-"Louie Armstrong","What A Wonderful World"
-"Jimmy Eat World","May Angels You In"
-"Frederic Chopin","Nocturne No. 2"
-"Giacomo Puccini","Nessun Dorma"
-"Minnie Riperton","Loving You"
-"Joanna Newsom","Anything"
-"Michael Jackson","Man in the Mirror"
-"Hudson Mohawke","Cbat"
-"Michael Jackson","Human Nature"
-"CHVRCHES","The Mother We Share"
-"Babyface","Every Time I Close My Eyes"
-"U2","One Tree Hill"
-"311","Amber"
-"Rainbow","Catch the Rainbow"
-"Justin Hurwitz","Mia and Sebastian's Theme"
-"Bread","Aubrey"
-"Gustav Holst","Jupiter"
-"Blue Rodeo","Try"
-"Bowser","Peaches"
-"Explosions in the Sky","Your Hand in Mine"
-"The Appleseed Cast","A Dream for Us"
-"Perry Botkin Jr.","Nadia's Theme"
-"Silversun Pickups","Lazy Eye"
-"Bonnie Raitt","I Can't Make You Love Me"
-"Ron Sexsmith","Gold in Them Hills"
-"Peter Gabriel","Book of Love"
-"Arvo Pärt","Spiegel im Spiegel"
-"Shawn Colvin","I Don't Know Why"
-"Bon Iver","Holocene"
-"ABBA","Fernando"
-"When in Rome","The Promise"
-"Brandi Carlisle","The Story"
-"Daft Punk","Touch"
-"James Taylor","You've Got a Friend"
-"The Fray","How to Save a Life"
-"Big Shaq","Man's Not Hot"
-
-"artist","song_title"
-"The Eagles","Desperado"
-"Metallica","Nothing else matters"
-"Boston","Feelin' Satisfied"
-"Jon Bellion","Hand of God"
-"Bill Withers & Grover Washington Jr","Just the two of us"
-"America","Ventura highway"
-"Aurora","Any song"
-"Taylor Swift","ivy"
-"Enya","Only Time"
-"Loreena Mckinnet","Anything"
-"Massive Attack","Teardrop"
-"Led Zeppelin","The Rain Song"
-"The Cardigans","Lovefool"
-"Erykah Badu","Green Eyes"
-"Anderson .paak","Heart don't stand a chance"
-"Radiohead","You're all I need"
-"Beyonce","Plastic off the sofa"
-"The Beatles","Blackbird"
-"The Beatles","and I love her"
-"The Beatles","across the universe"
-"Amy Winehouse","Wake up alone"
-"Daniel Caesar","Best part"
-"Frank Ocean","Pink + white"
-"Portishead","Most songs"
-"Gang Starr","Moment of truth"
-"Incubus","Aqueous transmission"
-"beabadoobee","glue"
-"Loreena McKennitt","Never-Ending Road"
-"Tchaikovsky","Waltz of the Flowers"
-"Saint-Saëns","The Swan (Le Cygne)"
-"Don Mcclean","Vincent"
-"John Denver","Annies Song"
-"Radiohead","Pyramid song"
-"Kate bush","This woman’s work"
-"Etta James","At Last"
-"Soundgarden","Black Hole Sun"
-"Billie Eillish","Ocean Eyes"
-"Frank Sinatra","Fly me to The Moon"
-"Bruce Sprinsteen","Racing in the Streets"
-"Blind Melon","No Rain"
-"Frank Ocean","rushes"
-"John Craigie","I Am California"
-"Queen","Good Old Fashioned Lover Boy"
-"Vaughan Williams","The Lark Ascending"
-"Simon & Garfunkel","Bridge over troubled water"
-"Mum","Green Grass of Tunnel"
-"Brian Eno","An Ending (Ascent)"
-"Animal Collective","banshee beat"
-"Jay Ungar","Ashoken Farewell"
-"REM","Night Swimming"
-"Neil Young","Harvest Moon"
-"Supertask","Healing"
-"Brand New","The Boy Who Blocked His Own Shot"
-"Flying Lotus","Getting There"
-"Aphex Twin","Fingerbib"
-"Pink Floyd","Stay"
-"Pretty Lights","Yellow Bird"
-"The Velvet Underground","Pale Blue Eyes"
-"The La’s","There She Goes"
-"My Chemical Romance","Welcome to the Black Parade"
-"Led Zeppelin","Going to California"
-"The Beatles","Let it be"
-"Enya","Orinoco Flow"
-"Paper Kites","Bloom"
-"The Beatles","Golden Slumbers/Carry That Weight"
-"Jeff Buckley","Hallelujah"
-"The Black Crowes","She Talks to Angels"
-"Nat King Cole","Smile"
-"Sarah McLachlan","Angel"
-"Birdy","Skinny Love"
-"Prince","Purple Rain" 
-"Lana Del Rey","West Coast"
-"Emiliana Torini","Sunny road"
-"Acadian folk song","Evangeline"
-"Blur","Tender"
-"Delibes","Flower duet"
-"The Beatles","Dear Prudence"
-"Joanna Newsom","Sawdust and Diamonds"
-"Keane","Somewhere only we know"
-"Lily Allen","Somewhere only we know"
-"O Magnum Mysterium","O Magnum Mysterium"
-"Patrick Watson","Je te laisserai des mots"
-
-"artist","song_title"
-"Cat Stevens","Trouble"
-"Gordon Lightfoot","Beautiful"
-"Gordon Lightfoot","Her Love’s Return"
-"Joni Mitchell","Help Me"
-"Toto","I’ll Be Over You"
-"Billy Joel","She’s Always A Woman"
-"Climax Blues Band","I Love You"
-"Sundays","You’re Not The Only One I Know"
-"Beatles","In My Life"
-"CSNY","Helplessly Hoping"
-"Harry Chapin","Taxi"
-"Alan Parsons Project","Time"
-"Moody Blues","Nights In White Satin"
-"Jim Croce","Operator"
-"Jim Croce","Lover’s Cross"
-"Judy Collins","First Boy I Loved"
-"Judy Collins","So Early, Early In The Spring"
-"Linda Ronstadt","Long Long Time"
-"James Taylor","Handyman"
-"Led Zeppelin","Rain Song"
-"Loggins & Messina","House On Pooh Corner"
-"Barry Manilow","Could It Be Magic"
-"Elton John","Your Song"
-"Sufjan Stevens","Casimir Pulaski Day"
-"Jeff Buckley","Lover, you should’ve come over"
-"Radiohead","Nude"
-"Neil Young","Natural Beauty"
-"Kurt Cobain","And I love her"
-"Alice in Chains","Nutshell"
-"St Vincent","Strange Mercy"
-"Billy Joel","Vienna"
-"Fiona Apple","I Know"
-"Red Hot Chili Peppers","Wet Sand"
-"Minnie Riperton","Les Fleur"
-"Ray Peterson","Tell Laura I Love Her"
-"John Lennon","Beautiful Boy"
-"REM","Everybody Hurts"
-"Sam Brown","Stop"
-"Jackie DeShannon","What the world needs now is love"
-"Ennio Morricone","Un Amico"
-"ABBA","One of us"
-"ABBA","The winner takes it all"
-"Terrence Jay","One blood"
-"Gary Jules","Mad world"
-"John Legend","All of me"
-"Mayer Hawthorne","All better"
-"Lapsley","Painter (valentine)"
-"Bee Gees","How deep is your love"
-"The Carpenters","Yesterday once more"
-"The OutKast","You may die (intro)"
-"Christophe","Aline"
-"Art Garfunkel","All I know"
-"Elvis Presley","Young and beautiful"
-"Elvis Presley","Can’t help falling in love"
-"The Fugees","Killing me softly"
-"The Beatles","Let it be"
-"Jeff Buckley","Hallelujah"
-"Katie Melua","Dreams on fire"
-"Julie London","The end of the world"
-"Aphex Twin","Avril 14th"
-"Molly Burch","Please be mine"
-"Mariah Carey","Without you"
-"Tom Odell","Another love"
-"Aerosmith","Dream On"
-"Taylor Swift","Labyrinth"
-"Taylor Swift","my tears ricochet"
-"Band of Horses","The Funeral"
-"Phoebe Bridgers","Funeral"
-"Rod Stewart","Maggie"
-"Tim Minchin","cheesy love songs"
-"Lana Del Rey","unknown"
-"Selena","Dreaming of You"
-"The Beatles","Blackbird"
-"Queen","Who Wants to Live Forever"
-"Extreme","More Than Words"
-"Herb Alpert and the Tijuana Brass","Ladyfingers"
-"My Chemical Romance","The light behind your eyes"
-"Louie Armstrong","What a Wonderful World"
-"Fleetwood Mac","Albatross"
-"Elliott Smith","Angeles"
-"Israel Kamakawiwo’ole","Over the rainbow"
-"Samuel Barber","Adagio for strings"
-"Radiohead","Fake plastic trees"
-"Carpenters","Close to You"
-
-"Love of my Life","Queen"
-"Bridge Over Troubled Water","Simon and Garfunkel"
-"What A Wonderful World","Louis Armstrong"
-"Blower's Daughter","Damien Rice"
-"sign of the times","harry styles"
-"Great Gig In the Sky","Pink Floyd"
-"golden hour","JVKE"
-"Never Let Me Go","Virtual Riot"
-"frostbite","Snail's House"
-"Ladies and Gentlemen We Are Floating In Space","Spiritualized"
-"Thank you","Led Zeppelin"
-"over the rainbow","Eva Cassidy"
-"time after time","Eva Cassidy"
-"fields of gold","Eva Cassidy"
-"songbird","Eva Cassidy"
-"August","Taylor Swift"
-"Aphex Twin - Rhubarb","Aphex Twin"
-"Aphex Twin - Lichen","Aphex Twin"
-"Aphex Twin - Avril 14th","Aphex Twin"
-"Young and beautiful","Lana Del Rey"
-"The Lakes","Taylor Swift"
-"Never Tear Us Apart","INXS"
-"Into My Arms","Nick Cave & The Bad Seeds"
-"Collide","Howie Day"
-"Desperado","Eagles"
-"The girl from Ipanema","Unknown"
-"Maybe somewhere over the rainbow","Iz Kamakawiwoʻole"
-"Disasterpiece","Unknown"
-"Beauty School","Deftones"
-"I’ll Follow the Sun","Paul McCartney"
-"Pilgrimage","Ichiko Aoba"
-"Avril 14th/QKThr","Aphex Twin"
-"10 Mile Stereo","Beach House"
-"Lover's Carvings","Bibio"
-"Unison","Bjork"
-"Deep Blue Day","Brian Eno"
-"Pendulum","FKA Twigs"
-"Wading Waist High in Water","Fleet Foxes"
-"Sunblind","Fleet Foxes"
-"Ivy","Frank Ocean"
-"White Ferrari","Frank Ocean"
-"Rushes","Frank Ocean"
-"On Melancholy Hill","Gorillaz"
-"To Binge","Gorillaz"
-"Immunity","Jon Hopkins"
-"Wuthering Heights","Kate Bush"
-"Nude","Radiohead"
-"Daydreaming","Radiohead"
-"El Lugar Correcto","Natalis Lafourcade"
-"Mystery of Love","Sufjan Stevens"
-"Ubi Caritas","Maurice Durufle"
-"Concerning Hobbits","Guitars and Dragons"
-"The full midnight sonata","Unknown"
-"Ode to joy","Unknown"
-"Cliffs of dover","Eric Johnston"
-"Night window","Thomas Newman"
-"Dead Civilization","Jed Kurzel"
-"Wallace","Hans Zimmer and Benjamin Wallfisch"
-"The Animus","Jed Kurzel"
-"Exogenesis Symphony 1-3","Muse"
-"Gortoz A Ran","Denez Prigent"
-"Just Like You Imagined","Nine Inch Nails"
-"Wings for Marie Parts 1&2","Tool"
-"Linger","The Cranberries"
-"Himitsu Kichi","Kozue Takada"
-"One more light","Linkin park"
-"you didn't have to cut me off","Unknown"
-"If you’re not the one","Daniel beddingfield"
-"Good enough","Evanescence"
-"Porcelain","Moby"
-"Teardrop","Massive Attack"
-"Symphonia IX","grimes"
-"See you again","Nasko"
-"Hyperballad","Bjork"
-"Jacking it in San Diego","Unknown"
-"Here comes a thought","Steven Universe"
-"space song","Beach House"
-"Ghost","Indigo Girls"
-"Old and Wise","Alan Parsons Project"
-"Silence and I","Alan Parsons Project"
-"Love is like a butterfly","Dolly Parton"
-"All in Love is Fair","Stevie Wonder"
-"Rain Song","Led Zeppelin"
-"No Lies Just Love","Bright Eyes"
-
-"artist","song_title"
-"The Flaming Lips","Do You Realize"
-"Porcupine Tree","Lazarus"
-"no songs found"
-
-"artist","song_title"
-"RÜFÜS DU SOL","Innerbloom"
-"Rufus Wainwright","Hallelujah"
-"The Irrepressibles","In This Shirt"
-"Radical Face","Always Gold"
-"The Album Leaf","Window"
-"Guillemots","Little Bear"
-"Sleeping At Last","Mercury"
-"Oliver Tank","Last Night I Heard Everything in Slow Motion"
-"Sufjan Stevens","Visions of Gideon"
-"Jaakko Aukusti","What If All Else Fails"
-"Andrew Bird","Beyond the Valley of the Three White Horses"
-"Andrew Bird","Three White Horses"
-"Nils Frahm","Familiar"
-"Max Richter, Daniel Hope, Konzerthaus Kammerorchester Berlin, André de Ridder","Richter: Spring 1"
-"Max Elto","Citylights"
-"Víg Mihály","Öreg"
-"Rose Betts","Song to the Siren"
-"Patrick Watson","Je te laisserai des mots"
-"Ólafur Arnalds","Happiness Does Not Wait"
-"ONR, Sarah Barthel, Phantogram","Must Stop (Falling in Love) [feat. Sarah Barthel of Phantogram]"
-"Amen Dunes","Song to the Siren"
-"Big Thief","Mary"
-"The Cinematic Orchestra, Patrick Watson","To Build A Home"
-"Sleeping At Last","Saturn"
-"Sleeping At Last, Tim Fain","Saturn"
-"Ursine Vulpine, Annaca","Wicked Game"
-"Message To Bears","You Are a Memory"
-"The Cinematic Orchestra","That Home"
-"Dan Romer, Benh Zeitlin","End of the World"
-"Adrián Berenguer","Moonlight"
-"Native","By and By"
-"Israel Kamakawiwoʻole","Somewhere Over the Rainbow"
-"The Paper Kites","Bloom"
-"John Denver","Leaving On A Jet Plane"
-"Cass Elliot","Leaving On A Jet Plane"
-"Dawid Podsiadlo","Let You Down"
-"This Mortal Coil","Song to the Siren"
-"David Bowie","As the World Falls Down"
-"Louis Armstrong","What A Wonderful World"
-
-"artist","song_title"
-"Sinead O'Connor","Nothing Compares to You"
-"Guns N Roses","November Rain"
-"Dave Matthews Band","Crash into Me"
-"Jeff Buckley","Hallelujah"
-"Evanescence","My Immortal"
-"Kanye West","Runaway"
-"Evanescence","Even In Death"
-"Lana del Rey","Salvatore"
-"Chris Stapleton","Tennessee Whiskey"
-"U2","MLK"
-"The Honeydrippers","Sea Of Love"
-"Lisa Gerrard","Sanvean"
-"Thievery Corporation","La Femme Parallel"
-"Tenacious D","Fuck Her Gently"
-"Kanye West","24"
-"Harry Chapin","Cats in the Cradle"
-"Mark Lowry","Mary Did You Know"
-"Katamari Damacy OST","Cherry blossom color season"
-"Enya","Anything"
-"Coldplay","A Sky Full of Stars"
-"Taylor Swift","Epiphany"
-"Eileen","Aniron"
-".Hack//SIGN","Key of the Twilight"
-"Guild Wars 2","Fear not This Night"
-"Black Shroud Serenity","Black Shroud Serenity"
-"Kingdom Hearts","Vector to the Heavens"
-"Various Artists","Elder Scrolls: Oblivion Calming Music"
-"FF6","Terra's Theme"
-"Erik Satie","Gnossienne No. 1"
-
-"The Beatles","Yesterday"
-"Eagles","Hotel California"
-"Erik Satie","Trois Gymnopédies"
-"Declan O'Rourke","Galileo"
-"Don McLean","Castles in the Air"
-"Don McLean","Crying"
-"Lord Huron","Empty Chairs"
-"Lord Huron","Meet Me In The Woods"
-"Lord Huron","When the Night is Over"
-"Lord Huron","I Lied"
-"Lord Huron","Ghost On The Shore"
-"Bon Iver","Holocene"
-"Ed Sheeran","Photograph"
-"James Blake","Vincent"
-"James Taylor","Fire and Rain"
-"Leonard Cohen","Hallelujah"
-"Radiohead","Fake Plastic Trees"
-"Red Hot Chili Peppers","Scar Tissue"
-"The National","About Today"
-"The Paper Kites","Bloom"
-"The Postal Service","Such Great Heights"
-"The Smiths","There Is a Light That Never Goes Out"
-"Tom Petty","Free Fallin'"
-"Vance Joy","Riptide"
-"No songs found"
-
-"Lord Huron","Meet Me in The Woods"
-"Fleet Foxes","Mykonos"
-"Fleet Foxes","Helplessness Blues"
-"Fleet Foxes","Blue Ridge Mountains"
-"Fleet Foxes","Tiger Mountain Peasant Song"
-"Simon and Garfunkel","The Boxer"
-"Simon and Garfunkel","The 59th Street Bridge Song"
-"Simon and Garfunkel","America"
-"Simon and Garfunkel","Bridge Over Troubled Water"
-"Simon and Garfunkel","Scarborough Fair"
-"Simon and Garfunkel","For Emily Wherever I May Find Her"
-"Cat Stevens","Moon Shadow"
-"The Sound of Silence","Simon and Garfunkel"
-"Scarborough Fair","Simon and Garfunkel"
-
-Note: The input did not contain any explicit song titles, but rather mentions of artists and songs. The extracted song titles are based on the context of the input and may not be comprehensive.
-
-"artist","song_title"
-"Kate Bush","This Woman's Work"
-"Simon & Garfunkel","The Only Living Boy In New York"
-"Disturbed","The Sound of Silence"
-"Celia Pavey","Vera Blue"
-"Paul Simon","Kathy's Song"
-"My Dying Bride","Kathy's Song"
-"Sarah Brightman","Kathy's Song"
-"Queensryche","Kathy's Song"
-"Yoshida Brothers","Kathy's Song"
-"Neil Young","Harvest Moon"
-"Lord Huron","Harvest Moon"
-"Joni Mitchell","Helpless"
-"Beck","Everybody's Gotta Learn Sometime"
-"John Denver","Annie's Song"
-"John Denver","Aspenglow"
-
-"artist","song_title"
-"John Denver","Annie's Song"
-"Joni Mitchell","Little Green"
-"Joni Mitchell","Both Sides Now"
-"Etta James","At Last"
-"Samuel Barber","Adagio for Strings"
-"The Cure","Plainsong"
-"Sigur Ros","Svefn-g-englar"
-"Sigur Ros","Saeglopur"
-"Sigur Ros","Ara Batur"
-
-"artist","song_title"
-"Sigur Ros","Flugufrelsarinn"
-"Sigur Ros","Hoppipolla"
-"Sigur Ros","Untitled #1"
-"Sigur Ros","Varúõ"
-"Sigur Ros","The Nothing Song"
-"Jónsi & Alex","Riceboy Sleeps"
-"Jim Croce","Operator (That's Not the Way It Feels)"
-"The Beatles","In My Life"
-"The Beatles","Here Comes the Sun"
-"The Beatles","Something"
-
-"artist","song_title"
-"The Beatles","In My Life"
-"Johnny Cash","In My Life"
-"The Beatles","The Long and Winding Road"
-"Claude Debussy","Clair de Lune"
-"Flight Facilities","Clair de Lune"
-"Claude Debussy","Arabesque No. 1"
-no songs found
-
-"The Beatles","Golden Slumber"
-"Mama Cass","Dream a Little Dream of Me"
-"Johnny Cash","Hurt"
-no songs found
-
-"artist","song_title"
-"Gordon Lightfoot","Sundown"
-"Gordon Lightfoot","Beautiful"
-"Jim Croce","Operator"
-"Jim Croce","Rapid Roy Speedball Tucker"
-"Jim Croce","Alabama Rain"
-"Jim Croce","One Less Pair of Footsteps"
-"Jim Croce","Time in a Bottle"
-"Jim Croce","Lover's Cross"
-"Jim Croce","Photographs and Memories"
-"The Cure","Pictures of You"
-"The Cure","Close to Me"
-"The Cure","A Night Like This"
-"The Cure","From the Edge of the Deep Green Sea"
-"The Cure","Just Like Heaven"
-"The Cure","Lovesong"
-"The Cure","Lullaby"
-"The Cure","Letter to Elise"
-"The Cure","The Same Deep Water As You"
-"The Cure","Plainsong"
-"The Cure","A Thousand Hours"
-no songs found
-
-"artist","song_title"
-"Israel Kamakawiwo'ole","Over the Rainbow/What a Wonderful World"
-"Harold Arlen","Somewhere Over the Rainbow"
-"Madeleine Peyroux","La Vie En Rose"
-"Edith Piaf","La Vie En Rose"
-"Lady Gaga","La Vie En Rose"
-"Aphex Twin","Avril 14th"
-"Elton John","Your Song"
-"Ewan McGregor","Your Song"
-
-"artist","song_title"
-"Elton John","Tiny Dancer"
-"Elton John","Your Song"
-"Elton John","The One"
-"Simon & Garfunkel","Bridge Over Troubled Water"
-"Simon & Garfunkel","The Boxer"
-"Simon & Garfunkel","For Emily, Whenever I May Find Her"
-"Simon & Garfunkel","Wednesday Morning, 3 A.M."
-"Simon & Garfunkel","Only Living Boy in New York"
-"Death Cab for Cutie","What Sarah Said"
-"Death Cab for Cutie","I Will Follow You Into the Dark"
-"Death Cab for Cutie","Transatlanticism"
-"Death Cab for Cutie","Soul Meets Body"
-"Massive Attack","Teardrop"
-
-"artist","song_title"
-"The Beach Boys","God Only Knows"
-"The Beach Boys","In My Room"
-"The Beach Boys","Surf's Up"
-"Wolfgang Amadeus Mozart","Lacrimosa"
-"Cyndi Lauper","Time After Time"
-"The Cranberries","Linger"
-no songs found
-
-"artist","song_title"
-"The Cranberries","Dreams"
-"Otis Redding","(Sittin' On) The Dock of the Bay"
-"Jeff Buckley","Hallelujah"
-"Jeff Buckley","Grace"
-"Jeff Buckley","Corpus Christi Carol"
-
-"The Hollies","He Ain't Heavy"
-"Elvis Presley","Bridge Over Troubled Water"
-"Simon and Garfunkel","The Sound of Silence"
-"Ben E. King","Stand By Me"
-"The Beatles","Yesterday"
-"Eagles","Hotel California"
-"Mazzy Star","Into Dust"
-"Mazzy Star","Flowers in December"
-"John Frusciante","How To Disappear Completely"
-"Dire Straits","Brothers in Arms"
-"The Killers","Romeo and Juliet"
-"Mark Knopfler","Telegraph Road"
-"INXS","Beautiful Girl"
-
-"artist","song_title"
-"INXS","Never Tear Us Apart"
-"Peter Gabriel","The Book Of Love"
-"Enya","Caribbean Blue"
-"Enya","Only Time"
-"Enya","Book of Days"
-"Jeff Buckley","Hallelujah"
-"The Sundays","Wild Horses"
-"The Smiths","Please Please Please, Let Me Get What I Want"
-"Jimi Hendrix","Little Wing"
-
-"artist","song_title"
-"Derek and the Dominos","Layla"
-"The Cure","Disintegration"
-"Enya","May it Be"
-"Hans Zimmer","This Land"
-"Hans Zimmer","Tennessee"
-"Hans Zimmer","Chevaliers de Sangreal"
-"Radiohead","Nude"
-"Radiohead","Pyramid Song"
-"Radiohead","The Tourist"
-"Radiohead","Motion Picture Soundtrack"
-"Patsy Cline","Walking After Midnight"
-"John Prine","Christmas in Prison"
-"Peter Gabriel","In Your Eyes"
-"The Magnetic Fields","The Book of Love"
-"Sarah McLachlan","Angel"
-
-"artist","song_title"
-"The Magnetic Fields","I Don't Want to Get Over You"
-"Enya","May it Be"
-"Enya","Dreams"
-"Fleetwood Mac","Little Lies"
-"The Smiths","That Joke Isn't Funny Anymore"
-"Explosions in the Sky","Your Hand in Mine"
-"Radiohead","Let Down"
-"Nine Inch Nails","A Warm Place"
-"Grateful Dead","They Love Each Other"
-"Jerry Garcia","Reuben and Cherise"
-"Van Morrison","Into the Mystic"
-"Israel Kamakawiwo'ole","Somewhere Over the Rainbow"
-
-"artist","song_title"
-"Israel Kamakawiwoʻole","Somewhere Over the Rainbow/Wonderful World"
-"Louis Armstrong","Wonderful World"
-"The Carpenters","Close to You"
-"The Carpenters","Superstar"
-"Dave Grohl/Foo Fighters","Everlong"
-"CSNY","Helplessly Hoping"
-"When In Rome","The Promise"
-
-"artist","song_title"
-"Queensryche","Silent Lucidity"
-"No songs found"
-
-"artist","song_title"
-"Jar","unknown"
-"Rain When i Die","unknown"
-"Nutshell","unknown"
-"Such Great Heights","unknown"
-"Flightless bird","unknown"
-"Sixteen maybe less","unknown"
-"The Trapeze Swinger","unknown"
-"Boy With A Coin","unknown"
-"Upward Over the Mountain","unknown"
-"Naked as we came","unknown"
-"Trapeze Swinger","unknown"
-"Passing Afternoon","unknown"
-"Golden Slumbers","unknown"
-"Carry That Weight","unknown"
-"The End","unknown"
-"Long and Winding Road","unknown"
-"Julia","unknown"
-"Let it be","unknown"
-"Yesterday","unknown"
-"Blackbird","unknown"
-"Long Long Long","unknown"
-"Here, There and Everywhere","unknown"
-"The Drugs Don’t Work","unknown"
-"Untitled","unknown"
-"Lovesong","unknown"
-"Winter","unknown"
-"Pretty Good Year","unknown"
-"Putting the damage on","unknown"
-"A Sorta Fairytale","unknown"
-"Little Earthquakes","unknown"
-"Josephine","unknown"
-"Shelter","unknown"
-"Til the Sky Turns Black","unknown"
-"Can I Stay","unknown"
-"9 pound hammer","unknown"
-"Yesterday","unknown"
-
-"artist","song_title"
-"Yiruma","May Be"
-"Karen Carpenter","(They Long to Be) Close to You"
-"The Beatles","Julia"
-"Anne Murray","You Needed Me"
-"Giacomo Puccini","Un Bel Di Vedremo"
-"Donna Lewis","I Love You Always Forever"
-"Prince","Nothing Compares 2 U"
-"Chris Cornell","Nothing Compares 2 U"
-"The Sundays","Here's Where the Story Ends"
-"The Rolling Stones","Wild Horses"
-"Imogen Heap","Hide and Seek"
-"Andrea Bocelli","Con Te Partirò (Time to Say Goodbye)"
-"The Beatles","Let It Be"
-"The Beatles","Here Comes the Sun"
-
-"artist","song_title"
-"Eagles","Hotel California"
-"Israel Kamakawiwoʻole","Somewhere Over the rainbow/wonderful world"
-"Rufus Wainwright","Hallelujah"
-"Jeff Buckley","Hallelujah"
-"KD Lang","Hallelujah"
-"Eva Cassidy","Open Arms"
-"Journey","Open Arms"
-"Alanis Morissette","Uninvited"
-"Pearl Jam","Just Breathe"
-"Frank Zappa","Joe's Garage"
-"Beach House","PPP"
-"Portishead","The Rip"
-
-"The Beatles","Yesterday"
-no songs found
-
-"artist","song_title"
-"First Aid Kit","America"
-"Simon and Garfunkel","Bridge Over Troubled Water"
-"Simon and Garfunkel","April Come She Will"
-"Simon and Garfunkel","The Boxer"
-"Simon and Garfunkel","Homeward Bound"
-
-"artist","song_title"
-"Simon & Garfunkel","Still Crazy After All These Years"
-"No songs found"
-
-"artist","song_title"
-"John Denver","Thank God I'm a Country Boy"
-"Joni Mitchell","Both Sides Now"
-"Tom Rush","The Circle Game"
-"Joni Mitchell","Amelia"
-"No songs found"
-
-"artist","song_title"
-"Jim Croce","Operator (That's Not the Way It Feels)"
-"The Beatles","In My Life"
-"The Beatles","She's Leaving Home"
-"The Beatles","Julia"
-
-"artist","song_title"
-"Dvorak","Song to the Moon"
-"Orville Peck","Summertime"
-"The Beatles","Blackbird"
-"Mama Cass Elliot","Dream a Little Dream of Me"
-"Gordon Lightfoot","If You Could Read My Mind"
-"Ludovico Einaudi","Nuvole Bianche"
-"Hans Zimmer","Interstellar Intro"
-
-"artist","song_title"
-"Gordon Lightfoot","The Wreck of the Edmund Fitzgerald"
-"Gordon Lightfoot","Circle of Steel"
-"Gordon Lightfoot","If You Could Read My Mind"
-"Johnny Cash","If You Could Read My Mind"
-"Neil Young","Old Man"
-"Israel Kamakawiwo'ole","Somewhere Over the Rainbow/What a Wonderful World"
-"Israel Kamakawiwo'ole","Somewhere Over the Rainbow"
-"Israel Kamakawiwo'ole","What a Wonderful World"
-
-"artist","song_title"
-"Edith Piaf",""
-"Edith Piaf",""
-"Avril Altdelay",""
-"Iz*One",""
-"Come What May",""
-"Xtal",""
-"Lichen",""
-"Rhubarb",""
-"Alberto Balsalm",""
-"Come to Daddy",""
-"The Beatles",""
-"Eagles",""
-"No songs found",""
-
-"artist","song_title"
-"Elton John","Mona Lisas and Mad Hatters"
-"Elton John","Hold Me Closer Tony Danza"
-"Simon & Garfunkel","Bridge Over Troubled Water"
-"Simon & Garfunkel","Kathy's Song"
-"The Postal Service","What Sarah Said"
-"Death Cab for Cutie","Brothers On a Hotel Bed"
-"Cocteau Twins","Anything sung by Liz Fraser"
-"Massive Attack","Unfinished Sympathy"
-"Newton Faulkner","Various songs"
-"Final Fantasy XV","Stand By Me"
-"Tracy Chapman","Fast Car"
-"The Beach Boys","Caroline, No"
-"The Beach Boys","You Still Believe in Me"
-"The Beach Boys","God Only Knows"
-"The Beach Boys","Sloop John B"
-"The Beach Boys","Let's Go Away For A While"
-"The Beach Boys","I Know There's an Answer"
-"The Beach Boys","I Just Wasn't Made for These Times"
-
-"artist","song_title"
-"The Beach Boys","God Only Knows"
-"The Cranberries","Linger"
-"Fleetwood Mac","Songbird"
-"The Flamingos","Only Have Eyes for You"
-
-"artist","song_title"
-"Fleetwood Mac","Gold Dust Woman"
-"Stevie Nicks","Landslide"
-"Smashing Pumpkins","1979"
-
-"artist","song_title"
-"No songs found"
-
-"Moondance","Van Morrison"
-"Astral Weeks","Van Morrison"
-"We Shall Walk and Talk in Gardens All Misty Wet with Rain","Van Morrison"
-"White Sandy Beach","unknown"
-"No songs found"
-
-"The Beatles","Yesterday"
-"No songs found"
-
-"artist","song_title"
-"Jeff Buckley","Everybody Here Wants You"
-"Jeff Buckley","Lilac Wine"
-"Jeff Buckley","Hallelujah"
-"Gary Jules","Mad World"
-"No songs found"
-
-"The Boxer"
-"At Last" 
-"Untitled #4 - Njosnavelin"
-"Glosoli"
-"Ara Batur"
-"No songs found"
-
-"artist","song_title"
-"The Beatles","Yesterday"
-
-"The Lovecats","The Lovecats"
-"No songs found"
-
-"artist","song_title"
-no songs found
-
-"artist","song_title"
-"The Beach Boys","God Only Knows"
-"The Beach Boys","Wouldn't It Be Nice"
-"The Beach Boys","Sloop John B"
-"Evanescence","Lacrymosa"
-"The Cranberries","Linger"
-"The Cranberries","I Thought The World Of You"
-"Fleetwood Mac","The Dance"
-"Fleetwood Mac","Landslide"
-"Fleetwood Mac","Silver Springs"
-"Dixie Chicks feat. Stevie Nicks","Landslide"
-"Jeff Buckley","You and I"
-"Jeff Buckley and Gary Lucas","No One Must Find You Here"
-"Jeff Buckley","Dido's Lament"
-"Slowdive","Sugar for the Pill"
-
-"artist","song_title"
-"Marketa Irglova",""
-"Peter Gabriel","Shock the Monkey"
-"Peter Gabriel","Don't Give Up"
-"John Prine","I Remember Everything"
-"Brandi Carlile",""
-"Johnny Tillotson",""
-"Bon Iver","Creeks"
-"Bon Iver","8 circle"
-"The Beatles","Abbey Road"
-"The Smiths","The Light That Never Goes Out"
-"Taylor Swift","Fearless"
-
-"The Beatles","Yesterday"
-"Jeff Buckley","Hallelujah"
-"Jeff Buckley","Just Like A Woman"
-"Jeff Buckley","Turn the Page"
-"Jeff Buckley","Nothing Compares 2 U"
-"Rufus Wainwright","Hallelujah"
-"Nine Inch Nails","Hurt"
-"Johnny Cash","Hurt"
-"Eric Clapton","Tears in Heaven"
-"Don McLean","Vincent"
-"The Helio Sequence","Lately"
-"The Shrine","Death to Invaders"
-"Simon & Garfunkel","The Boxer"
-"Joni Mitchell","Circle Game"
-"Sigur Rós","Hoppípolla"
-"Sigur Rós","Glósóli"
-"Claude Debussy","Clair de Lune"
-"No songs found"
-
-"artist","song_title"
-"Iprevail",""
-"A7X",""
-"Dethklock",""
-"Devildriver",""
-"Gojira",""
-"Ludovico Einaudi","Fly"
-"Ludovico Einaudi","Divenire"
-"Ludovico Einaudi","Una Mattina"
-"Alter Bridge",""
-"Elton John","Goodbye Yellow Brick Road"
-"Elton John","Captain Fantastic and the Brown Dirt Cowboy"
-"Simon & Garfunkel","The Boxer"
-"Death Cab for Cutie",""
-"The Postal Service",""
-"Stand By Me",""
-"The Cranberries","Linger"
-""No songs found""
-
-"artist","song_title"
-"Mazzy Star","Look On Down From The Bridge"
-"The Beatles","Astral Weeks"
-"Ripple","Ripple"
-"The Beatles","Abbey Road"
-"Jeff Buckley","Hallelujah"
-"Rufus Wainwright","Hallelujah"
-"K.D. Lang","Hallelujah"
-"John Cale","Hallelujah"
-"Bob Dylan","Many covers"
-"Simon & Garfunkel","The Boxer"
-"Nick Cave & The Bad Seeds","The Boatman's Call"
-"George Harrison","The Beatles"
-"Archspire","Reverie on the Onyx"
-"Ludovico Einaudi","Divenire"
-"Ludovico Einaudi","Primavera"
-"Adeem","White Trash Revelry"
-
-"artist","song_title"
-"Elton John","Your Song"
-"Elton John","Tiny Dancer"
-"SRV","(unknown)"
-"Chris Cornell","(unknown)"
-"Jeff Buckley","Hallelujah"
-"John Cale","Hallelujah"
-"Apocalyptica","(unknown)"
-"Nightwish","(unknown)"
-
-Output: 
-"artist","song_title"
-"no songs found"
-
+artist,song_title
+Erik Satie,Gymnopédies
+Don McLean,"Vincent (Starry, Starry Night)"
+Lord Huron,The night we met
+Fleet Foxes,White Winter Hymnal
+Neil Young,Harvest Moon
+Simon & Garfunkel,Scarborough Fair
+John Denver,Annie’s Song
+Samuel Barber,Adagio for Strings
+Etta James,At last
+Joni Mitchell,Both Sides Now
+Sigur Ros,Hoppipolla
+Jim Croce,Time in a Bottle
+The Beatles,In my Life
+Claire de Lune,Claire de Lune
+The Righteous Brothers,Unchained Melody
+The Beatles,Blackbird
+The Mamas & The Papas,Dream A Little Dream Of Me
+Gordon Lightfoot,If you could read my mind
+Death Cab for Cutie,I Will Follow You Into the Dark
+Simon and Garfunkel,April come she will
+Massive Attack,Teardrop
+Ben E. King,Stand By Me
+The Beach Boys,God only knows
+Wolfgang Amadeus Mozart,Lacrimosa
+Cyndi Lauper,Time after time
+The Cranberries,Dreams
+Fleetwood Mac,Landslide
+Otis Redding,(Sittin' On) The Dock of the Bay
+Jeff Buckley,Lover you should’ve come over
+Mazzy Star,Fade into you
+The Hollies,"He Ain't Heavy, He's My Brother"
+Simon & Garfunkel,Bridge over Troubled Water
+Glen Hansard and Markéta Irglová,Falling Slowly
+Dire Straits,Romeo and Juliet
+Simon & Garfunkel,"For Emily, whenever I may find her"
+INXS,Never tear us Apart
+Peter Gabriel,In your eyes
+Henry Mancini,Moon River
+The Dream Academy,Life in a Northern Town
+Enya,Caribbean Blue
+Jimi Hendrix,Little Wing
+The Cure,Pictures of You
+Radiohead,How to Disappear Completely
+Annie Lennox,Into The West
+Hans Zimmer,Time
+Patsy Cline,Crazy
+Radiohead,Fake Plastic Trees
+John Prine and Bonnie Raitt,Angel from Montgomery
+Peter Gabriel,The Book of Love
+Enya,Only Time
+Fleetwood Mac,Everywhere
+The Smiths,"Please, Please, Please Let Me Get What I Want"
+Traditional,Greensleeves
+Johann Pachelbel,Canon in D
+"Emerson, Lake & Palmer",Lucky Man
+Radiohead,Let Down
+Nine Inch Nails,A Warm Place
+The Band,Atlantic City
+Explosions in the Sky,Your Hand in Mine
+Grateful Dead,Standing on the Moon
+Van Morrison,Into the Mystic
+Roberta Flack,The First Time Ever I Saw Your Face
+Israel Kamakawiwoʻole,Somewhere Over the Rainbow/Wonderful World
+Claude Debussy,Clair de Lune
+Andrew Lloyd Webber,Pie Jesu
+Bread,If
+Alison Krauss & Union Station,The Lucky One
+Damien Rice,The Blower's Daughter
+Alphaville,Forever Young
+Yeah Yeah Yeahs,Maps
+Max Richter,On the Nature of Daylight
+Hozier,Like Real People Do
+The Carpenters,(They Long to Be) Close to You
+"Crosby, Stills, Nash & Young",Helplessly Hoping
+Foo Fighters,Everlong (Acoustic)
+A Perfect Circle,Three Libras
+George Harrison,While My Guitar Gently Weeps
+Mick Hucknall & Simply Red,Holding Back the Years
+Mac Miller,2009
+Cat Stevens,Morning Has Broken
+Heart,These Dreams
+Grateful Dead,Ripple
+Simon and Garfunkel,Sounds of Silence
+Don McLean,Vincent
+The Beatles,Let it Be
+Simon and Garfunkel,Bridge Over Troubled Water
+The Moody Blues,Nights in White Satin
+Straylight Run,Existentialism On Prom Night
+Allison Kraus,When You Say Nothing at All
+Léo Delibes,The Flower Duet
+Alice in Chains,Nutshell
+The Beatles,Yesterday
+The Beatles,The Long and Winding Road
+The Beatles,Golden Slumbers
+Led Zeppelin,The Rain Song
+Enya,Boadicea
+Johann Sebastian Bach,"Jesu, Joy of Man’s Desiring"
+The Verve,Bittersweet Symphony
+The Cure,Plainsong
+Yaz,Only You
+Tori Amos,Little Earthquakes
+Sinead O’Connor,Troy
+Pearl Jam,Black
+Fleetwood Mac,Silver Springs
+The Mamas and the Papas,Dream a Little Dream
+Gordon Lightfoot,The Wreck of the Edmund Fitzgerald
+Ray LaMontagne,Jolene
+Radiohead,Reckoner
+The Beatles,The Long and Winding Road
+Yiruma,River Flows in You
+Chopin,"Nocturne No. 2 in E-Flat Major, Op. 9 No. 2"
+John Denver,Annie's Song
+Tori Amos,A Sorta Fairytale
+Queensrÿche,Silent Lucidity
+Roberta Flack,First Time Ever I Saw Your Face
+Coldplay,Fix You
+The Carpenters,We've Only Just Begun
+George Michael,Careless Whisper
+Bon Iver,Holocene
+Cat Stevens,The Wind
+The Beatles,In My Life
+Sigur Rós,Hoppípolla
+Coldplay,Clocks
+The Smiths,There Is a Light That Never Goes Out
+Loggins & Messina,Danny's Song
+The Beatles,Here Comes The Sun
+Imogen Heap,Hide and Seek
+Anne Murray,You Needed Me
+Black Pumas,Colors
+The Beatles,She's Leaving Home
+Giacomo Puccini,Un Bel Di Vedremo
+Pearl Jam,Just Breathe
+Pink Floyd,The Great Gig in the Sky
+Tracy Chapman,Fast Car
+Sophie B. Hawkins,As I Lay Me Down
+Pachelbel,Canon in D Major
+Sinead O'Connor,Nothing Compares 2 U
+The Sundays,Here's Where The Story Ends
+Chopin,"Nocturne No. 2 in E-Flat Major, Op. 9 No. 2"
+Snow Patrol,Chasing Cars
+Fleetwood Mac,Landslide
+Imogen Heap,Goodnight and Go
+Dan Fogelberg,Longer Than
+Franz Schubert,Ave Maria
+Coldplay,The Scientist
+The Beatles,Here Comes the Sun
+John Waite,Missing You
+Selena,Dreaming of You
+Franz Schubert,Ave Maria
+Cat Stevens,Morning Has Broken
+Radiohead,Exit Music (For a Film)
+The Beatles,Let It Be
+John Denver,"Take Me Home, Country Roads"
+Olivia Millerschin,Carry Me
+Aaron Copland,Fanfare for the Common Man
+Norah Jones,Heart of Mine
+The Beach Boys,God Only Knows
+Louis Armstrong,What a Wonderful World
+Leonard Cohen,Hallelujah
+Ludwig van Beethoven,Ode to Joy
+Journey,Faithfully
+The Cranberries,Linger
+Sting,Fields of Gold
+Gary Jules,Mad World
+Christine McVie,Over My Head
+Frank Zappa,Watermelon in Easter Hay
+Unknown,Wish you were here
+Don McLean,Vincent
+Led Zeppelin,Rain Song
+Stevie Ray Vaughan,Lenny
+Pink Floyd,The Great Gig in the Sky
+Regina Spektor,Fidelity
+Sleeping At Last,Saturn
+Jim Croce,Time in a bottle
+The Eagles,Seven bridges road
+Al Stewart,Year of the Cat
+Cyndi Lauper,Time after time
+The Smashing Pumpkins,1979
+The Cure,Just like heaven
+Elvis Presley,Can’t help falling in love
+Queen,Somebody to Love
+Minnie Riperton,Loving you
+The Sundays,Wild Horses
+Les Miserables,I dreamed a dream
+Massive Attack,Teardrop
+Jose Gonzalez,Teardrop
+The King’s Singers,You Are The New Day
+Leo Delibes,Lakme
+John Denver,Annie's song
+Seal,Kiss from a Rose
+Unknown,Send in the Clowns
+Tool,Sober
+U2,Where the Streets Have No Name
+Sting,Shape of my heart
+Jewel,Angels standing by
+Eva Cassidy,Songbird
+Ella Fitzgerald and Louis Armstrong,Summertime
+Orbital,Halcyon On and On
+The Smashing Pumpkins,Mellon Collie and the Infinite Sadness
+Imogen Heap,Hide and Seek
+A-Ha,Take on Me
+Boz Scaggs,Harbor Lights
+Fleetwood Mac,Songbird
+Sixpence None the Richer,Kiss Me
+Van Morrison,Into the Mystic
+Simon and Garfunkel,Sounds of Silence
+Sting,Fields of Gold
+Joe Cocker and Jennifer Warnes,Up Where We Belong
+Unknown,Hoppipolla
+Vivaldi,Four Seasons
+Pachelbel,Canon in D
+Edvard Grieg,Peer Gynt suites
+Johann Sebastian Bach,Brandenburger Konzerte
+Johann Sebastian Bach,Cello Suite No 1
+Johann Sebastian Bach,Toccata and Fugue in d minor
+Prince,Purple Rain
+Van Morrison,Into the Mystic
+K. D. Lang,Hallelujah
+The Flaming Lips,Do you realize
+The Pixies,Where is my mind
+Don McLean,Vincent
+Lily Allen,Somewhere only we know
+Bee Gees,Inmortality
+Bright Eyes,Something Vague
+Pachelbel,Canon
+Ministry,Jesus built my hotrod
+Israel Kamakawiwoʻole,Over the Rainbow/What a Wonderful World
+Roy Orbison,In Dreams
+Kansas,Dust in the wind
+Unknown,Songs my daughter would make up
+Eric Clapton,Wonderful Tonight
+Frank Mills,Music Box Dancer
+Nobuo Uematsu,To Zanarkand
+Boa,Duvet
+Unknown,My name is Preeti and am very pretty
+Johnny Cash,Hurt
+Fleetwood Mac,Songbird
+Aphex Twin,Avrl 14
+Jeremy Soule,Kyne's Peace
+VV,Heartfull of Ghosts
+Beach House,Myth
+Coctaeu Twins,Evangeline
+Beach House,PPP
+Billy Joel,And So It Goes
+Leon Bridges,River
+Led Zeppelin,The Rain Song
+Unknown,Hallelujah
+Unknown,Amazing Grace
+Sade,Pearls
+Marty Robbins,Ribbon of Darkness
+Bjork,Yoga
+K.D. Lang,Constant Craving
+The Rolling Stones,She's a Rainbow
+Alice In Chains,Nutshell
+Celine Dion and Andrea Bocelli,The Prayer
+The Carpenters,Close to You
+Unknown,To Zanarkand from Final Fantasy X
+Fleet Foxes,White Winter Hymnal
+Crowded House,Don't Dream It's Over
+Taylor Swift,Invisible String
+Heart,Dreamboat Annie
+Des'ree,Kissing You
+Israel Kamakawiwoʻole,Over the Rainbow
+Whitney Houston,I Will Always Love You
+Israel Kamakawiwoʻole,Wonderful World/Over the Rainbow
+Portishead,Glory Box
+Mazzy Star,Fade Into You
+Meat Loaf,For Crying Out Loud
+Stevie Wonder,Isn't She Lovely
+Yes,And You and I
+The Left Banke,Walk Away Renee
+Gustav Holst,"Jupiter, the Bringer of Jollity"
+Fleetwood Mac,Songbird
+Linda Ronstadt,Blue Bayou
+Jeff Buckley,Hallelujah
+Simon and Garfunkel,The Boxer
+Eric Clapton,Tears in Heaven
+Family of the Year,Hero
+Sia,Breathe Me
+Alicia Keys,If I Ain't Got You
+Paul Mauriat,Love is Blue
+The Beach Boys,God Only Knows
+"Crosby, Stills, Nash & Young",Our House
+Claude Debussy,Clair de Lune
+Annie Lennox,Into the West
+Joe Cocker,You Are So Beautiful
+Louis Armstrong,What a Wonderful World
+Jimmy Eat World,May Angels You In
+Frederic Chopin,Nocturne No. 2
+Giacomo Puccini,Nessun Dorma
+Minnie Riperton,Loving You
+Joanna Newsom,Unknown
+Michael Jackson,Man in the Mirror
+Hudson Mohawke,Cbat
+Michael Jackson,Human Nature
+CHVRCHES,The Mother We Share
+Babyface,Every Time I Close My Eyes
+U2,One Tree Hill
+311,Amber
+Rainbow,Catch the Rainbow
+Justin Hurwitz,Mia and Sebastian's Theme
+Bread,Aubrey
+Gustav Holst,Jupiter
+Blue Rodeo,Try
+Bowser,Peaches
+Explosions in the Sky,Your Hand in Mine
+The Appleseed Cast,A Dream for Us
+Barry De Vorzon and Perry Botkin Jr.,Nadia's Theme
+Silversun Pickups,Lazy Eye
+Bonnie Raitt,I Can't Make You Love Me
+Ron Sexsmith,Gold in Them Hills
+Peter Gabriel,Book of Love
+Arvo Pärt,Spiegel im Spiegel
+Shawn Colvin,I Don't Know Why
+Bon Iver,Holocene
+ABBA,Fernando
+When in Rome,The Promise
+Brandi Carlisle,The Story
+Taylor Swift,All Too Well
+Taylor Swift,Delicate
+Taylor Swift,Willow
+Taylor Swift,Cardigan
+Disturbed,The Sound of Silence
+Daft Punk,Touch
+James Taylor,You've Got a Friend
+The Fray,How to Save a Life
+The Eagles,Desperado
+Metallica,Nothing else matters
+Boston,Feelin' Satisfied
+Jon Bellion,Hand of God
+Bill Withers & Grover Washington Jr,Just the two of us
+America,Ventura highway
+Unknown,Moon River
+Unknown,Ave Maria
+Aurora,Any song by Aurora
+Taylor Swift,ivy
+Enya,Only Time
+Massive Attack,Teardrop
+Led Zeppelin,The Rain Song
+The Cardigans,Lovefool
+Erykah Badu,Green Eyes
+Anderson .paak,Heart don't stand a chance
+Radiohead,You're all I need
+Beyonce,Plastic off the sofa
+The Beatles,Blackbird
+The Beatles,And I love her
+The Beatles,Across the universe
+Amy Winehouse,Wake up alone
+Daniel Caesar,Best part
+Frank Ocean,Pink + white
+Portishead,Most Portishead songs are so beautiful and dark
+Gang Starr,Moment of truth
+Incubus,Aqueous transmission
+beabadoobee,glue song
+Loreena McKennitt,Never-Ending Road
+Tchaikovsky,Waltz of the Flowers
+Unknown,Saint-Saëns The Swan (Le Cygne)
+The Velvet Underground,Pale Blue Eyes
+Don Mcclean,Vincent
+John Denver,Annies Song
+Radiohead,Pyramid song
+Kate bush,This woman’s work
+Bette Midler,The Rose
+Etta James,At Last
+Soundgarden,Black Hole Sun
+Billie Eillish,Ocean Eyes
+Unknown,Fly me to The Moon
+Bruce Sprinsteen,Racing in the Streets
+Blind Melon,No Rain
+Frank Ocean,rushes
+John Craigie,I Am California
+Queen,Good Old Fashioned Lover Boy
+Unknown,The Lark Ascending
+Simon & Garfunkel,A Bridge over troubled water
+Mum,Green Grass of Tunnel
+Brian Eno,Brian Eno - An Ending (Ascent)
+Animal Collective,Animal Collective - banshee beat
+Unknown,Ashoken Farewell
+REM,Night Swimming
+Neil Young,Harvest Moon
+Supertask,Supertask - Healing
+Brand New,Brand New - The Boy Who Blocked His Own Shot
+Flying Lotus,Flying Lotus - Getting There
+Aphex Twin,Aphex Twin - Fingerbib
+Pink Floyd,Pink Floyd - Stay
+Pretty Lights,Pretty Lights - Yellow Bird
+The La’s,There She Goes
+MCR,Welcome to the Black Parade
+Unknown,Going to California
+The Beatles,Let it be
+Enya,Orinoco Flow
+paper kites,Bloom
+The Beatles,Golden Slumbers/Carry That Weight
+Unknown,Whiter Shade of Pale
+Jeff Buckley,Hallelujah
+The Black Crowes,She Talks to Angels
+Nat King Cole,Smile
+Sarah McLachlan,Angel
+Bette Midler,The Rose
+Birdy,Skinny Love
+Prince,Purple Rain
+Lana Del Rey,West Coast
+Emiliana Torini,Sunny road
+Unknown,Evangeline
+Blur,Tender
+delibes,Flower duet
+The Beatles,Dear Prudence
+Joanna Newsom,Sawdust and Diamonds
+Keane,Somewhere only we know
+Unknown,O Magnum Mysterium
+Patrick Watson,Je te laisserai des mots
+Led Zeppelin,The Rain Song
+Cat Stevens,Trouble
+Gordon Lightfoot,Beautiful
+Gordon Lightfoot,Her Love’s Return
+Joni Mitchell,Help Me
+Toto,I’ll Be Over You
+Billy Joel,She’s Always A Woman
+Climax Blues Band,I Love You
+Sundays,You’re Not The Only One I Know
+Beatles,In My Life
+CSNY,Helplessly Hoping
+Harry Chapin,Taxi
+Alan Parsons Project,Time
+Moody Blues,Nights In White Satin
+Jim Croce,Operator
+Jim Croce,Lover’s Cross
+Judy Collins,First Boy I Loved
+Judy Collins,"So Early, Early In The Spring"
+Linda Ronstadt,Long Long Time
+James Taylor,Handyman
+Led Zeppelin,Rain Song
+Loggins & Messina,House On Pooh Corner
+Barry Manilow,Could It Be Magic
+Elton John,Your Song
+St Vincent,Strange Mercy
+Sufjan Stevens,Casimir Pulaski Day
+Sufjan Stevens,Mystery of Love
+Jeff Buckley,"Lover, you should’ve come over"
+Radiohead,Nude
+Neil Young,Natural Beauty
+Kurt Cobain,And I love her
+Alice in Chains,Nutshell
+Billy Joel,Vienna
+Fiona Apple,I Know
+Harry Styles,Sign of the times
+Red Hot Chili Peppers,Wet Sand
+Minnie Riperton,Les Fleur
+Ray Peterson,Tell Laura I Love Her
+John Lennon,Beautiful Boy
+REM,Everybody Hurts
+Sam Brown,Stop
+Jackie DeShannon,What the world needs now is love
+Ennio Morricone,Un Amico
+ABBA,One of us
+ABBA,The winner takes it all
+Terrence Jay,One blood
+Gary Jules,Mad world
+John Legend,All of me
+Mayer Hawthorne,All better
+Lapsley,Painter (valentine)
+Bee Gees,How deep is your love
+The Carpenters,Yesterday once more
+The OutKast,You may die (intro)
+Christophe,Aline
+Art Garfunkel,All I know
+Elvis Presley,Young and beautiful
+Elvis Presley,Can’t help falling in love
+The Fugees,Killing me softly
+The Beatles,Let it be
+Jeff Buckley,Hallelujah
+Katie Melua,Dreams on fire
+Julie London,The end of the world
+Aphex Twin,Avril 14th
+Molly Burch,Please be mine
+Mariah Carey,Without you
+Tom Odell,Another love
+Aerosmith,Dream On
+Taylor Swift,Labyrinth
+Taylor Swift,my tears ricochet
+Jeff Buckley,Hallelujah
+Band of Horses,The Funeral
+Phoebe Bridgers,Funeral
+Rod Stewart,Maggie
+Tim Minchin,cheesy love songs
+Lana Del Rey,
+Selena,dreaming of you
+The Beatles,Blackbird
+Queen,Who Wants to Live Forever
+Extreme,More Than Words
+Herb Alpert and the Tijuana Brass,Ladyfingers
+Louis Armstrong,What a Wonderful World
+Fleetwood Mac,Albatross
+Elliott Smith,Angeles
+Israel Kamakawiwo’ole,Over the rainbow
+Samuel Barber,Adagio for strings
+Radiohead,Fake plastic trees
+Carpenters,Close to You
+Queen,Love of my Life
+Simon and Garfunkel,Bridge Over Troubled Water
+Louis Armstrong,What A Wonderful World
+Damien Rice,Blower's Daughter
+Pink Floyd,Great Gig In the Sky
+JVKE,golden hour
+Virtual Riot,Never Let Me Go
+Snail's House,frostbite
+Spiritualized,Ladies and Gentlemen We Are Floating In Space
+Led Zeppelin,Thank you
+Eva Cassidy,over the rainbow
+Eva Cassidy,time after time
+Eva Cassidy,fields of gold
+Eva Cassidy,songbird
+Taylor Swift,August
+Louis Armstrong,What A Wonderful World
+Iz Kamakawiwoʻole,Maybe somewhere over the rainbow
+Deftones,Beauty School
+Paul McCartney,I’ll Follow the Sun
+Ichiko Aoba,Pilgrimage
+Aphex Twin,Avril 14th
+Aphex Twin,QKThr
+Beach House,10 Mile Stereo
+Bibio,Lover's Carvings
+Bjork,Unison
+Brian Eno,Deep Blue Day
+FKA Twigs,Pendulum
+Fleet Foxes,Wading Waist High in Water
+Fleet Foxes,Sunblind
+Frank Ocean,Ivy
+Frank Ocean,White Ferrari
+Frank Ocean,Rushes
+Gorillaz,On Melancholy Hill
+Gorillaz,To Binge
+Jon Hopkins,Immunity
+Kate Bush,Wuthering Heights
+Radiohead,Nude
+Radiohead,Daydreaming
+Natalis Lafourcade,El Lugar Correcto
+Sufjan Stevens,Mystery of Love
+Maurice Durufle,Ubi Caritas
+Guitars and Dragons,Concerning Hobbits
+Lana Del Rey,Young and beautiful
+Taylor Swift,The Lakes
+INXS,Never Tear Us Apart
+Nick Cave & The Bad Seeds,Into My Arms
+Howie Day,Collide
+Eagles,Desperado
+Antônio Carlos Jobim,The girl from Ipanema
+Iz Kamakawiwoʻole,Somewhere over the rainbow
+Nine Inch Nails,Just Like You Imagined
+Muse,Exogenesis Symphony 1-3
+Denez Prigent,Gortoz A Ran
+Tool,Wings for Marie Parts 1&2
+The Cranberries,Linger
+Kozue Takada,Himitsu Kichi
+Linkin Park,One more light
+Daniel Bedingfield,If you’re not the one
+Evanescence,Good enough
+Moby,Porcelain
+Massive Attack,Teardrop
+Savage Garden,Truly Madly Deeply
+Oceanlab,Satellite
+Enya,Only Time
+Grimes,Symphonia IX
+Nasko,See you again
+Bjork,Hyperballad
+Trey Parker,Jacking it in San Diego
+Steven Universe,Here comes a thought
+Beach House,space song
+Queen,Las Palabras De Amor
+Indigo Girls,Ghost
+Colin Hay,Beautiful World
+Alan Parsons Project,Old and Wise
+Alan Parsons Project,Silence and I
+Dolly Parton,Love is like a butterfly
+Florence and the Machine,Stand by me
+Goo Goo Dolls,Iris
+Stevie Wonder,All in Love is Fair
+Led Zeppelin,Rain Song
+Bright Eyes,No Lies Just Love
+Red Hot Chili Peppers,Porcelain
+Ralph Vaughan Williams,the lark ascending
+Gregory Alan Isakov,The Stable Song
+Amy Winehouse,Love is a Losing Game
+Queen,She’s a rainbow
+Astrud Gilberto,Photograph
+Massive Attack,Exchange
+Dido,It Comes and It Goes
+Henri Mancini,Moon River
+Queen,The show must go on
+Bill Withers,Lovely Day
+The Flaming Lips,Do You Realize
+Porcupine Tree,Lazarus
+,Road to Zanarkand
+Billie Eilish,Ocean Eyes
+Frente,Bizarre Love Triangle
+Pharaoh Sanders,Love is Everywhere
+Brian Eno,Deep Blue Day
+Aphex Twin,Rhubarb
+The Irresistible Force,Sky High
+Basil Poledouris,Theology/Civilization
+Samuel Barber,Adagio for Strings
+Mogwai,Mogwai Fear Satan (Kevin Shields remix)
+Sounds of Life,A Spice of Jazz
+Nuyorikan Soul,I am the black gold of the sun (4Hero Remix)
+Norman Conners,Love From the Sun
+Van Morrison,Into The Mystic
+Big Star,Thirteen
+Coldplay,Sparks
+Frank Ocean,pink + white
+Imogen Heap,hide n seek
+Fleet Foxes,Icicle Tusk
+Boa,Duvet
+Matisyahu,One Day
+alt-J,Dissolve Me
+Mumford & Sons,Babel Album
+Florence and the Machine,Breath of Life
+Lauryn Hill,Ex Factor
+,"Bach's Cello Suites, Cello Suite No. 1 in G major"
+,Aqueous Transmission
+The Beatles,The Long and Winding Road
+Led Zeppelin,The Rain Song
+Bruce Springsteen/Melissa Etheridge,Thunder Road
+,Dynamite
+Slowdive,When the Sun Hits
+Yo La Tengo,My Little Corner of the World
+Howard Hanson,Symphony 2
+Sammy Davis Jr.,Till Then
+Nat King Cole,Stardust
+The Chordettes,They Say It’s Wonderful
+Sarah Vaughan,Misty
+Fred Astaire,Cheek to Cheek
+Johnny Mathis,Chances Are
+Buddy Holly,Dearest
+The Band,When I Paint My Masterpiece
+John Fogerty,Joy of My Life
+The Moldy Peaches,Anyone Else But You
+Grateful Dead,Mountains of the Moon
+Coldplay,Paradise
+America,Sister Golden Hair
+Linkin Park,My December
+Box Car Racer,There Is
+Hozier,Cherry Wine
+,Mia & Sebastian's Theme
+Sleeping At Last,Saturn
+Sleeping At Last,Saturn (feat. Tim Fain)
+RÜFÜS DU SOL,Innerbloom
+Rufus Wainwright,Hallelujah
+The Irrepressibles,In This Shirt
+Radical Face,Always Gold
+The Album Leaf,Window
+Guillemots,Little Bear
+Oliver Tank,Last Night I Heard Everything in Slow Motion
+Sufjan Stevens,Visions of Gideon
+Jaakko Aukusti,What If All Else Fails
+Andrew Bird,Beyond the Valley of the Three White Horses
+Andrew Bird,Three White Horses
+Nils Frahm,Familiar
+"Max Richter, Daniel Hope, Konzerthaus Kammerorchester Berlin, André de Ridder",Richter: Spring 1
+Max Elto,Citylights
+Víg Mihály,Öreg
+Rose Betts,Song to the Siren
+Patrick Watson,Je te laisserai des mots
+Ólafur Arnalds,Happiness Does Not Wait
+"ONR, Sarah Barthel, Phantogram",Must Stop (Falling in Love) [feat. Sarah Barthel of Phantogram]
+Amen Dunes,Song to the Siren
+Big Thief,Mary
+"The Cinematic Orchestra, Patrick Watson",To Build A Home
+"Ursine Vulpine, Annaca",Wicked Game
+Message To Bears,You Are a Memory
+The Cinematic Orchestra,That Home
+"Dan Romer, Benh Zeitlin",End of the World
+Adrián Berenguer,Moonlight
+Weyes Blood,Do You Need My Love
+Led Zeppelin,All My Love
+The Beatles,Golden Slumbers
+Pink Floyd,High Hopes
+Mazzy Star,Fade Into You
+Gregory Alan Isakov,The Stable Song
+Tool,Lateralus
+INXS,Not enough time
+The Beatles,"Here, There, and Everywhere"
+Dave Matthews Band,Crash into Me
+Jeff Buckley,Hallelujah
+Evanescence,My Immortal
+Kanye West,Runaway
+Evanescence,Even In Death
+Lana del rey,Salvatore
+Chris Stapleton,Tennessee whiskey
+U2,MLK
+Bette Midler,The Rose
+Honeydrippers,Sea Of Love
+Lisa Gerrard,Sanvean
+Thievery Corporation,La Femme Parallel
+Eagles,Hotel California
+Ramin Djawadi,Light of the Seven
+Coldplay,A Sky Full of Stars
+Donna Lewis,I Love You Always Forever
+Taylor Swift,Epiphany
+Erik Satie,Gnossienne No. 1
+Erik Satie,Gymnopédies
+Erik Satie,Trois Gymnopédies
+Joe Hisaishi,Kimi wo Nosete
+Don McLean,Vincent
+Roy Orbison,Crying
+James Blake,Empty Chairs
+Josh Groban,Empty Chairs
+Lord Huron,Meet Me In The Woods
+Lord Huron,I lied
+Lord Huron,Ghost On The Shore
+Lord Huron,Blue Ridge Mountains
+Fleet Foxes,Mykonos
+Fleet Foxes,Helplessness Blues
+Fleet Foxes,Tiger mountain peasant song
+Fleet Foxes,Blue Spotted Tail
+Neil Young,Harvest Moon
+Neil Young,Old Man
+Neil Young,Helpless
+Lord Huron,The Night We Met
+Simon and Garfunkel,The Boxer
+Simon and Garfunkel,The 59th Street Bridge Song
+Simon and Garfunkel,The Only Living Boy in New York
+Simon and Garfunkel,America
+Simon and Garfunkel,"Parsley, Sage, Rosemary and Thyme"
+Simon and Garfunkel,Bridge Over Troubled Water
+Simon and Garfunkel,Scarborough Fair
+Simon and Garfunkel,For Emily Wherever I May Find Her
+Simon and Garfunkel,El Condor Pasa
+Cat Stevens,Moon Shadow
+Simon and Garfunkel,The Sound of Silence
+Simon and Garfunkel,She Was My True Love
+Kate Bush,This Woman's Work
+Simon and Garfunkel,Kathy's Song
+John Denver,Annie's Song
+John Denver,Country Roads
+John Denver,Aspenglow
+John Denver,Annie's Song
+The Cure,Plainsong
+Etta James,At Last
+Joni Mitchell,A Case Of You
+Joni Mitchell,Amelia
+Joni Mitchell,Both Sides Now
+Joni Mitchell,Urge for Going
+Joni Mitchell,River
+Sigur Ros,Svefn-g-englar
+Sigur Ros,Saeglopur
+Sigur Ros,Ara Batur
+Sigur Ros,Glósóli
+Sigur Ros,Flugufrelsarinn
+Sigur Ros,Hoppipolla
+Sigur Ros,Untitled #1
+Sigur Ros,Varúõ
+Sigur Ros,The Nothing Song
+Jim Croce,Operator
+Jim Croce,I Got A Name
+Jim Croce,"Next Time, This Time"
+Jim Croce,These Dreams
+Jim Croce,Dreamin' Again
+Jim Croce,Age
+Jim Croce,The Hard Way Every Time
+Jim Croce,
+"Love Me Do.""""",
+The Beatles,In My Life
+The Beatles,Here Comes the Sun
+The Beatles,Something
+The Beatles,Julia
+The Beatles,Claire de Lune
+The Beatles,Moonlight Sonata
+The Beatles,Moonlight Serenade
+The Beatles,Moon River
+"Johnny Cash""",
+"Keith Moon""",
+"Ocean's 11""",
+Flight Facilities,Clair de Lune
+Claude Debussy,La fille aux cheveux de lin
+Claude Debussy,Arabesque No. 1
+Yiruma,River Flows in You
+The Righteous Brothers,Unchained Melody
+Elvis Presley,Unchained Melody
+Evan Rachel Wood,If I Fell
+The Beatles,Golden Slumbers
+Edith Piaf,La Vie En Rose
+Cass Elliott,Dream a Little Dream of Me
+Doris Day,Dream a Little Dream of Me
+The Beautiful South,Dream a Little Dream of Me
+Unknown,Dedicated To The One I Love
+Cass Elliot,Sweet dreams till sunbeams find you
+Gordon Lightfoot,Beautiful
+Gordon Lightfoot,If You Could Read My Mind
+Gordon Lightfoot,Early Morning Rain
+Gordon Lightfoot,Old Dan's Records
+Gordon Lightfoot,Don Quixote
+Gordon Lightfoot,The Wreck of the Edmund Fitzgerald
+Jim Croce,Operator
+Jim Croce,Time in a Bottle
+Jim Croce,Photographs and Memories
+Jim Croce,Rapid Roy Speedball Tucker
+Jim Croce,Alabama Rain
+Jim Croce,Lover’s Cross
+The Cure,Pictures of You
+The Cure,Close to Me
+The Cure,A Night like This
+The Cure,From the Edge of the Deep Green Sea
+The Cure,Just Like Heaven
+The Cure,In Between Days
+The Cure,Just Like Heaven
+The Cure,Lovesong
+The Cure,Lullaby
+The Cure,Letter to Elise
+The Cure,The Same Deep Water As You
+The Cure,Plainsong
+The Cure,Underneath the Stars
+Israel Kamakawiwo'ole,Over the Rainbow/What a Wonderful World
+Billy Joel,Vienna
+Ultravox,Vienna
+Edith Piaf,La Vie En Rose
+Lady Gaga,La Vie En Rose
+Barbara,Ma Plus Belle Histoire d'Amour
+Daniela Andrade,La Vie En Rose
+Aphex Twin,Avril 14th
+Aphex Twin,I Z Us
+Aphex Twin,Acrid Avid Jam Shred
+Aphex Twin,Stone in Focus
+Aphex Twin,Rhubarb
+Elton John,Goodbye Yellow Brick Road
+Elton John,Tiny Dancer
+Elton John,Your Song
+Elton John,The One
+Death Cab for Cutie,What Sarah Said
+Death Cab for Cutie,I Will Follow You Into the Dark
+Unknown,Crooked Teeth
+Death Cab for Cutie,Soul Meets Body
+Death Cab for Cutie,Transatlanticism
+Death Cab for Cutie,Grapevine Fires
+Death Cab for Cutie,Brothers on a Hotel Bed
+Simon & Garfunkel,Bridge Over Troubled Water
+Simon & Garfunkel,The Boxer
+Simon & Garfunkel,"For Emily, Whenever I May Find Her"
+Simon & Garfunkel,"Wednesday Morning, 3 A.M."
+Simon & Garfunkel,Bleeker Street
+Simon & Garfunkel,Only Living Boy in New York
+Simon & Garfunkel,The Dangling Conversation
+Simon & Garfunkel,Song for the Asking
+Massive Attack,Teardrop
+This Mortal Coil,Song to the Siren
+The Beach Boys,God Only Knows
+Brian Wilson,love note to music and added a hook line
+The Beach Boys,In My Room
+The Beach Boys,Surf’s Up
+The Beach Boys,Disney Girls
+Wolfgang Amadeus Mozart,Confutatis
+Cyndi Lauper,Time After Time
+The Cranberries,Dreams
+Otis Redding,Direct Me
+Otis Redding,(Sittin' On) The Dock of the Bay
+Jeff Buckley,Hallelujah
+Mazzy Star,Fade Into You
+Mazzy Star,Into Dust
+The Hollies,"He Ain't Heavy, He's My Brother"
+The Swell Season,Falling Slowly
+Dire Straits,Brothers in Arms
+Mark Knopfler,Your Latest Trick
+The Indigo Girls,Your Latest Trick
+Brown university choir,Your Latest Trick
+Simon and Garfunkel,The Only Living Boy in New York
+INXS,Beautiful Girl
+Peter Gabriel,The Book Of Love
+Andy Williams,Moon River
+Jeff Buckley,Hallelujah
+The Sundays,Here's Where the Story Ends
+Enya,Lothlorien
+Enya,Shepherd Moons
+Enya,No Holly for Miss Quinn
+Enya,Caribbean Blue
+Enya,Only Time
+Enya,Orinoco Flow
+Enya,Boadicea
+Enya,Book of Days
+Enya,Afer Ventus
+Enya,Flora's Secret
+Enya,Storms in Africa
+Enya,Smaointe
+Jimi Hendrix,Little Wing
+Jimi Hendrix,If 6 was 9
+Jimi Hendrix,Bold as Love
+Jimi Hendrix,Castles Made of Sand
+Stevie Ray Vaughan,Little Wing
+Radiohead,Nude
+Radiohead,Pyramid Song
+Radiohead,The Tourist
+Radiohead,Decks Dark
+Radiohead,Motion Picture Soundtrack
+Radiohead,Reckoner
+Radiohead,Jigsaw Falling Into Place
+Radiohead,Street Spirit (Fade Out)
+Radiohead,Let Down
+Radiohead,Daydreaming
+Enya,May it Be
+Hans Zimmer,This Land
+Hans Zimmer,Tennessee
+Hans Zimmer,Chevaliers de Sangreal
+Patsy Cline,Crazy
+Patsy Cline,Walking After Midnight
+Patsy Cline,She's Got You
+Radiohead,Karma Police
+Radiohead,Exit Music (For a Film)
+John Prine,Christmas in Prison
+John Prine,In Spite of Ourselves
+The Magnetic Fields,
+Gabriel,In Your Eyes
+The Magnetic Fields,
+The Airbone Toxic Events,
+Enya,May it Be
+Enya,Dreams
+Fleetwood Mac,You Make Loving Fun
+The Smiths,That Joke Isn’t Funny Anymore
+Trent Reznor,A Warm Place
+Explosions in the Sky,Your Hand in Mine
+Grateful Dead,They Love each Other
+Jerry Garcia,Reuben and Cherise
+Van Morrison,Into the Mystic
+Roberta Flack,Killing Me Softly With His Song
+Israel Kamakawiwo'ole,Somewhere Over the Rainbow
+Israel Kamakawiwoʻole,Somewhere Over the Rainbow/Wonderful World
+Bread,If
+Bread,Everything I Own
+The Carpenters,Close to You
+Allison Kraus and Brad Paisley,Whiskey Lullaby
+Alison Krauss,New Favorite
+Damien Rice,Cannonball
+Damien Rice,Delicate
+Max Richter,On the Nature of Daylight
+Chris Isaak,Wicked Game
+Jónsi,Simple Gifts
+When In Rome,The Promise
+Max Richter,Vladimir's Blues
+Jóhann Jóhannsson,Arrival
+Gustavo Santaolalla,The Last of Us
+Hozier,In the Woods Somewhere
+Hozier,Run
+Hozier,Cherry Wine
+Hozier,Work Song
+Hozier,Swan Upon Leda
+"Crosby, Stills & Nash",Helplessly Hoping
+Karen Carpenter,(They Long to Be) Close to You
+Foo,Everlong
+The Carpenters,Superstar
+,helplessly hoping
+Bon Iver,Holocene
+Bon Iver,Perth
+Bon Iver,8 (circle)
+Bon Iver,Hey Ma
+Bon Iver,33 GOD
+Bon Iver,Creeks
+Bon Iver,Michicant
+Bon Iver,"Minnesota, WI"
+Bon Iver,10 death breast
+,Silent Lucidity
+,go rest high on that mountain
+,River
+,What a Wonderful World
+,Imagine
+,Father and Son
+Phil Lesh,Box of Rain
+Jerry Garcia,Reuben and Cherise
+Simon & Garfunkel,The Sound of Silence
+Jeff Buckley,Hallelujah
+Chris Cornell,Nothing Compares 2 U
+Alicia Keys,If I Ain't Got You
+Alice in Chains,Rain When I Die
+Alice in Chains,Nutshell
+The Postal Service,Such Great Heights
+Iron & Wine,Naked as We Came
+Iron & Wine,The Trapeze Swinger
+The Beatles,Golden Slumbers
+The Beatles,The Long and Winding Road
+The Beatles,Julia
+The Beatles,Let it Be
+Led Zeppelin,Ten Years Gone
+Bach,Air on the G String
+The Verve,The Drugs Don't Work
+The Cure,Untitled
+The Cure,Lovesong
+Yazoo,Upstairs at Eric's
+Selena Gomez,Winter 
+Tori Amos,Pretty Good Year
+Tori Amos,Putting the Damage On
+Pearl Jam,Black
+Yiruma,Sunbeams... They Scatter
+Yiruma,May Be
+Karen Carpenter,(They Long to Be) Close to You
+Anne Murray,Danny's Song
+Anne Murray,You Needed Me
+Puccini,Un Bel Di
+Puccini,Vissi d’Arte
+Donna Lewis,I Love You Always Forever 
+Sophie B. Hawkins,As I Lay Me Down
+Prince,Love
+Chris Cornell,Nothing Compares 2 U
+The Rolling Stones,Wild Horses
+The Beatles,Here Comes the Sun
+Israel Kamakawiwoʻole,Somewhere Over the Rainbow/Wonderful World
+Rufus Wainwright,Hallelujah
+Jeff Buckley,Hallelujah
+KD Lang,Hallelujah
+Journey,Open Arms
+Eva Cassidy,Fields of Gold
+The Goo Goo Dolls,Name
+Pearl Jam,Just Breathe
+Unknown,Joe's Garage
+Unknown,Sampson
+Unknown,Love of My Life
+Unknown,Intension
+Unknown,Hurt
+Unknown,PPP
+Unknown,Amazing Grace
+Hayde Bluegrass Orchestra version,All My Tears
+Portishead,The Rip
+Phoebe Bridgers,Moon Song
+Unknown,Les Fleurs
+Unknown,Only Skin
+When the party's over,Billie Eillish
+Unknown,Clair de Lune
+Unknown,Folklore
+Unknown,Gnossienne
+Unknown,Black Muddy River
+Unknown,Standing on the Moon
+Unknown,Unbroken Chain
+Unknown,Ship of Fools
+Unknown,Brokedown Palace
+David Gilmour,Time
+Ray Manzarek,Riders On the Storm
+Penguin Cafe Orchestra,The Sound of Someone You Love Going Away and it Doesn't Matter
+Lord Huron,The Night We Met
+Lord Huron,Love like Ghosts
+Lord Huron,Lost in Time and Space
+Fleet Foxes,Tiger Mountain Peasant Song
+Fleet Foxes,Blue Ridge Mountains
+Fleet Foxes,Helplessness Blues
+The Head and the Heart,In the Morning
+Bon Iver,Holocene
+Neil Young,Unknown
+Paul Simon,Bridge Over Troubled Water
+Simon and Garfunkel,April Come She Will
+Simon and Garfunkel,The Boxer
+Simon and Garfunkel,Homeward Bound
+Simon and Garfunkel,Scarborough Fair
+Simon and Garfunkel,The Sound of Silence
+John Denver,Rocky Mountain High
+John Denver,This Old Guitar
+John Denver,Thank God I'm a Country Boy
+Etta James,At Last
+Joni Mitchell,Both Sides Now
+Joni Mitchell,Roses Blue
+Joni Mitchell,Circle game
+Joni Mitchell,Blue
+Sigur Rós,Untitled #3 (samskeyti)
+Sigur Rós,Olsen Olsen
+Sigur Rós,Sæglópur
+The Zombies,This Will Be Our Year
+Jimi Hendrix,Little Wing
+Jimi Hendrix,Bold As Love
+Jimi Hendrix,The Wind Cries Mary
+Jimi Hendrix,Castles Made of Sand
+Jimi Hendrix,Voodoo Child (Slight Return)
+Jimi Hendrix,All Along the Watchtower
+Jimi Hendrix,Hey Joe
+Jimi Hendrix,Purple Haze
+Jimi Hendrix,Foxy Lady
+Jimi Hendrix,Manic Depression
+Jimi Hendrix,Red House
+Jimi Hendrix,If 6 Was 9
+Jimi Hendrix,Spanish Castle Magic
+Jimi Hendrix,Stone Free
+Jimi Hendrix,Crosstown Traffic
+Jimi Hendrix,Gypsy Eyes
+Jimi Hendrix,Third Stone from the Sun
+Jimi Hendrix,Electric Ladyland
+Jimi Hendrix,Burning of the Midnight Lamp
+Jimi Hendrix,Are You Experienced?
+Jimi Hendrix,Axis: Bold as Love
+Jimi Hendrix,Electric Ladyland
+Jimi Hendrix,Band of Gypsys
+Jimi Hendrix,The Cry of Love
+Jimi Hendrix,Rainbow Bridge
+Jimi Hendrix,War Heroes
+Jimi Hendrix,Loose Ends
+Jimi Hendrix,Crash Landing
+Jimi Hendrix,Midnight Lightning
+Jimi Hendrix,Nine to the Universe
+Jimi Hendrix,Valleys of Neptune
+Jimi Hendrix,"People, Hell and Angels"
+Jimi Hendrix,Both Sides of the Sky
+Jimi Hendrix,Live at Monterey
+Jimi Hendrix,Live at Woodstock
+Jimi Hendrix,Live at Berkeley
+Jimi Hendrix,Live at the Isle of Wight
+Jimi Hendrix,Live at Fillmore East
+Jimi Hendrix,Live at Winterland
+Jimi Hendrix,Live at the Royal Albert Hall
+Jimi Hendrix,Live at the Atlanta Pop Festival
+Jimi Hendrix,Live at the LA Forum
+Jimi Hendrix,Live at the Oakland Coliseum
+Jimi Hendrix,Live at the San Diego Sports Arena
+Jimi Hendrix,Live at the Honolulu International Center
+Jimi Hendrix,Live at the Miami Pop Festival
+Jimi Hendrix,Live at the Paris Olympia
+Jimi Hendrix,Live at the Stockholm Concert Hall
+Jimi Hendrix,Live at the Clark University
+Jimi Hendrix,Live at the Boston Garden
+Jimi Hendrix,Live at the Madison Square Garden
+Jimi Hendrix,Live at the Isle of Fehmarn
+Jimi Hendrix,Live at the Maui Community College
+Jimi Hendrix,Live at the Atlanta International Pop Festival
+Jimi Hendrix,Live at the Newport Pop Festival
+Jimi Hendrix,Live at the LA Forum
+Jimi Hendrix,Live at the San Francisco Civic Auditorium
+Jimi Hendrix,Live at the Berkeley Community Theatre
+Jimi Hendrix,Live at the San Diego Sports Arena
+Jimi Hendrix,Live at the Tivolis Koncertsal
+Jimi Hendrix,Live at the Konserthuset
+Jimi Hendrix,Live at the Royal Albert Hall
+Jimi Hendrix,Live at the Isle of Wight Festival
+Jimi Hendrix,Live at the Berkeley Community Theatre
+Jimi Hendrix,Live at the Isle of Fehmarn
+Jimi Hendrix,Live at the Maui Community College
+Jimi Hendrix,Live at the Atlanta International Pop Festival
+Jimi Hendrix,Live at the Newport Pop Festival
+Jimi Hendrix,Live at the LA Forum
+Jimi Hendrix,Live at the San Francisco Civic Auditorium
+Jimi Hendrix,Live at the Berkeley Community Theatre
+Jimi Hendrix,Live at the San Diego Sports Arena
+Jimi Hendrix,Live at the Tivolis Koncertsal
+Jimi Hendrix,Live at the Konserthuset
+Jimi Hendrix,Live at the Royal Albert Hall
+Jimi Hendrix,Live at the Isle of Wight Festival
+Jimi Hendrix,Live at the Berkeley Community Theatre
+Jimi Hendrix,Live at the Isle of Fehmarn
+Jimi Hendrix,Live at the Maui Community College
+Jimi Hendrix,Live at the Atlanta International Pop Festival
+Jimi Hendrix,Live at the Newport Pop Festival
+Jimi Hendrix,Live at the LA Forum
+Jimi Hendrix,Live at the San Francisco Civic Auditorium
+Jimi Hendrix,Live at the Berkeley Community Theatre
+Jimi Hendrix,Live at the San Diego Sports Arena
+Jimi Hendrix,Live at the Tivolis Koncertsal
+Jimi Hendrix,Live at the Konserthuset
+Jimi Hendrix,Live at the Royal Albert Hall
+Jimi Hendrix,Live at the Isle of Wight Festival
+Jimi Hendrix,Live at the Berkeley Community Theatre
+Jimi Hendrix,Live at the Isle of Fehmarn
+Jimi Hendrix,Live at the Maui Community College
+Jimi Hendrix,Live at the Atlanta International Pop Festival
+Jimi Hendrix,Live at the Newport Pop Festival
+Jimi Hendrix,Live at the LA Forum
+Jimi Hendrix,Live at the San Francisco Civic Auditorium
+Jimi Hendrix,Live at the Berkeley Community Theatre
+Jimi Hendrix,Live at the San Diego Sports Arena
+Jimi Hendrix,Live at the Tivolis Koncertsal
+Jimi Hendrix,Live at the Konserthuset
+Jimi Hendrix,Live at the Royal Albert Hall
+Jimi Hendrix,Live at the Isle of Wight Festival
+Jimi Hendrix,Live at the Berkeley Community Theatre
+Jimi Hendrix,Live at the Isle of Fehmarn
+Jimi Hendrix,Live at the Maui Community College
+Jimi Hendrix,Live at the Atlanta International Pop Festival
+Jimi Hendrix,Live at the Newport Pop Festival
+Jimi Hendrix,Live at the LA Forum
+Jimi Hendrix,Live at the San Francisco Civic Auditorium
+Jimi Hendrix,Live at the Berkeley Community Theatre
+Jimi Hendrix,Live at the San Diego Sports Arena
+Jimi Hendrix,Live at the Tivolis Koncertsal
+Jimi Hendrix,Live at the Konserthuset
+Jimi Hendrix,Live at the Royal Albert Hall
+Jimi Hendrix,Live at the Isle of Wight Festival
+Jimi Hendrix,Live at the Berkeley Community Theatre
+Jimi Hendrix,Live at the Isle of Fehmarn
+Jimi Hendrix,Live at the Maui Community College
+Jimi Hendrix,Live at the Atlanta International Pop Festival
+Jimi Hendrix,Live at the Newport Pop Festival
+Jimi Hendrix,Live at the LA Forum
+Jimi Hendrix,Live at the San Francisco Civic Auditorium
+Jimi Hendrix,Live at the Berkeley Community Theatre
+Jimi Hendrix,Live at the San Diego Sports Arena
+Jimi Hendrix,Live at the Tivolis Koncertsal
+Jimi Hendrix,Live at the Konserthuset
+Jimi Hendrix,Live at the Royal Albert Hall
+Jimi Hendrix,Live at the Isle of Wight Festival
+Jimi Hendrix,Live at the Berkeley Community Theatre
+Jimi Hendrix,Live at the Isle of Fehmarn
+Jimi Hendrix,Live at the Maui Community College
+Jimi Hendrix,Live at the Atlanta International Pop Festival
+Jimi Hendrix,Live at the Newport Pop Festival
+Jimi Hendrix,Live at the LA Forum
+Jimi Hendrix,Live at the San Francisco Civic Auditorium
+Jimi Hendrix,Live at the Berkeley Community Theatre
+Jimi Hendrix,Live at the San Diego Sports Arena
+Jimi Hendrix,Live at the Tivolis Koncertsal
+Jimi Hendrix,Live at the Konserthuset
+Jimi Hendrix,Live at the Royal Albert Hall
+Jimi Hendrix,Live at the Isle of Wight Festival
+Jimi Hendrix,Live at the Berkeley Community Theatre
+Jimi Hendrix,Live at the Isle of Fehmarn
+Jimi Hendrix,Live at the Maui Community College
+Jimi Hendrix,Live at the Atlanta International Pop Festival
+Jimi Hendrix,Live at the Newport Pop Festival
+Jimi Hendrix,Live at the LA Forum
+Jimi Hendrix,Live at the San Francisco Civic Auditorium
+Jimi Hendrix,Live at the Berkeley Community Theatre
+Jimi Hendrix,Live at the San Diego Sports Arena
+Jimi Hendrix,Live at the Tivolis Koncertsal
+Jimi Hendrix,Live at the Konserthuset
+Jimi Hendrix,Live at the Royal Albert Hall
+Jimi Hendrix,Live at the Isle of Wight Festival
+Jimi Hendrix,Live at the Berkeley Community Theatre
+Jimi Hendrix,Live at the Isle of Fehmarn
+Jimi Hendrix,Live at the Maui Community College
+Jimi Hendrix,Live at the Atlanta International Pop Festival
+Jimi Hendrix,Live at the Newport Pop Festival
+Jimi Hendrix,Live at the LA Forum
+Jimi Hendrix,Live at the San Francisco Civic Auditorium
+Jimi Hendrix,Live at the Berkeley Community Theatre
+Jimi Hendrix,Live at the San Diego Sports Arena
+Jimi Hendrix,Live at the Tivolis Koncertsal
+Jimi Hendrix,Live at the Konserthuset
+Jimi Hendrix,Live at the Royal Albert Hall
+Jimi Hendrix,Live at the Isle of Wight Festival
+Jimi Hendrix,Live at the Berkeley Community Theatre
+Jimi Hendrix,Live at the Isle of Fehmarn
+Jimi Hendrix,Live at the Maui Community College
+Jimi Hendrix,Live at the Atlanta International Pop Festival
+Jimi Hendrix,Live at the Newport Pop Festival
+Jimi Hendrix,Live at the LA Forum
+Jimi Hendrix,Live at the San Francisco Civic Auditorium
+Jimi Hendrix,Live at the Berkeley Community Theatre
+Jimi Hendrix,Live at the San Diego Sports Arena
+Jimi Hendrix,Live at the Tivolis Koncertsal
+Jimi Hendrix,Live at the Konserthuset
+Jimi Hendrix,Live at the Royal Albert Hall
+Jimi Hendrix,Live at the Isle of Wight Festival
+Jimi Hendrix,Live at the Berkeley Community Theatre
+Jimi Hendrix,Live at the Isle of Fehmarn
+Jimi Hendrix,Live at the Maui Community College
+Jimi Hendrix,Live at the Atlanta International Pop Festival
+Jimi Hendrix,Live at the Newport Pop Festival
+Jimi Hendrix,Live at the LA Forum
+Jimi Hendrix,Live at the San Francisco Civic Auditorium
+Jimi Hendrix,Live at the Berkeley Community Theatre
+Jimi Hendrix,Live at the San Diego Sports Arena
+Jimi Hendrix,Live at the Tivolis Koncertsal
+Jimi Hendrix,Live at the Konserthuset
+Jimi Hendrix,Live at the Royal Albert Hall
+Jimi Hendrix,Live at the Isle of Wight Festival
+Jimi Hendrix,Live at the Berkeley Community Theatre
+Jimi Hendrix,Live at the Isle of Fehmarn
+Jimi Hendrix,Live at the Maui Community College
+Jimi Hendrix,Live at the Atlanta International Pop Festival
+Jimi Hendrix,Live at the Newport Pop Festival
+Jimi Hendrix,Live at the LA Forum
+Jimi Hendrix,Live at the San Francisco Civic Auditorium
+Jimi Hendrix,Live at the Berkeley Community Theatre
+Jimi Hendrix,Live at the San Diego Sports Arena
+Jimi Hendrix,Live at the Tivolis Koncertsal
+Jimi Hendrix,Live at the Konserthuset
+Jimi Hendrix,Live at the Royal Albert Hall
+Ludovico Einaudi,Nuvole Bianche
+Hans Zimmer,Interstellar Intro
+Neil Young,Harvest Moon
+Dvorak,Song to the Moon
+Frank Sinatra,Fly Me to the Moon
+Philadelphia Orchestra,Clair de Lune
+Chopin,Ballade no. 3
+The Beatles,She's Leaving Home
+Andy Williams,Moon River
+The Beatles,I Wanna Hold Your Hand
+Glee,Blackbird
+Alter Bridge,Blackbird
+Mama Cass,Blackbird
+Louis/Ella,Blackbird
+Gordon Lightfoot,The Wreck of the Edmund Fitzgerald
+Gordon Lightfoot,Circle of Steel
+Simon & Garfunkel,The Only Living Boy in New York
+Johnny Cash,The Only Living Boy in New York
+Israel Kamakawiwo'ole,Somewhere Over The Rainbow/What A Wonderful World
+Edith Piaf,La Vie En Rose
+Daniela Andrade,La Vie En Rose
+Laura & Anton,La Vie En Rose
+Ella Fitzgerald and Louis Armstrong,Stars over Alabama
+Avril Altdelay,05quVI7Ioqc
+Aphex Twin,Xtal
+Aphex Twin,Lichen
+Aphex Twin,Rhubarb
+Aphex Twin,Alberto Balsalm
+Aphex Twin,Fingerbib
+Aphex Twin,Untitled #17
+David Bowie,Come to Daddy
+Ewan McGregor,Come What May
+Elton John,Tiny Dancer
+Death Cab for Cutie,What Sarah Said
+My Chemical Romance,Cancer
+Simon & Garfunkel,Bridge Over Troubled Water
+Simon & Garfunkel,El Condor Pasa
+Simon & Garfunkel,The Boxer
+America,A Horse with No Name
+The Secret Sisters,Flowers Never Bend with the Rainfall
+The Cocteau Twins,Anything sung by Liz Fraser
+The Cocteau Twins,Eperdu
+Massive Attack,Teardrop
+Massive Attack,Unfinished Sympathy
+Florence + the Machine,Stand by Me
+Tracy Chapman,Stand by Me
+The Beach Boys,God Only Knows
+The Cranberries,Linger
+The Cranberries,Ode to My Family
+Delores O'Riordan,Dreams
+The Cranberries,Dreams
+Fleetwood Mac,Songbird
+The Flamingos,Only Have Eyes for You
+Smashing Pumpkins,1979
+Glen Hansard,Calling You
+Glen Hansard,Forget Her
+Slowdive,Love Songs on the Radio
+Cigarettes after Sex,Love Songs on the Radio
+The Swell Season,The Oscar's Performance
+Dire Straits,Dire Straits
+The Killers,"Ruby, Don't Take Your Love to Town"
+Joy Division,Shadowplay
+Indigo Girls,Closer to Fine
+Peter Gabriel,Mercy Street
+Peter Gabriel,Solsbury Hill
+The Magnetic Fields,Book of Love
+Peter Gabriel,In Your Eyes
+The Beatles,I Wanna Hold Your Hand
+Enya,Only Time
+Jimi Hendrix,Little Wing
+Jimi Hendrix,Castles Made of Sand
+Jimi Hendrix,Angel
+Jimi Hendrix,All Along the Watchtower
+Stevie Ray Vaughan,Little Wing
+The Cure,Plainsong
+Radiohead,Reckoner
+Radiohead,Nude
+Radiohead,Motion Picture Soundtrack
+Hans Zimmer,Chevaliers de Sangreal
+Hans Zimmer,Injection
+John Prine,Come on Home
+The Postal Service,Such Great Heights
+Van Morrison,Moondance
+Van Morrison,Astral Weeks
+Israel Kamakawiwo'ole,Somewhere Over the Rainbow
+Bon Iver,Holocene
+NIN,Hurt
+The Avett Brothers,No Hard Feelings
+Glen Hansard,When Your Mind's Made Up
+Hozier,Work Song
+Hozier,Shrike
+Hozier,Cherry Wine
+The National,I Need My Girl
+Chuck Berry,Johnny B. Goode
+Vince,Go rest high on that Mountain
+A Perfect Circle,The Nurse who Loved me (cover)
+A Perfect Circle,Gravity
+A Perfect Circle,The Noose
+A Perfect Circle,Judith
+A Perfect Circle,Orestes
+A Perfect Circle,Blue
+A Perfect Circle,Wings for Marie pt 1&2
+Heart,Ann
+Heart,Nancy
+Grateful Dead,Ripple
+Alice in Chains,Nutshell
+Mad Season,River of Deceit
+Iron and Wine,Flightless bird
+The Shins,New Slang
+Gregory Alan Isakov,Flightless bird
+Iron and Wine,Boy With a Coin
+The Beatles,Golden Slumbers/Carry That Weight/The End
+The Beatles,Here Comes The Sun
+The Beatles,Something
+The Beatles,The long and winding road
+The Monkees,Riu Chiu
+Church Hymns,descante
+Upstairs at Eric’s,Winter Kills
+Upstairs at Eric’s,Situation
+Little Earthquakes,Bells for Her
+Dolly Parton,Jolene
+Jackson Browne,On Empty
+The Beatles,Let It Be Naked
+The Dream Academy,The long and winding road
+The Smiths,Please Please Please Let Me Get What I Want
+Morrissey,Everyday is like Sunday
+Pink Floyd,Fearless
+Pink Floyd,Wish You Were Here
+Chris Isaak,Wicked Game
+Prince,Nothing Compares 2 U
+Israel Kamakawiwo'ole,Somewhere Over the Rainbow
+Spiritualized,Ladies and Gentlemen we are Floating in Space
+Rufus Wainwright,Hallelujah
+Journey,Open Arms
+Eva Cassidy,Fields of Gold
+Gary Jules,Mad World
+Disturbed,unknown
+America,Ventura Highway
+unknown,unknown
+Goo Goo Dolls,Iris
+Goo Goo Dolls,Black Balloon
+unknown,unknown
+Berlin,Take My Breath Away
+unknown,unknown
+Queen,Love of my life
+unknown,unknown
+Johnny Cash,Hurt
+Trent Reznor,Hurt
+Beach House,Space Song
+Purity Ring,Fineshrine
+unknown,unknown
+Joaquin Rodrigo,Concerto de Aranjuez
+Erik Satie,Gymnopedies
+unknown,unknown
+Gary Jules,Mad World
+unknown,unknown
+The National,About Today
+Lord Huron,The Night We Met
+The Paper Kites,Bloom
+First Aid Kit,My Silver Lining
+Fleet Foxes,Ragged Wood
+The Allman Brothers,Little Martha
+Bob Dylan,Girl From the North Country
+Simon & Garfunkel,Bridge over troubled waters
+Simon & Garfunkel,The Boxer
+Etta James,At Last
+Sigur Rós,Njosnavelin
+Sigur Rós,Glosoli
+Sigur Rós,Ara Batur
+The Beatles,In My Life
+Orville Peck,Dream A Little Dream Of Me
+Mama Cass Elliot,Dream A Little Dream Of Me
+Doris Day,Dream A Little Dream Of Me
+Gordon Lightfoot,Wreck of the Edmund Fitzgerald
+Gordon Lightfoot,Circle of Steel
+Gordon Lightfoot,My best old ex-friend Ray
+Artic Monkeys,The Lovecats
+Billy Joel,This was the song
+Edith Piaf,La Vie En Rose
+Elton John,Mona Lisa’s and mad hatters
+Elton John,Your Song
+Iron & Wine,Such Great Heights
+The Postal Service,unknown
+Death Cab for Cutie,I Will Follow You Into The Dark
+Death Cab for Cutie,Brothers On a Hotel Bed
+Johnny Cash,The Mercy Seat
+Aretha Franklin,unknown
+Simon & Garfunkel,Homeward Bound
+Simon & Garfunkel,Bridge Over Troubled Water
+Johann Sebastian Bach,Air for a G String
+America,The Boxer
+Massive Attack,Group Four
+Massive Attack,Black Milk
+Radiohead,Exit Music (For a Film)
+The Beach Boys,God Only Knows
+The Beach Boys,Wouldn't It Be Nice
+The Beach Boys,Sloop John B
+Evanescence,Lacrymosa
+The Cranberries,Linger
+The Cranberries,Linger
+The Cranberries,"Oh, I thought the world of you"
+Fleetwood Mac,The Dance
+Jeff Buckley,You and I
+Sky Cries Mary,(unknown)
+The Frames,Falling Slowly
+Mazzy Star,(unknown)
+Glen Hansard and Marketa Irglova,Falling Slowly
+Marketa Irglova,(unknown)
+Mark Knopfler,Making Movies
+Indigo Girls,Three of us
+Peter Gabriel,Shock the Monkey
+Peter Gabriel,Don’t Give Up
+Peter Gabriel,One Day
+John Prine,I Remember Everything
+Brandi Carlile,I Remember Everything (Cover)
+Radiohead,Exit Music (For a Film)
+Van Morrison,Slim Slow Slider
+Van Morrison,Madame George
+Bon Iver,Creeks
+Bon Iver,8 circle
+Huey Lewis and the News,The Power of Love
+Johnny Tillotson,Dreamy Eyes
+Judy Collins,Judith
+The Righteous Brothers,Unchained Melody
+Cher,Moonstruck
+Iron and Wine,Naked As We Came
+The Beatles,Abbey Road
+Ray LaMontagne,Trouble
+Ray LaMontagne,Hold You in my Arms
+The Smiths,The Light That Never Goes Out
+Taylor Swift,Fearless
+Jeff Buckley,Nothing Compares 2 U
+John Cale,Nothing Compares 2 U
+Leonard Cohen,Nothing Compares 2 U
+Rufus Wainwright,Hallelujah
+The Goo Goo Dolls,Black Balloon
+Nine Inch Nails,Hurt
+Johnny Cash,Hurt
+Don McLean,Vincent
+The Helio Sequence,Cutting Stone
+Simon & Garfunkel,The Boxer
+The Beatles,Little Martha
+Sigur Rós,Glosoli
+Sigur Rós,Ekki Mukk
+Plants and Animals,Bye Bye Bye
+The Quarrymen,
+Claude Debussy,Clair de Lune
+,
+,
+,
+Ludovico Einaudi,Fly
+Ludovico Einaudi,Divenire
+,
+Alter Bridge,Blackbird
+The Beatles,Blackbird
+,
+,
+,
+,
+,
+,
+Elton John,Goodbye Yellow Brick Road
+Elton John,Captain Fantastic and the Brown Dirt Cowboy
+Death Cab for Cutie,
+Simon & Garfunkel,The Boxer
+Ben E. King,Stand By Me
+,
+,
+The Cranberries,Linger
+,
+Adam Sandler,
+,
+,
+Jeff Buckley,
+Mazzy Star,Look On Down From The Bridge
+Jeff Buckley,Hallelujah
+Rufus Wainwright,Hallelujah
+K.D. Lang,Hallelujah
+The Beatles,Astral Weeks
+Bob Dylan,many covers
+Archspire,Reverie on the Onyx
+Wolfgang Amadeus Mozart,Lacrimosa
+Ludwig van Beethoven,all works
+Ludovico Einaudi,Divenire
+Elton John,Your Song
+Elton John,Tiny Dancer
+Elton John,unknown
+SRV,unknown
+Chris Cornell,unknown
+Jeff Buckley,All Along the Watchtower
+John Cale,unknown
+Sigur Rós,unknown
+The Beatles,unknown
+Nightwish,unknown
