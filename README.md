@@ -13,16 +13,15 @@ Use OpenAI API to do entity extraction of all the songs from this [huge Reddit t
 
 To run the Jupyter notebook you will need to sign up for those 3 APIs, and put IDs and secrets in a `.env` file similar to `dot-env-template`.
 
-ChatGPT sometimes does really well, for instance this extracts 4 CSV records that look good
+ChatGPT sometimes does really well, for instance this extracts 4 good CSV records:
 
 ```
 Gordon is an amazing poet and so versatile. Il"If You Could Read My Mind," "Early Morning Rain," Old Dan's Records," "Don Quixote," and of course, "The Wreck of the Edmund Fitzgerald" are all so different but so good. 
-0017.log:"Gordon Lightfoot","Don Quixote"
 ```
 
-or from `" Smaointe" is beautiful too.` in the context of an Enya conversation.
+also handles `" Smaointe" is beautiful too.` in the context of an Enya conversation.
 
-or `The Killers do a pretty fantastic version of this tune as well. Around the release of "Sam's Town" they recorded a few tracks at Abbey Road studios that were eventually dropped as B-sides and a cover of this song was one of them.` in the context of Romeo and Juliet, by Dire Straits
+also handles `The Killers do a pretty fantastic version of this tune as well. Around the release of "Sam's Town" they recorded a few tracks at Abbey Road studios that were eventually dropped as B-sides and a cover of this song was one of them.` in the context of Romeo and Juliet, by Dire Straits
 
 But sometimes it hallucinates, Mrs. Robinson ended up in the playlist but it's nowhere in the thread. Possibly ChatGPT just thought it hould be there. (not wrong probably). 
 
