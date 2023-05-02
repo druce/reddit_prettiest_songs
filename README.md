@@ -27,7 +27,7 @@ But sometimes it hallucinates, Mrs. Robinson ended up in the playlist but it's n
 
 Note that all of this is at a temperature of 0, so ChatGPT should not get super creative.
 
-Spotify search API is pretty wonky, doesn't like apostrophes, maybe they need to be escaped, sometimes returns covers and karaoke versions instead of well known song.
+Spotify search API is pretty wonky, doesn't like apostrophes, maybe they need to be escaped, sometimes returns covers and karaoke versions instead of well known songs.
 
 Songs from the first pass below...reran a couple of times and added more stuff and maybe cleaned up a little.
 
