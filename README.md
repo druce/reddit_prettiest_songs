@@ -23,7 +23,7 @@ also handles `" Smaointe" is beautiful too.` in the context of an Enya conversat
 
 also handles `The Killers do a pretty fantastic version of this tune as well. Around the release of "Sam's Town" they recorded a few tracks at Abbey Road studios that were eventually dropped as B-sides and a cover of this song was one of them.` in the context of Romeo and Juliet, by Dire Straits
 
-But sometimes it hallucinates, Mrs. Robinson ended up in the playlist but it's nowhere in the thread. Possibly ChatGPT just thought it hould be there. (not wrong probably). 
+But sometimes it hallucinates, Mrs. Robinson ended up in the playlist but it's nowhere in the thread. Possibly ChatGPT just thought it should be there. (not wrong probably). 
 
 Note that all of this is at a temperature of 0, so ChatGPT should not get super creative.
 
