@@ -7,12 +7,30 @@ Use OpenAI API to do entity extraction of all the songs from this [huge Reddit t
  - Use [Spotify API](https://developer.spotify.com/documentation/web-api/reference/add-tracks-to-playlist) with [Spotipy](https://spotipy.readthedocs.io/en/2.22.1/#examples) to make a playlist (with [Spotify API key](https://developer.spotify.com/documentation/web-api/tutorials/getting-started))
  - Needed a bit of scrubbing, but about 1 day of work, wouldn't have been possible to do a 900-song playlist manually without a team of Mechanical Turks or something
  - Possible enhancements: Could prompt ChatGPT on a per-comment basis and save a file for each comment's extracted songs, make it easier to track down what OpenAI gets wrong, have a resumable, retryable, repeatable process.
- - Could get the reply karma score and save it, rank the songs by sum(mention x reply karma)
+ - Could get the reply karma score and save it, rank the songs by sum(mention x reply karma). This would enable counting all the submissions with 1 karma and then filtering by a minimum number of total karma for the song.
  - Could make a Reddit bot that people could summon to extract all the songs
+ - Could filter songs without a minimum number of listens on Spotify
 
 To run the Jupyter notebook you will need to sign up for those 3 APIs, and put IDs and secrets in a `.env` file similar to `dot-env-template`.
 
-Submit pull requests if anything can be fixed, and also any correction to `gold.csv` which was the final file after some manual scrubbing. But still had some songs that weren't found via Spotify search, or where wrong song like a karaoke cover was returned.
+ChatGPT sometimes does really well, for instance this extracts 4 CSV records that look good
+
+```
+Gordon is an amazing poet and so versatile. Il"If You Could Read My Mind," "Early Morning Rain," Old Dan's Records," "Don Quixote," and of course, "The Wreck of the Edmund Fitzgerald" are all so different but so good. 
+0017.log:"Gordon Lightfoot","Don Quixote"
+```
+
+or from `" Smaointe" is beautiful too.` in the context of an Enya conversation.
+
+or `The Killers do a pretty fantastic version of this tune as well. Around the release of "Sam's Town" they recorded a few tracks at Abbey Road studios that were eventually dropped as B-sides and a cover of this song was one of them.` in the context of Romeo and Juliet, by Dire Straits
+
+But sometimes it hallucinates, Mrs. Robinson ended up in the playlist but it's nowhere in the thread. Possibly ChatGPT just thought it hould be there. (not wrong probably). 
+
+Note that all of this is at a temperature of 0, so ChatGPT should not get super creative.
+
+Spotify search API is pretty wonky, doesn't like apostrophes, maybe they need to be escaped, sometimes returns covers and karaoke versions instead of well known song.
+
+Songs from the first pass below...reran a couple of times and added more stuff and maybe cleaned up a little.
 
 | artist | track |
 | :------ |:------ |
