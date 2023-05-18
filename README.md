@@ -3,7 +3,7 @@
 Use OpenAI API to do entity extraction of all the songs from this [huge Reddit thread](https://www.reddit.com/r/AskReddit/comments/12viv4v/what_is_the_prettiest_song_you_ever_heard_in_your/) (25k replies) and create a [Spotify playlist](https://open.spotify.com/playlist/08YFkbtTV6GBfNtjJ4PHDu?si=753676632a9b47c6) with ~1000+ songs
 
  - Use Reddit [PRAW API](https://praw.readthedocs.io/en/stable/) to download all the comments (with [Reddit API key](https://www.reddit.com/prefs/apps))
- - Use [OpenAI API](https://platform.openai.com/docs/quickstart) with a prompt like, extract all the songs from this text to CSV (with [OpenAI API key](https://platform.openai.com/account/api-keys))
+ - Use [OpenAI API](https://platform.openai.com/docs/quickstart) with a prompt like, extract all the songs from this text to CSV (with [OpenAI API key](https://platform.openai.com/account/api-keys)). Made a couple of followup prompts to fix spelling, dedupe, cleanup.
  - Use [Spotify API](https://developer.spotify.com/documentation/web-api/reference/add-tracks-to-playlist) with [Spotipy](https://spotipy.readthedocs.io/en/2.22.1/#examples) to make a playlist (with [Spotify API key](https://developer.spotify.com/documentation/web-api/tutorials/getting-started))
  - Needed a bit of scrubbing, but about 1 day of work, wouldn't have been possible to do a 1000-song playlist manually without a team of Mechanical Turks or something
 
