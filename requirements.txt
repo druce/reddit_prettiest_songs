@@ -16,5 +16,6 @@ scikit-learn
 scipy
 simplegmail
 spotipy
+tiktoken
 unstructured
 wrapt-timeout-decorator
