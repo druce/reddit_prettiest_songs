@@ -1,18 +1,18 @@
 artist,track,score
-Claude Debussy,Clair de Lune,22088
+Claude Debussy,Clair de Lune,22093
 Simon & Garfunkel,Scarborough Fair,11922
 The Beatles,In my Life,9049
 Erik Satie,Gymnopédies,7620
 The Cranberries,Dreams,7305
-Israel Kamakawiwoole,Over the Rainbow,6681
-Neil Young and Crazy Horse,Harvest Moon,5337
+Israel Kamakawiwo'ole,Over the Rainbow,6681
+Neil Young,Harvest Moon,5337
 Jim Croce,Time in a Bottle,5285
 Mazzy Star,Fade into you,4357
 Don McLean,"Vincent (Starry, Starry Night)",3989
 The Beach Boys,God Only Knows,3882
-Sigur Ros,Hoppipolla,3819
+Sigur Rós,Hoppipolla,3819
 Elton John,Your Song,3636
-Edith Piaf,La Vie en Rose,3205
+Édith Piaf,La Vie en Rose,3205
 Lord Huron,The night we met,3187
 Fleet Foxes,White Winter Hymnal,2888
 The Righteous Brothers,Unchained Melody,2862
@@ -29,7 +29,7 @@ Aphex Twin,Avril 14th,1798
 Hans Zimmer,Interstellar Intro,1696
 Massive Attack,Teardrop,1541
 Enya,Caribbean Blue,1454
-Ben E King,Stand By Me,1388
+Ben E. King,Stand By Me,1388
 Gordon Lightfoot,If you could read my mind,1353
 Louis Armstrong,What a wonderful world,1269
 Peter Gabriel,In Your Eyes,1253
@@ -39,7 +39,7 @@ Leonard Cohen,Hallelujah,1060
 Jimi Hendrix,Little Wing,924
 Billy Joel,Vienna,873
 Andrew Lloyd Webber,Pie Jesu,867
-Sinead O'connor,Nothing Compares 2 U,848
+Sinéad O'Connor,Nothing Compares 2 U,848
 Grateful Dead,Standing on the Moon,841
 The Smiths,There is a light that never goes out,831
 Jeff Buckley,Lover you should’ve come over,814
@@ -51,17 +51,17 @@ Wolfgang Amadeus Mozart,Lacrimosa,769
 Cyndi Lauper,Time after time,749
 Dire Straits,Romeo and Juliet,740
 Hozier,Like Real People Do,729
-Sigur Ros,staralfur,720
+Sigur Rós,staralfur,720
 Queen,Silent lucidity,668
 Alice in Chains,Nutshell,660
 Explosions in the Sky,Your Hand in Mine,652
 Fleetwood Mac,Everywhere,641
 A Perfect Circle,Three Libras,620
 Van Morrison,Into the mystic,569
-Dream Academy,Life in a Northern Town,565
+The Dream Academy,Life in a Northern Town,565
 Nine Inch Nails,A Warm Place,556
 The Magnetic Fields,The Book of Love,544
-Henri Mancini,Moon River,539
+Henry Mancini,Moon River,539
 Jeff Buckley,Hallelujah,537
 Led Zeppelin,The Rain Song,517
 The Band,Atlantic City,515
@@ -69,32 +69,31 @@ Pink Floyd,The great gig in the sky,514
 Bon Iver,Holocene,501
 Pearl Jam,Black,446
 Ludwig van Beethoven,Ode to Joy,446
-Emerson,Lucky Man,441
+"Emerson, Lake & Palmer",Lucky Man,441
 America,A Horse with No Name,426
 Foo Fighters,Everlong (Acoustic),420
 Phoebe Bridgers,song,417
 Yiruma,River Flows in You,416
 Coldplay,The Scientist,400
-Annie,Into The West,395
-"Crosby, Stills, Nash, Young",Helplessly Hoping,391
+Annie Lennox,Into The West,395
+"Crosby, Stills, Nash & Young",Helplessly Hoping,391
 Eric Clapton,Tears in heaven,379
-INXS,Never Tear Us Apart,367
 Eagles,Hotel California,367
+INXS,Never Tear Us Apart,367
 Journey,Faithfully,366
-Karen Carpenter,(They Long to Be) Close to You,365
-Hollies,"He Ain't Heavy, He's My Brother",365
+The Hollies,"He Ain't Heavy, He's My Brother",365
+Carpenters,(They Long to Be) Close to You,365
 Bread,If,348
-The Verve Pipe,Bittersweet Symphony,334
+The Verve Pipe,Bitter sweet Symphony,334
 The Moody Blues,Nights in White Satin,315
 Ray LaMontagne,Jolene,311
-The Sundays,Into Dust,306
 Tori Amos,Little earthquakes,302
 Roberta Flack,The First Time Ever I Saw Your Face,298
 Yeah Yeah Yeahs,Maps,283
 Iron & Wine,The Trapeze Swinger,277
 George Harrison,While My Guitar Gently Weeps,251
-Cat Stevens,Morning Has Broken,251
-Alison Krauss,The Lucky One,247
+Yusuf / Cat Stevens,Morning Has Broken,251
+Alison Krauss & Union Station,The Lucky One,247
 Imogen Heap,Hide and Seek,245
 Harry Waters Jr.,Earth Angel (Will You Be Mine),237
 Leon Bridges,River,235
@@ -105,16 +104,15 @@ Johann Sebastian Bach,"Jesu, Joy of Man’s Desiring",218
 Sting,Fields of Gold,216
 Léo Delibes,The Flower Duet,206
 Mac Miller,2009,205
-Tom Petty and the Heartbreakers,These Dreams,202
+Heart,These Dreams,202
 Damien Rice,the blowers daughter,199
-Chris Stapleton,Traveler,197
+Chris Stapleton,Traveller,197
 Beach House,Myth,191
 Seal,Kiss from a Rose,189
 Vince,Go rest high on that mountain,189
 Frédéric Chopin,"Nocturne No. 2 in E-Flat Major, Op. 9 No. 2",184
 Johnny Cash,Hurt,181
 Metallica,Nothing else matters,176
-Bruce Springsteen,Born To Run,176
 Yazoo,Only You,176
 Simply Red,Holding Back the Years,175
 Sophie B. Hawkins,As I lay me down,164
@@ -123,34 +121,33 @@ Bob Dylan,Forever Young,156
 U2,Where the Streets Have No Name,154
 Anne Murray,You Needed Me,153
 The Carpenters,We've only just begun,152
+Taylor Swift,Invisible String,146
 Florence + The Machine,FFXV,146
-Taylor,Invisible String,146
 Elvis Presley,Unchained Melody,142
 Sleeping at Last,Saturn,140
 Lana Del Rey,West Coast,137
-Cocteau Twins,Evangeline,132
 Billie eilish,Ocean Eyes,132
+Cocteau Twins,Evangeline,132
 Black Pumas,Colors,129
 The 1975,Don’t talk,127
 Max Richter,on the nature of daylight,126
+Björk,Hyperballad,125
 Andrea Bocelli,Con te partiro,125
-Bjork,Hyperballad,125
 The Postal Service,Such Great Heights,124
 Gary Jules,Mad world,122
 Sarah McLachlan,Angel,114
-Prince Tui Teka,Purple Rain,112
+Prince,Purple Rain,112
 Bonnie Raitt,Angel from Montgomery,110
-Giacomo Puccini,Un Bel Di Vedremo,105
 Sufjan Stevens,Mystery of Love,105
+Giacomo Puccini,Un Bel Di Vedremo,105
 The Smashing Pumpkins,1979,104
 Traditional,Greensleeves,103
 Tool,Sober,102
 Savage Garden,"Truly, madly, deeply",100
 Disturbed,Sound of Silence,95
-Minnie,Loving you,90
 The Rolling Stones,You Can't Always Get What You Want,90
-Flaming Lips,Do you realize,90
-Aurora,Any song,85
+Minnie Riperton,Loving you,90
+The Flaming Lips,Do you realize,90
 Nick Drake,Pink Moon,84
 Portishead,Glory Box,82
 Eva Cassidy,Fields of Gold,81
@@ -158,20 +155,20 @@ Selena Gomez,Dreaming Of You,80
 Paul McCartney,I’ll Follow the Sun,79
 John Waite,Missing You,78
 Pyotr Ilyich Tchaikovsky,"5th symphony, movement 2",78
-Traditional,Amazing Grace,76
 Snow Patrol,chasing cars,76
-Norah Jones,Heart of Mine,75
+Traditional,Amazing Grace,76
 James Taylor,You’ve got a friend,75
+Norah Jones,Heart of Mine,75
 The Cinematic Orchestra,To Build a Home,74
-k.d. lang,Hallelujah,74
 Blind Melon,No Rain,74
+k.d. lang,Hallelujah,74
 Red Hot Chili Peppers,Wet Sand,73
-Neil Young and Crazy Horse,Words,72
+Neil Young,Words,72
 Sade,pearls,71
-Michael Jackson,Man in the Mirror,70
 Bette Midler,The Rose,70
-Loggins Messina,Danny's Song,69
+Michael Jackson,Man in the Mirror,70
 Kanye West,24,69
+Loggins & Messina,Danny's Song,69
 Joe Hisaishi,merry go round of life,69
 Daft Punk,Touch,67
 Nobuo Uematsu,To Zanarkand,67
@@ -180,865 +177,858 @@ Nat King Cole,Smile,66
 Bee Gees,Inmortality,66
 Puscifer,Bedlamite,65
 JVKE,golden hour,65
-Dave Matthews,Crash into Me,65
-Bonnie Raitt,Sam Stone,65
-Evanescence,Good enough,64
-Stevie Wonder,Isn't She Lovely,64
-Regina Spektor,Fidelity,64
+John Prine,Sam Stone,65
+Dave Matthews Band,Crash into Me,65
 David Bowie,The Man Who Sold The World,64
+Regina Spektor,Fidelity,64
+Stevie Wonder,Isn't She Lovely,64
+Evanescence,Good enough,64
 Zedd,The Middle,63
-Carlton Wilson,God Only Knows,62
+Camille Saint-Saëns,The Swan,63
 Colin Hay,I Just Don't Think I'll Ever Get Over You,62
 R.E.M.,It's the End of the World as We Know It (And I Feel Fine),61
-This Mortal Coil,Song to the Siren,61
 Pixies,Where is my mind,61
-Mama Cass Elliot,Dream a Little Dream of Me,60
+This Mortal Coil,Song to the Siren,61
+Cass Elliot,Dream a Little Dream of Me,60
 Brian Eno,Deep Blue Day,60
-Lily Allen,Somewhere only we know,59
 Aaron Copland,Fanfare for the Common Man,59
 Big Shaq,Man’s not hot,59
+Lily Allen,Somewhere only we know,59
 Sia,Breathe me,58
-Linkin Park,One more light,57
 Alanis Morissette,Uninvited,57
+Linkin Park,One more light,57
 M83,Outro,56
 Ralph Vaughan Williams,The Lark Ascending,55
-Ennio Morricone,Un Amico,55
-Bright Eyes,Something Vague,55
 Kate Bush,This woman’s work,55
+Bright Eyes,Something Vague,55
+Ennio Morricone,Un Amico,55
 Stevie Ray Vaughan,Lenny,54
-Jeremy Soule,Kyne's Peace,53
 Gustav Holst,"Jupiter, the Bringer of Jollity",53
-Les Miserables,I dreamed a dream,53
+Les Misérables - 10th Anniversary Cast,I dreamed a dream,53
 John Lennon,Beautiful Boy,53
-"Crosby, Stills & Nash",Helplessly Hoping,51
-Elliott Smith,Angeles,51
+Jeremy Soule,Kyne's Peace,53
 Frank Sinatra,Fly me to The Moon,51
+"Crosby, Stills & Nash",Helplessly Hoping,51
 Whitney Houston,I will always love you,51
+Elliott Smith,Angeles,51
 Olivia Millerschin,Carry Me,50
-Christine McVie,Over my Head,50
-Fray,How to save a life,49
+Fleetwood Mac,Over my Head,50
+The Fray,How to save a life,49
 Gregory Alan Isakov,The Stable Song,48
-Dan Fogelberg,Longer Than,48
-Celine Dion,The Prayer,48
+Céline Dion,The Prayer,48
+Dan Fogelberg,Longer,48
 The Velvet Underground,look on down from the bridge / cry cry,48
 311,Amber,46
 Ella Fitzgerald,Summertime,46
 ABBA,Fernando,45
-Greg Brown,Spring Wind,45
-Tina Turner,Simply the best,45
-IZ*ONE,La Vie En Rose,45
 Slipknot,Disasterpiece,45
-Birdy,Skinny Love (cover),44
+IZ*ONE,La Vie En Rose,45
+Tina Turner,Simply the best,45
+Greg Brown,Spring Wind,45
 Deftones,Beauty School,44
-Madeleine Peyroux,La Vie En Rose,44
 Linda Ronstadt,Blue Bayou,44
-Moby,Porcelain,43
+Birdy,Skinny Love (cover),44
+Madeleine Peyroux,La Vie En Rose,44
+José González,Teardrop,43
 Babyface Ray,Every Time I Close My Eyes,43
-VV,Heartfull of Ghosts,43
-José Gonzalez,Teardrop,43
+VV,Heartful of Ghosts,43
+Moby,Porcelain,43
 Desree,Kissing You,42
-Leonard Cohen,Tonight,42
-Tori Amos,Winter,42
 The Alan Parsons Project,Old and Wise,42
-Patrick,Je te laisserai des mots,41
-Kansas,Dust in the wind,41
+Tori Amos,Winter,42
+Leonard Cohen,Tonight,42
 Family of the Year,Hero,41
-Antonio Vivaldi,Vivaldis Four,41
-Saint Saens,The Swan,41
-Alicia Keys,If I ain't got you,41
-Phil Collins,Box of Rain,41
+Kansas,Dust in the wind,41
 Porter Robinson,Sea of Voices,41
-Sergei Rachmaninoff,Adagio sostenuto piano concerto no. 2,40
-Sixpence None the Richer,Kiss Me,40
-Alison Krauss,When you say nothing at all,40
+Alicia Keys,If I ain't got you,41
+Patrick Watson,Je te laisserai des mots,41
+Antonio Vivaldi,Vivaldis Four,41
+Phil Collins,Box of Rain,41
 Frank Zappa,Watermelon in Easter Hay,40
+Alison Krauss & Union Station,When you say nothing at all,40
+CHVRCHES,The Mother We Share,40
 George Michael,Careless Whisper,40
 The Lumineers,Ho Hey,40
-CHVRCHES,The Mother We Share,40
+Sergei Rachmaninoff,Adagio sostenuto piano concerto no. 2,40
+Sixpence None the Richer,Kiss Me,40
 Joanna Newsom,Sawdust and Diamonds,39
-Samuel Barber,Agnus Dei,38
+Indigo Girls,Galileo,38
 Sarah Brightman,Scarborough Fair/Canticle,38
 Maurice Ravel,Pavane pour une infante (pavane for a dead princess),38
+Samuel Barber,Agnus Dei,38
+Sam Cooke,A Change Is Gonna Come,38
 Orbital,Halcyon On and On,38
 Incubus,Aqueous Transmission,38
-Sam Cooke,A Change Is Gonna Come,38
-Indigo Girls,Galileo,38
-Franz Liszt,Liebestraum no 3,37
-Paul Simon,The Boxer,37
-Straylight Run,Existentialism On Prom Night,37
 Hudson Mohawke,Cbat,37
-Nick Cave,Into My Arms,36
-Doors,L.A. Woman,36
-Guns N Roses,November Rain,36
-Yes,And you and I,35
+Straylight Run,Existentialism On Prom Night,37
+Paul Simon,The Boxer,37
+Franz Liszt,Liebestraum no 3,37
+Guns N' Roses,November Rain,36
+The Doors,L.A. Woman,36
+Nick Cave & The Bad Seeds,Into My Arms,36
 Rufus Wainwright,Hallelujah,35
-Tracy Chapman,"Baby, Can I Hold You?",34
-Everly Brothers,Cathy's Clown,34
+Yes,And you and I,35
+The Everly Brothers,Cathy's Clown,34
 Eva Cassidy,Songbird,34
 John Mayer,Gravity.,34
 BTS,Dynamite,34
 Luciano Pavarotti,Nessun Dorma,34
-Grimes,Symphonia IX,33
+Tracy Chapman,"Baby, Can I Hold You?",34
+Nightwish,Turn Loose the Mermaids,33
 Yann Tiersen,Summer 78,33
 Nina Simone,Stars,33
-Nightwish,Turn Loose the Mermaids,33
+Grimes,Symphonia IX,33
 Orville Peck,Dead of Night,32
-Crosby Stills & Nash,scene with helplessly hoping,32
-The Black Crowes,She Talks to Angels,32
-Crowded House,Don’t dream it’s over,32
 The Killers,Sawdust,32
-Ray Charles,Georgia,31
-Ryuichi Sakamoto,Merry Christmas Mr. Lawrence,31
+Crowded House,Don’t dream it’s over,32
+The Black Crowes,She Talks to Angels,32
 Agnes Obel,Riverside,31
 BoA,Duvet,31
+Ray Charles,Georgia,31
+Ryuichi Sakamoto,Merry Christmas Mr. Lawrence,31
 Nujabes,Counting Stars,31
-A-ha,Take on Me,30
-Allman Brothers,Little Martha,30
 Gorillaz,On Melancholy Hill,30
+Allman Brothers Band,Little Martha,30
+A-ha,Take on Me,30
 Ed Sheeran,Afterglow,30
 Kishi Bashi,I am the Anti Christ,29
-C418,Mice on Venus,29
-Jewel,Angels standing by,29
-Bibio,Lover's Carvings,29
-The Avett Brothers,No Hard Feelings,29
 Art Garfunkel,Bridge Over Troubled Water,29
+C418,Mice on Venus,29
+The Avett Brothers,No Hard Feelings,29
+Johann Sebastian Bach,Ave Maria,29
+Bibio,Lover's Carvings,29
 Ween,The argus,29
 Muse,Exogenesis Symphony 1-3,29
-Johann Sebastian Bach,Ave Maria,29
-Talking Heads,This must be the place,28
-Kermit the Frog,Rainbow Connection,28
-Franz Schubert,Ave Maria,28
-The Paper Kites,Bloom,28
-Procol Harum,Whiter Shade of Pale,28
+Jewel,Angels standing by,29
 The Shins,New Slang,28
-Requiem Inc.,live in concert,28
-Cannibal Corpse,I cum blood,28
+The Paper Kites,Bloom,28
+Kermit the Frog,Rainbow Connection,28
 Loreen,Dante’s Prayer,28
+Procol Harum,Whiter Shade of Pale,28
+Requiem Inc.,live in concert,28
+Franz Schubert,Ave Maria,28
 La La Land Soundtrack,Mia & Sebastian's Theme,28
-Christopher Cross,Sailing,27
-Ludvig Forssell,Quiet's Theme,27
-Slowdive,sugar for the pill,27
-Green Day,Good Riddance (Time of Your Life),27
-Howard Shore,The Shire theme,27
-Flamingos,I Only Have Eyes For You,27
-Matisyahu,One Day,27
-Joji,Will he,27
-Ewan McGregor,Come what may,27
+Cannibal Corpse,I cum blood,28
+Talking Heads,This must be the place,28
 Tom Waits,Weeping Willow,27
-Black Sabbath,Lonely is the Word,26
-Lucas King,Lost in Time and Space,26
-FKA Twigs,Pendulum,26
+Ludvig Forssell,Quiet's Theme,27
+Howard Shore,The Shire theme,27
+Christopher Cross,Sailing,27
+Flamingos,I Only Have Eyes For You,27
+Joji,Will he,27
+Green Day,Good Riddance (Time of Your Life),27
+Ewan McGregor,Come what may,27
+Matisyahu,One Day,27
+Slowdive,sugar for the pill,27
 Al Stewart,Year of the Cat,26
-Acoustic,#3,26
-Alt-J,Bloodflood part ii,26
-Robin Pecknold,a very lonely solstice,26
 The National,Light Years,26
+Alt-J,Bloodflood part ii,26
+The Goo Goo Dolls,Acoustic #3,26
 Bill Evans Trio,Peace Piece,26
-Dolly Parton,Love is like a butterfly,25
-Willie Nelson,Patsy sang it great,25
+FKA Twigs,Pendulum,26
+Lucas King,Lost in Time and Space,26
+Black Sabbath,Lonely is the Word,26
+Robin Pecknold,a very lonely solstice,26
 Brandi Carlile,The Story,25
+Dolly Parton,Love is like a butterfly,25
 John Butler Trio,Ocean (2012),25
-The Left Banke,Walk Away Renee,24
-Keane,Somewhere only we know,24
-Daniel Bedingfield,If you’re not the one,24
-Thomas Newman,Night window,24
-Ichiko Aoba,Pilgrimage,24
-When In Rome,The Promise,24
-Opeth,To Bid you Farewell,24
+Willie Nelson,Patsy sang it great,25
+José González,Heartbeats,24
+Minnie Riperton,Les Fleur,24
 Shawn Colvin,As I Lay Me Down,24
 Arvo Pärt,Spiegel im Spiegel,24
-Vangelis,Rachel’s Song,24
-José Gonzalez,Heartbeats,24
-Minnie,Les Fleur,24
-Tenacious D,Fuck Her Gently,24
-The Paper Kites,Pretty songs.,24
-Johnny Mathis,Chances Are,24
 John Williams,Across the Stars,24
+Thomas Newman,Night window,24
+Johnny Mathis,Chances Are,24
+The Paper Kites,Pretty songs.,24
+The Left Banke,Walk Away Renee,24
+Opeth,To Bid you Farewell,24
+Ichiko Aoba,Pilgrimage,24
+Tenacious D,Fuck Her Gently,24
+When In Rome,The Promise,24
+Vangelis,Rachel’s Song,24
+Keane,Somewhere only we know,24
+Daniel Bedingfield,If you’re not the one,24
 Eric Whitacre,Three Songs Of Faith: I Thank You God For Most This Amazing Day,23
-Gotye,you didn't have to cut me off,23
-Alison,Baby Mine,23
-Nasko,See you again,23
+Alison Krauss & Union Station,Baby Mine,23
 Mark Knopfler,Princess Bride soundtrack,23
+Nasko,See you again,23
+Gotye,someone that i used to know,23
 Chris Isaak,Wicked Game,23
 Rainbow,Catch the Rainbow,23
+The King's Singers,You Are The New Day,22
 Madonna,Frozen,22
-Gregorio Allegri,"Miserere Mei, Deus",22
-Camille Saint-Saëns,The Swan,22
-Mumford & Sons,The whole Babel Album,22
-Yoko Shimomura,kairi's theme,22
-Jason Isbell,If we were vampires,22
-Air Supply,All I Need,22
-Owl City,Be Brave,22
-The Cardigans,Lovefool,22
 Frank Mills,Music Box Dancer,22
-Tame Impala,Let It Happen,22
-Donna Lewis,I Love You Always Forever,22
-King's Singers,You Are The New Day,22
+Gregorio Allegri,"Miserere Mei, Deus",22
+Jason Isbell,If we were vampires,22
+Yoko Shimomura,kairi's theme,22
+Owl City,Be Brave,22
+Mumford & Sons,The whole Babel Album,22
+The Cardigans,Lovefool,22
 Roy Orbison,In Dreams,22
+Tame Impala,Let It Happen,22
+Air Supply,All I Need,22
+Donna Lewis,I Love You Always Forever,22
 Elbow,One Day Like This,21
-Poets of the Fall,Cradled In Love,21
-Low,Give Up,21
-Christina Perri,A Thousand Years,21
 Weyes Blood,Do You Need My Love,21
+Christina Perri,A Thousand Years,21
+Low,Give Up,21
+Poets of the Fall,Cradled In Love,21
 Erykah Badu,Green Eyes,21
-Avenged Sevenfold,A Little Piece Of Heaven,21
 Bill Withers,Lovely Day,21
 Sara Bareilles,Winter Song,21
-Ben Folds,The Luckiest,20
-Beyonce,Plastic off the sofa,20
-Extreme,More Than Words,20
-Eric Johnson,Cliffs of dover,20
+Avenged Sevenfold,A Little Piece Of Heaven,21
 Joe Cocker,You Are So Beautiful,20
+Ben Folds,The Luckiest,20
 The Kinks,Waterloo Sunset,20
-Maxwell,This woman’s work,20
-Oasis,Champagne Supernova,20
+Extreme,More Than Words,20
 Genesis,Ripples,20
-Jimmy Eat World,May Angels You In,20
+Oasis,Champagne Supernova,20
 Jed Kurzel,Dead Civilization,20
-Kozue Takada,Himitsu Kichi,19
+Beyoncé,Plastic off the sofa,20
+Jimmy Eat World,May Angels You In,20
+Maxwell,This woman’s work,20
+Eric Johnson,Cliffs of dover,20
+My Chemical Romance,Welcome to the Black Parade,19
+Vashti Bunyan,Just Another Diamond Day,19
 Yoko Kanno,Sora from the Escaflowne movie,19
 Big Star,Thirteen,19
-Vashti Bunyan,Just Another Diamond Day,19
-RÜFÜS DU SOL,innerbloom,19
-My Chemical Romance,Welcome to the Black Parade,19
 Cardi B,WAP,19
+RÜFÜS DU SOL,innerbloom,19
+ODESZA,Kusanagi,18
 Toto,I’ll Be Over You,18
 Tash Sultana,Coma,18
-ODESZA,Kusanagi,18
 Ólafur Arnalds,Straumnes,18
 Eminem,Kim,18
 First Aid Kit,America,18
 Boz Scaggs,Harbor Lights,18
+Christopher Tin,Baba Yetu,18
 Dream Theater,Stream of Consciousness,18
 Buddy Holly,Dearest,18
 Frente!,Bizarre Love Triangle,18
-Christopher Tin,Baba Yetu,18
-Antônio Carlos Jobim,The girl from Ipanema,17
-Fiona Apple,I Know,17
-Tomaso Albinoni,Adagio,17
-Cigarettes After Sex,Apocalypse,17
-Radwimps,Grand Escape,17
-Jack Black,Peaches,17
-Arcade Fire,No Funeral,17
-John Legend,All of me,17
-Paul Mauriat,Love is Blue,17
-Santana,Earth’s Cry Heaven’s Smile,17
+Koji Kondo,Great fairy fountain,17
 James Blake,Into the Red,17
-Box Car Racer,There Is,17
-Ghost,Life Eternal,17
-Anderson .Paak,Heart don't stand a chance,17
-Black Country,Haldern,17
-December,January Hymn,17
+Fiona Apple,I Know,17
+Santana,Earth’s Cry Heaven’s Smile,17
 Kacey Musgraves,Golden Hour,17
 Neutral Milk Hotel,Aeroplane Over the Sea,17
+Jack Black,Peaches,17
+Paul Mauriat,Love is Blue,17
+Radwimps,Grand Escape,17
+John Legend,All of me,17
 Herb Alpert & The Tijuana Brass,Ladyfingers,17
-Koji Kondo,Great fairy fountain,17
-John Powell,Romantic Flight,16
-Santo Johnny,Sleep Walk,16
-Dolores O'Riordan,"Oh, I Thought the World of You",16
-The Las,There She Goes,16
-k.d. lang,Constant Craving,16
-A. R. Rahman,Taal Se Taal,16
-Sarah Vaughan,Misty,16
-Paramore,Liar,16
-Adele,Hello,16
-Plain White Ts,Hey There Delilah,16
-Martin David Robinson,Ribbon of darkness,16
-Animal Collective,banshee beat,16
-Bonnie Raitt,I can’t make you love me,16
-Radical Face,Always Gold,16
-Jerry Garcia,Reuben and Cherise,16
+Cigarettes After Sex,Apocalypse,17
+Ghost,Life Eternal,17
+Box Car Racer,There Is,17
+"Black Country, New Road",Haldern,17
+The Decemberists,January Hymn,17
+Anderson .Paak,Heart don't stand a chance,17
+Tomaso Albinoni,Adagio,17
+Arcade Fire,No Funeral,17
+Antônio Carlos Jobim,The girl from Ipanema,17
 Liana Flores,Rises the moon,16
+A.R. Rahman,Taal Se Taal,16
+John Powell,Romantic Flight,16
+k.d. lang,Constant Craving,16
+Adele,Hello,16
 Andrew Bird,Polanski at Night,16
+Animal Collective,banshee beat,16
+Santo & Johnny,Sleep Walk,16
+Sarah Vaughan,Misty,16
+The La's,There She Goes,16
 Oasis Ministry,Jesus built my hotrod,16
 Pantera,The Sleep,16
+Paramore,Liar,16
+Radical Face,Always Gold,16
+Bonnie Raitt,I can’t make you love me,16
+Jerry Garcia Band,Reuben and Cherise,16
+Dolores O'Riordan,"Oh, I Thought the World of You",16
+Plain White T's,Hey There Delilah,16
 James Horner,The Portrait,16
-Lakme,Flower Duet,15
+Tyler Childers,Feathered Indians,15
 Jethro Tull,Life's a long song,15
 Judy Garland,Over the Rainbow,15
-Dvořák,Song to the Moon,15
-Gang of Youths,Achilles Come Down,15
-Cass Elliot,Dream A Little Dream Of Me,15
-King Crimson,Starless,15
-Johnny Marr,That Joke Isn’t Funny Anymore,15
-Morten Lauridsen,O Magnum Mysterium,15
-Sleep Token Loathe,Aqua Regia,15
-Rammstein,Bück dich,15
-Penguin Cafe Orchestra,The Sound of Someone You Love Going Away and it Doesn't Matter,15
 The Weeknd,The knowing,15
-Tyler Childers,Feathered Indians,15
 Howard Hanson,Symphony 2,15
-The Animals,The Brain Dance,14
-Train,Mississippi,14
-SYML,Fear of the Water,14
-Sammy Davis Jr.,Till Then,14
-Spiritualized,Ladies and Gentlemen We Are Floating In Space,14
-Darude,Sandstorm,14
-Glenn Miller,Moonlight Serenade,14
-Beabadoobee,glue,14
+Penguin Cafe Orchestra,The Sound of Someone You Love Going Away and it Doesn't Matter,15
+Cass Elliot,Dream A Little Dream Of Me,15
+Antonín Dvořák,Song to the Moon,15
+Rammstein,Bück dich,15
+Morten Lauridsen,O Magnum Mysterium,15
+Johnny Marr,That Joke Isn’t Funny Anymore,15
+Lakme,Flower Duet,15
+Gang of Youths,Achilles Come Down,15
+Sleep Token,Aqua Regia,15
+King Crimson,Starless,15
 Deadmau5,Strobe,14
-Porcupine Tree,Lazarus,14
-Meat Loaf,For Crying Out Loud,14
-Chordettes,They Say It’s Wonderful,14
-Alina Baraz,Fantasy,14
-Mariah Carey,Fantasy,14
-Enigma Norteño,Return to Innocence,14
 Zach Bryan,She’s Alright,14
-Lady Gaga,La Vie En Rose,14
+Spiritualized,Ladies and Gentlemen We Are Floating In Space,14
+Mariah Carey,Fantasy,14
 Fred Astaire,Cheek to Cheek,14
+Meat Loaf,For Crying Out Loud,14
+Train,Mississippi,14
+Enigma Norteño,Return to Innocence,14
 Laufey,Let You Break My Heart,14
+Lady Gaga,La Vie En Rose,14
+Alina Baraz,Fantasy,14
 Patty Griffin,Heavenly Day,14
-Harry Styles,Sign of the times,13
-Grant MacDonald,Ram Ranch,13
-Andy Williams,Moon River,13
-Pink,Crystal Ball,13
-Cyndi Lauper,I Drove All Night,13
-The Temper Trap,Sweet Disposition,13
-Miranda Lambert,If I Was A Cowboy,13
-Miles Davis,It Never Entered My Mind,13
-Allman Brothers,Melissa,13
+Darude,Sandstorm,14
+SYML,Fear of the Water,14
+The Chordettes,They Say It’s Wonderful,14
+Beabadoobee,glue,14
+The Animals,The Brain Dance,14
+Glenn Miller,Moonlight Serenade,14
+Porcupine Tree,Lazarus,14
+Sammy Davis Jr.,Till Then,14
+Roy Orbison,Leah,13
 Edward Elgar,Salut d’amour,13
+Pink,Crystal Ball,13
+Miles Davis,It Never Entered My Mind,13
+Ron Sexsmith,Gold in them hills,13
 Electric Light Orchestra,Telephone Line,13
-Alter Bridge,Blackbird,13
-Ruth B,Dandelions,13
-Joaqin Rodrigo,Concerto de Aranjuez,13
+Andy Williams,Moon River,13
 Jackson Browne,Empty,13
+Ruth B.,Dandelions,13
+Joaquín Rodrigo,Concerto de Aranjuez,13
+Miranda Lambert,If I Was A Cowboy,13
+The Temper Trap,Sweet Disposition,13
+Alter Bridge,Blackbird,13
+Harry Styles,Sign of the times,13
+Cyndi Lauper,I Drove All Night,13
+Allman Brothers Band,Melissa,13
 James Blunt,Monster,13
 Brand New,The Boy Who Blocked His Own Shot,13
-Roy Orbison,Leah,13
-Ron Sexsmith,Gold in them hills,13
+Grant MacDonald,Ram Ranch,13
 Blur,Tender,13
-Giacomo Puccini,"Un Bel Di, Vissi d’Arte",12
-Emiliana Torrini,Sunny road,12
-Mako,his version,12
-Novo Amor,Carry you,12
-The Lord of the Rings: The Fellowship of the Ring,Passing of the Elves,12
-Big Thief,Mary,12
-Nickel Creek,The Lighthouse's Tale,12
-The Pretenders,Creep,12
-Aretha Franklin,Ain’t No Way,12
-Eva Cassidy,over the rainbow,12
-Mulatu Astatke,Tezeta,12
-Devin Townsend,Grace,12
-Morrissey,Everyday is like Sunday,12
-Band of Horses,The Funeral,12
-Ramin Djawadi,in the light of the seven,12
-Mark Lowry,Mary Did You Know,12
-Mike Oldfield,Moonlight shadow,12
-Ben Howard,I Forget Where We Were,12
-Kodaline,The One,12
-The Paper Kites,Off the top of my head,12
-Yuki Kajiura,Key of the Twilight,12
-Palace,Give me the rain,12
-Jasmine Thompson,You are my sunshine cover,12
-Depeche Mode,Black Celebration,12
-Tycho,A walk,12
-Playboi Carti,hellcat,12
-Jack Johnson,Upside down,12
-Phosphorescent,Song for Zula,12
-Commodores,Jesus is love,12
-Rise Against,Injection,12
-Tones and I,Dance Monkey,12
-Fleetwood Mac,The Dance,12
 Carla Bruni,Quelqu’un M’a Dit,12
-Wilco,One by One,11
-declan orourke,Galileo,11
-Above & Beyond,Small Moments,11
-Billie Holiday,I'll Be Seeing You,11
-Skeeter Davis,The End of the World,11
-college a capella,Landslide,11
-Smash Mouth,All Star,11
-Blue Rodeo,Try,11
-yebba,heartbreak,11
-Charlie Chaplin,Smile,11
-Maurice Duruflé,Ubi Caritas,11
-The Oh Hellos,"Soldier, Poet King",11
-Childish Gambino,Redbone,11
-Pretty Lights,Yellow Bird,11
-Portishead,The Rip,11
-Andy McKee,Rylynn,11
-Tim Buckley,Song To The Siren,11
-Anathema,Lightning Song,11
+Eva Cassidy,over the rainbow,12
+Emilíana Torrini,Sunny road,12
+Big Thief,Mary,12
+Mako,his version,12
+Tones and I,Dance Monkey,12
+Tycho,A walk,12
+Commodores,Jesus is love,12
+Mark Lowry,Mary Did You Know,12
+Palace,Give me the rain,12
+Phosphorescent,Song for Zula,12
+Aretha Franklin,Ain’t No Way,12
+Playboi Carti,hellcat,12
+The Pretenders,Creep,12
+The Paper Kites,Off the top of my head,12
+The Lord of the Rings: The Fellowship of the Ring,Passing of the Elves,12
+Jack Johnson,Upside down,12
+Band of Horses,The Funeral,12
+Fleetwood Mac,The Dance,12
+Mike Oldfield,Moonlight shadow,12
+Novo Amor,Carry you,12
+Rise Against,Injection,12
+Nickel Creek,The Lighthouse's Tale,12
+Ben Howard,I Forget Where We Were,12
+Depeche Mode,Black Celebration,12
+Mulatu Astatke,Tezeta,12
+Morrissey,Everyday is like Sunday,12
+Devin Townsend,Grace,12
+Kodaline,The One,12
+Ramin Djawadi,in the light of the seven,12
+Yuki Kajiura,Key of the Twilight,12
+Jasmine Thompson,You are my sunshine cover,12
+Giacomo Puccini,"Un Bel Di, Vissi d’Arte",12
 Townes Van Zandt,I'll be Here in The Morning,11
-Counting Crows,Catapult,11
-Bobby Darin,Beyond the Sea,11
-SZA,Good Days,11
-Creedence Clearwater Revival,Bad moon rising,11
-Daniel Caesar,Best Part,11
-Van Halen,Pretty Woman,11
-The Appleseed Cast,A Dream for Us,11
-Dean Bowser,Peaches,11
-Death,Voice of the Soul,11
-Steven Universe (soundtrack),Here comes a thought,11
 Harry Nilsson,Without You,11
-Gustav Mahler,Adagietto from Symphony No. 5,11
-Kacey Musgraves,Butterflies,11
 Guitars and Dragons,Concerning Hobbits,11
-John COltrane,Alabama,11
+Death,Voice of the Soul,11
+Declan O'Rourke,Galileo,11
+Esbjörn Svensson Trio,Lick Back,11
+yebba,heartbreak,11
+Childish Gambino,Redbone,11
+Charlie Chaplin,Smile,11
 Hillsong United,Oceans,11
-Jay Ungar,Ashoken Farewell,11
-Henri Mancini,Days Of Wine And Roses,11
-Esbjorn Svensson Trio,Lick Back,11
-Jimi Hendrix,All Along the Watchtower,11
-Kendrick,"sing about me, I'm dying of thirst",11
-Keiichi Okabe,Peaceful Sleep from the Neir Automata Soundtrack,11
+Anathema,Lightning Song,11
+The Appleseed Cast,A Dream for Us,11
+Skeeter Davis,The End of the World,11
+Tim Buckley,Song To The Siren,11
+Gustav Mahler,Adagietto from Symphony No. 5,11
+Billie Holiday,I'll Be Seeing You,11
 Glen Campbell,Witchita Lineman,11
-Hers,harvey,11
+Kacey Musgraves,Butterflies,11
 Glee Cast,blackbird,11
-Garth Brooks,The Dance,10
+Her's,harvey,11
+SZA,Good Days,11
+Andy McKee,Rylynn,11
+Jimi Hendrix,All Along the Watchtower,11
+Dean Bowser,Peaches,11
+Maurice Duruflé,Ubi Caritas,11
+Jay Ungar,Ashoken Farewell,11
+Henry Mancini,Days Of Wine And Roses,11
+Keiichi Okabe,Peaceful Sleep from the Neir Automata Soundtrack,11
+Above & Beyond,Small Moments,11
+Smash Mouth,All Star,11
+Portishead,The Rip,11
+John COltrane,Alabama,11
+Counting Crows,Catapult,11
+Kendrick Lamar,"sing about me, I'm dying of thirst",11
+Wilco,One by One,11
+Bobby Darin,Beyond the Sea,11
+The Oh Hellos,"Soldier, Poet King",11
+college a capella,Landslide,11
+Steven Universe (soundtrack),Here comes a thought,11
+Pretty Lights,Yellow Bird,11
+Creedence Clearwater Revival,Bad moon rising,11
+Van Halen,Pretty Woman,11
+Blue Rodeo,Try,11
+Daniel Caesar,Best Part,11
+Dallas Green,Rain When i Die,10
+Julie Andrews,The Sound of Music,10
+John Frusciante,Song to Sing When I’m Lonely,10
 The Strokes,Machu Picchu,10
-Modest Mouse,White Teeth,10
-The Temptations,Just My Imagination,10
+Todd Rundgren,Hello It's Me,10
+Garth Brooks,The Dance,10
+Donny Hathaway,A Song For You,10
 The White Stripes,Do,10
+Celtic Woman,Walking in the Air,10
+Mum,Green Grass of Tunnel,10
+Josh Groban,O Holy Night,10
+Young Thug,Who Do You Love,10
+Astrud Gilberto,Photograph,10
+Greta Van Fleet,Light My Love,10
+Tom Odell,Another Love,10
+My Bloody Valentine,to here knows when,10
+Christine McVie,Song bird,10
+The Temptations,Just My Imagination,10
 Michael Giacchino,Married Life,10
+Ms. Lauryn Hill,Ex factor,10
+Beirut,Nantes,10
+Mogwai,Mogwai Fear Satan (Kevin Shields remix),10
+Modest Mouse,White Teeth,10
+Belle and Sebastian,Another Sunny Day,10
+Dimash Qudaibergen,SOS d'un terrien en détresse,10
+The Civil Wars,Dust to Dust,10
+Joe Satriani,"Always with me, always with you",10
 Arctic Monkeys,Cornerstone,10
 Indila,Dernière danse,10
-Todd Rundgren,Hello It's Me,10
-Tom Odell,Another Love,10
-Greta Van Fleet,Light My Love,10
-Mogwai,Mogwai Fear Satan (Kevin Shields remix),10
-The Civil Wars,Dust to Dust,10
-Ms. Lauryn Hill,Ex factor,10
-Mum,Green Grass of Tunnel,10
-Celtic Woman,Walking in the Air,10
-Joe Satriani,"Always with me, always with you",10
-Christine McVie,Song bird,10
-Josh Groban,O Holy Night,10
-Silversun Pickups,Lazy Eye,10
-Julie Andrews,The Sound of Music,10
-Bladee and Ecco2k,White Meadow,10
-Soundgarden,Black Hole Sun,10
-Kali Uchis,Melting,10
-Dallas Green,Rain When i Die,10
-Sun Kil Moon,Alesund,10
-Belle and Sebastian,Another Sunny Day,10
-Beirut,Nantes,10
-Astrud Gilberto,Photograph,10
-John Frusciante,Song to Sing When I’m Lonely,10
-Trey Parker,Jacking it in San Diego,10
-My Bloody Valentine,to here knows when,10
-Hans Zimmer,Wallace,10
-Lijadu Sisters,Come on Home,10
-Harry Chapin,Cats in the cradle,10
-Donny Hathaway,A Song For You,10
-Wax Fang,Majestic,10
-Young Thug,Who Do You Love,10
 Manchester Orchestra,Telepath,10
-Dimash Qudaibergen,SOS d'un terrien en détresse,10
-Emmylou Harris and Mark Knopfler,Till I Gain Control Again,10
-Gerry Rafferty,Right down the line,9
-Jaco Pastorius,Portrait of Tracy,9
-Whoopi Goldberg,Ghost (1990),9
-Arrow,"Hot, Hot, Hot",9
-Randy Newman,Sail Away,9
-Jackson Browne,Sky Blue and Black,9
-Pentatonix,Hallelujah,9
-Giuseppe Verdi,Requiem,9
-Alcest,Souvenirs d'un autre monde,9
-Keane,Russian Farmers Song,9
-Boards of Canada,Olson,9
-The Pretty Reckless,Dear Sister,9
-Climax,I Love You,9
-Barry DeVorzon,Nadia's Theme,9
-Barbra Streisand,Avinu Malkenu,9
-Clint Mansell,Death is the road to awe,9
-Hiroyuki Sawano,Eriones,9
-Feist,1 2 3 4,9
-Bear McCreary,The Skye Boat Song-theme from Outlander,9
-Jefferson Airplane,Coming Back to Me,9
-FKJ,IHM,9
-Skyrim,Skyrim soundtrack,9
-Ben Harper,Beloved One,9
-Berlin,Take My Breath Away,9
-Beth Orton,sweetest decline,9
-Supertask,Healing,9
-Lady Gaga,Shallow,9
-Original Broadway Cast of Moulin Rouge! The Musical,music,9
-Billy Boyd,The last goodbye,9
-Cowboy Junkies,Sweet Jane,9
-Bob Marley,Redemption song,9
-Jhene Aiko,ascension,9
+Harry Chapin,Cats in the cradle,10
+Lijadu Sisters,Come on Home,10
+Hans Zimmer,Wallace,10
+"Bladee, Ecco2k",White Meadow,10
+Emmylou Harris with Mark Knopfler & His Band,Till I Gain Control Again,10
+Kali Uchis,Melting,10
+Trey Parker,Jacking it in San Diego,10
+Soundgarden,Black Hole Sun,10
+Wax Fang,Majestic,10
+Sun Kil Moon,Alesund,10
+Silversun Pickups,Lazy Eye,10
+Climax Blues Band,I Love You,9
 Flying Lotus,Getting There,9
-Dido,It Comes and It Goes,9
-Eric Whitacre,Sleep,9
-Grover Washington Jr.,Just the two of us,9
-Francisco Tárrega,Recuerdos de la Alhambra,9
-Dixie Chicks,Landslide,9
-Amadeus soundtrack,best pacing,9
-Heilung,Anoana,9
-Roxy Music,More Than This,9
-Khruangbin,Mariella,9
-Buckethead,Soothsayer,9
-Mecano,Hijo de la Luna,9
-Thomas Bergersen,New Life.,9
-Dean Martin,That's Amore,9
-Melanie,Brand New Key,9
+FKJ,IHM,9
+Gerry Rafferty,Right down the line,9
 The Weepies,Somebody Loved,9
-The Waterboys,The Whole of the Moon,9
-Gabriel Faure,"Pavane, Op. 50",9
-Luther Vandross,Dance with My Father,9
-Vance Joy,Riptide,9
-Mitski,Francis Forever,9
-Brad Paisley,Whiskey Lullaby,9
-Lucy Wainwright Roche,Amy Ray,9
+Barbra Streisand,Avinu Malkenu,9
+Skyrim,Skyrim soundtrack,9
 City and Colour,the girl,9
+The Waterboys,The Whole of the Moon,9
+Clint Mansell,Death is the road to awe,9
+Jaco Pastorius,Portrait of Tracy,9
+Amadeus soundtrack,best pacing,9
+Feist,1 2 3 4,9
+Pentatonix,Hallelujah,9
+Khruangbin,Mariella,9
+"Grover Washington, Jr.",Just the two of us,9
+Gabriel Fauré,"Pavane, Op. 50",9
+The Pretty Reckless,Dear Sister,9
+Cowboy Junkies,Sweet Jane,9
+Original Broadway Cast of Moulin Rouge! The Musical,music,9
+Boards of Canada,Olson,9
+Vance Joy,Riptide,9
+Bob Marley & The Wailers,Redemption song,9
+Lady Gaga,Shallow,9
 George Gershwin,Rhapsody in Blue,9
-Joy Division,Love will tear us apart,8
-St. Vincent,Strange Mercy,8
-Jean Sibelius,Violin Concerto 1st Movement,8
+Whoopi Goldberg,Ghost (1990),9
+Hiroyuki Sawano,Eriones,9
+Arrow,"Hot, Hot, Hot",9
+Dean Martin,That's Amore,9
+Barry DeVorzon,Nadia's Theme,9
+Mecano,Hijo de la Luna,9
+Luther Vandross,Dance with My Father,9
+Berlin,Take My Breath Away,9
+Francisco Tárrega,Recuerdos de la Alhambra,9
+Thomas Bergersen,New Life.,9
+Roxy Music,More Than This,9
+Billy Boyd,The last goodbye,9
+Supertask,Healing,9
+Lucy Wainwright Roche,Amy Ray,9
+Dido,It Comes and It Goes,9
+Ben Harper,Beloved One,9
+Heilung,Anoana,9
+Mitski,Francis Forever,9
+Buckethead,Soothsayer,9
+Alcest,Souvenirs d'un autre monde,9
+Jefferson Airplane,Coming Back to Me,9
+Melanie,Brand New Key,9
+Bear McCreary,The Skye Boat Song-theme from Outlander,9
+Jhené Aiko,ascension,9
+Giuseppe Verdi,Requiem,9
+Jackson Browne,Sky Blue and Black,9
+Brad Paisley,Whiskey Lullaby,9
+Randy Newman,Sail Away,9
+Keane,Russian Farmers Song,9
+Eric Whitacre,Sleep,9
+Beth Orton,sweetest decline,9
+Dixie Chicks,Landslide,9
 Cat Power,Sea of love,8
-Young the Giant,Firelight,8
-Periphery,Have a Blast,8
-Pat Metheny Group,September Fifthteenth,8
-Silverchair,Straight Lines,8
-John Craigie,I Am California,8
-Brian Wilson,Love and Mercy,8
-Chicago,Hard to Say I’m Sorry,8
-Percy Faith & His Orchestra,A Summer Place Theme,8
-Blue October,18th Floor Balcony,8
-Scorpions,Wind of Change,8
-Sam Brown,Stop,8
-Adeem the Artist,White Trash Revelry,8
-Akira Yamaoka,Ghermans Theme,8
 Steven Wilson,Routine,8
-Neko Case,I wish I was the Moon,8
-Alan Jackson,Remember when,8
-Mutual Benefit,Advanced Falconry,8
+Stevie Nicks,Beauty And The Beast,8
+Sam Brown,Stop,8
+Percy Faith & His Orchestra,A Summer Place Theme,8
+Periphery,Have a Blast,8
 The Platters,Smoke Gets In Your Eyes,8
+John Craigie,I Am California,8
+Jean Sibelius,Violin Concerto 1st Movement,8
+Chicago,Hard to Say I’m Sorry,8
+Blue October,18th Floor Balcony,8
+Brian Wilson,Love and Mercy,8
+The Hold Steady,Put that summer song on again,8
+Silverchair,Straight Lines,8
+Scorpions,Wind of Change,8
 Weezer,Say It Ain’t So,8
-Archspire,Reverie on the Onyx,8
-The Stranglers,Golden Brown,8
-Virtual Riot,Never Let Me Go,8
-Miracle Musical,Dream sweet in sea major,8
-The System,Chop Suey,8
-Lynyrd Skynyrd,FREEEEE BIRDDDDD,8
-Metric,Now or Never Now,8
-Hold Steady,Put that summer song on again,8
-Thrice,Silver Wings,8
+Pat Metheny,September Fifthteenth,8
 Mayer Hawthorne,All better,8
-King Harvest,Dancing in the Moonlight,8
+Mutual Benefit,Advanced Falconry,8
+Terence,One blood,8
+The System,Chop Suey,8
+Akira Yamaoka,Ghermans Theme,8
+Lorna Shore,Sun//Eater,8
+Yanni,One Man's Dream,8
+Noel Paul Stookey,The Wedding Song,8
+Young the Giant,Firelight,8
+Alan Jackson,Remember when,8
+Miracle Musical,Dream sweet in sea major,8
+Twenty One Pilots,Ms Believer,8
+Lucinda Williams,Unsuffer Me,8
+Neko Case,I wish I was the Moon,8
+Lynyrd Skynyrd,FREEEEE BIRDDDDD,8
+Adeem the Artist,White Trash Revelry,8
 Mac DeMarco,Chamber of Reflection,8
 Derek & The Dominos,Layla,8
-Kyu Sakamoto,Sukiyaki,8
-Twenty One Pilots,Ms Believer,8
+The Stranglers,Golden Brown,8
 Jackie DeShannon,What the world needs now is love,8
-Lucinda Williams,Unsuffer Me,8
-Noel Paul Stookey,The Wedding Song,8
-Stevie Nicks,Beauty And The Beast,8
-Yanni,One Man's Dream,8
-Lorna Shore,Sun//Eater,8
+Kyu Sakamoto,Sukiyaki,8
+Virtual Riot,Never Let Me Go,8
+Archspire,Reverie on the Onyx,8
+King Harvest,Dancing in the Moonlight,8
 Eddie Vedder,Hard Sun,8
-Terrence Jay,One blood,8
-Buffalo Springfield,Expecting to Fly,7
-Blackmill,Spirit of Life,7
-Zero 7,Last light,7
-Johann Johannsson,Flight from the City,7
-Ultravox,Vienna,7
+St. Vincent,Strange Mercy,8
+Joy Division,Love will tear us apart,8
+Metric,Now or Never Now,8
+Thrice,Silver Wings,8
+Jimin,Serendipity,7
+The Be Good Tanyas,The Littlest Birds,7
+Matt Maltese,As the world caves in,7
 Rush,Closer to the Heart,7
-Funkadelic,Maggot Brain,7
-The Goo Goo Dolls,Slide,7
-Japanese House,Still,7
-John Barry,Somewhere in Time,7
-Giacomo Puccini,O Mio Babbino Caro,7
-Yo-Yo Ma,The Swan,7
-South Park (soundtrack),Japanese toilet episode,7
-Ray Peterson,Tell Laura I Love Her,7
+Jóhann Jóhannsson,Flight from the City,7
+Charles Gounod,Ave Maria,7
+Michael Nyman,The Heart Asks Pleasure First,7
 Yo La Tengo,My Little Corner of the World,7
 Toby Fox,Undertale Soundtrack,7
-The War On Drugs,Thinking of a Place,7
-Sturgill Simpson,Welcome to Earth (Pollywog),7
-Jacob Collier,Never Gonna Be Alone,7
-Gerry and The Pacemakers,"YNWA at Anfield after beating Barcelona and Muchachos, when Argentina played their first game as champions in El Mas Monumental",7
-Bastille,Glory,7
-The Be Good Tanyas,The Littlest Birds,7
-Alexander Scriabin,Fantasy in B minor op 28,7
-Steam Powered Giraffe,Honeybee,7
-Slayer,Reign in blood,7
-Zac Brown Band,Colder Weather,7
-Giacomo Puccini,Madame Butterfly,7
-Jimin,Serendipity,7
-Joan Baez,Diamond and Rust,7
-Blink-182,Feeling This,7
-Vienna Teng,Stray Italian Greyhound,7
-Blaze Foley,clay pigeons,7
-The Wailin Jennys,One Voice,7
-Lena Raine,Resurrections,7
-"Tyler, The Creator",2SEATER,7
-Judee Sill,The Kiss,7
-Franz Schubert,Du bist die Ruh',7
-"Peter, Paul and Mary",In the Wind,7
-Jon Bellion,Conversations with My Swift,7
-David Lanz,Cristofori's Dream,7
-Live,Lightning Crashes,7
-Matt Maltese,As the world caves in,7
-Charles Gounod,Ave Maria,7
-Neil Diamond,Play Me,7
-Dave Brubeck,Take Five,7
-Phish,Playing in the sand,7
-Philip Glass,Mishima Closing,7
-Clams Casino,I’m God,7
-Nicholas Britell,Agape,7
-Danny Elfman,Summer Fields from the Fable soundtrack,7
-My Brightest Diamond,I have never loved someone,7
-Judy Garland,Someone over the rainblow,7
-Daniela Andrade,La Vie En Rose,7
-Passenger,Let Her Go,7
-Judy Garland,Somewhere over the Rainbow,7
-Nirvana,Marigold,7
+Blackmill,Spirit of Life,7
 Kan Gao,For River,7
-Copeland,The Day I Lost My Voice (The Suitcase Song),7
-Doors,The End,7
-Nothing But Thieves,"Lover, please stay",7
-Corinne Bailey Rae,Like a star,7
+Buffalo Springfield,Expecting to Fly,7
+Steam Powered Giraffe,Honeybee,7
+South Park (soundtrack),Japanese toilet episode,7
 Kurt Cobain,And I love her,7
-Lisa Hannigan,Lo,7
-Judas Priest,Fire Burns Below,7
-Eva Cassidy,Somewhere Over the Rainbow,7
-Lisa Gerrard,Sanvean,7
-Lil Yachty,Drive me crazy,7
-Ethel Cain,House in Nebraska,7
-Michael Nyman,The Heart Asks Pleasure First,7
+Vienna Teng,Stray Italian Greyhound,7
+Lena Raine,Resurrections,7
+Jacob Collier,Never Gonna Be Alone,7
 Lifehouse,Hanging by a Moment,7
-Mr. Kitty,After Dark,7
-Misheard lyrics (correct: Tiny Dancer by Elton John),Hold Me Closer Tony Danza,7
+Slayer,Reign in blood,7
+Lil Yachty,Drive me crazy,7
+Ultravox,Vienna,7
+Sturgill Simpson,Welcome to Earth (Pollywog),7
+Eva Cassidy,Somewhere Over the Rainbow,7
+Ethel Cain,House in Nebraska,7
+Lisa Gerrard,Sanvean,7
+Lisa Hannigan,Lo,7
+"Tyler, The Creator",2SEATER,7
+Live,Lightning Crashes,7
+Alexander Scriabin,Fantasy in B minor op 28,7
+Blink-182,Feeling This,7
+Blaze Foley,clay pigeons,7
 Ellie Goulding,How Long Will I Love You,7
-Biffy Clyro,Space,6
-Father John Misty,I Went to the Store One Day,6
-Supertramp,Hide in your shell,6
-Metalocalypse: Dethklok,Detharmonic,6
-Between the Buried and Me,Colors,6
-The Stone Roses,I Wanna Be Adored,6
-Trans-Siberian Orchestra,Old City Bar,6
-Marvin Gaye,My Love Is Growing,6
-TheFatRat,Unity,6
-Dawid Podsiadlo,Let You Down,6
-Michael Bublé,it’s going to be a lovely day,6
-Janis Joplin,Me and Bobby McGee,6
-It's A Beautiful Day,White Bird,6
-Kelly Clarkson,High and Dry,6
-Iron Maiden,Journeyman,6
-Two Steps from Hell,Victory,6
-Howie Day,Collide,6
-Irrepressibles,In This Shirt,6
-Jason,Bella Luna,6
-Stevie Nicks,Landslide,6
-Ani DiFranco,You had time,6
-Kaleo,I Want More,6
-Amazarashi,Furui SF,6
-Bela Fleck,Djorolen,6
-Amber Run,I Found,6
-Janet Devlin,Your Song,6
-Ariana Grande,pov,6
-The Piano Guys,"O Come, O Come Emmanuel",6
-Tiësto and Andain,Beautiful things,6
-The Police,Wrapped Around Your Finger,6
-BABYMETAL,Monochrome,6
-Jacob Collier,Moon River,6
-Infant Annihilator,Cuntcrusher,6
-Meredith Godreau,Boats & Birds,6
-The Honeydrippers,Sea Of Love,6
-Andrea Bocelli,Ave Maria,6
-Marcin Przybylowicz,"The Fields Of Ard Skellig (From ""The Witcher 3"")",6
-Goldfrapp,Lovely Head,6
-Thom Yorke,Unmade,6
-Katamari Damacy,Cherry blossom color season,6
-Ivoriancell,Echo from an Empty Void,6
-The Corrs,Erin Shore,6
-Illenium,Fractures,6
-New Order,Age of Consent,6
-Jacques Brel,Quand on n'a que l'amour,6
-This Will Destroy You,Quiet,6
-Groove Armada,Think Twice,6
-The Philadelphia Orchestra,Clair de Lune,6
-Nico,These days,6
-Kai,Vanilla,6
-Angel Olsen,Chance,6
-Jon Gomm,Passionflower,6
-Richard Thompson,Dimming of the Day,6
-Felix Mendelssohn,Morgengebet (Morning prayer),6
-Silvio Rodriguez,Ojalá,6
-Pentatonix,Imagine cover,6
-Percy Grainger,Ye Banks and Braes O' Bonnie Doon,6
-Lisa Mitchell,Neapolitan Dreams,6
-Richard Wagner,Overture from Rienzi,6
-Rick Astley,Never gonna give you up,6
-Bob Carlisle,Butterfly kisses,6
-Low Roar,Don't Be so Serious,6
-Edvard Grieg,Morning Mood,6
-Caetano Veloso,Cucurrucucú Paloma,6
-Sampha,No One Knows Me Like the Piano,6
-Foudeqush,Con La Brisa,6
-Lamp,Rainy Tapestry,6
-Ryan Adams,Dear Chicago,6
-Punch Brothers,Julep,6
-Within Temptation,Forsaken,6
-Lou Reed,Perfect Day,6
-George Frideric Handel,"3. Largo in  Trio Sonata in G minor, HWV 393",6
+Judy Garland,Somewhere over the Rainbow,7
+Joan Baez,Diamond and Rust,7
+The Wailin' Jennys,One Voice,7
+Corinne Bailey Rae,Like a star,7
+Nicholas Britell,Agape,7
+The War On Drugs,Thinking of a Place,7
+Nirvana,Marigold,7
+Gerry & The Pacemakers,"YNWA at Anfield after beating Barcelona and Muchachos, when Argentina played their first game as champions in El Mas Monumental",7
+John Barry,Somewhere in Time,7
+David Lanz,Cristofori's Dream,7
+Copeland,The Day I Lost My Voice (The Suitcase Song),7
+Nothing But Thieves,"Lover, please stay",7
+Jon Bellion,Conversations with My Swift,7
+Phish,Playing in the sand,7
+Japanese House,Still,7
+Philip Glass,Mishima Closing,7
+Funkadelic,Maggot Brain,7
+"Peter, Paul and Mary",In the Wind,7
+Dave Brubeck,Take Five,7
+Danny Elfman,Summer Fields from the Fable soundtrack,7
+Daniela Andrade,La Vie En Rose,7
+Zero 7,Last light,7
+Zac Brown Band,Colder Weather,7
+Passenger,Let Her Go,7
+Clams Casino,I’m God,7
+Mr.Kitty,After Dark,7
+Ray Peterson,Tell Laura I Love Her,7
+The Goo Goo Dolls,Slide,7
+Franz Schubert,Du bist die Ruh',7
+Bastille,Glory,7
+Giacomo Puccini,Madame Butterfly,7
+Judas Priest,Fire Burns Below,7
+My Brightest Diamond,I have never loved someone,7
+Judee Sill,The Kiss,7
+The Doors,The End,7
+Neil Diamond,Play Me,7
+Yo-Yo Ma,The Swan,7
+Giacomo Puccini,O Mio Babbino Caro,7
+Judy Garland,Someone over the rainblow,7
 Alexi Murdoch,Orange sky,6
-AFI,Prelude 12/21,6
-Eileen,Aniron,6
-Regina Spektor,The Call,6
-the rasmus,funeral song,6
-Hall & Oates,Sara Smile,6
-Röyksopp,You Don't Have a Clue,6
-Omega,Gyöngyhajú lány,6
-Donovan,Catch the Wind,6
-Origa,From the Train Window,6
-Helen Jane Long,The Aviators,6
-Hoagy Carmichael,Stardust,6
-Alexis Ffrench,Bluebird,6
+The Stone Roses,I Wanna Be Adored,6
 Vince Guaraldi,Christmas Time Is Here,6
+Amazarashi,Furui SF,6
+Stevie Nicks,Landslide,6
+Alexis Ffrench,Bluebird,6
+The Piano Guys,"O Come, O Come Emmanuel",6
+Amber Run,I Found,6
+Angel Olsen,Chance,6
+AFI,Prelude 12/21,6
+The Police,Wrapped Around Your Finger,6
+The Irrepressibles,In This Shirt,6
+Hoagy Carmichael,Stardust,6
+BABYMETAL,Monochrome,6
+Andain,Beautiful things,6
+Andrea Bocelli,Ave Maria,6
+the rasmus,funeral song,6
+Helen Jane Long,The Aviators,6
+TheFatRat,Unity,6
+The Honeydrippers,Sea Of Love,6
+Trans-Siberian Orchestra,Old City Bar,6
+Ani DiFranco,You had time,6
+The Corrs,Erin Shore,6
+The Philadelphia Orchestra,Clair de Lune,6
+Howie Day,Collide,6
+Two Steps from Hell,Victory,6
+Biffy Clyro,Space,6
+This Will Destroy You,Quiet,6
+Within Temptation,Forsaken,6
+Between the Buried and Me,Colors,6
+Supertramp,Hide in your shell,6
+Ariana Grande,pov,6
+Thom Yorke,Unmade,6
+Jason,Bella Luna,6
+Foudeqush,Con La Brisa,6
+Iron Maiden,Journeyman,6
 Sam Barber,Adagio for Strings,6
-Colbie Caillat,Bubbly,6
-Juice,Legends,6
-Pastor T.L. Barrett,Father I Stretch My Hands,6
+Eileen,Aniron,6
+S. Kiyotaka & Omega Tribe,Gyöngyhajú lány,6
+Röyksopp,You Don't Have a Clue,6
+Ryan Adams,Dear Chicago,6
+Kelly Clarkson,High and Dry,6
+Rick Astley,Never gonna give you up,6
+Richard Wagner,Overture from Rienzi,6
+Richard Thompson,Dimming of the Day,6
+Regina Spektor,The Call,6
+Daryl Hall & John Oates,Sara Smile,6
+Low Roar,Don't Be so Serious,6
+Jacob Collier,Moon River,6
+Lou Reed,Perfect Day,6
+Meredith Godreau,Boats & Birds,6
+Sampha,No One Knows Me Like the Piano,6
+It's A Beautiful Day,White Bird,6
+Origa,From the Train Window,6
+Ivoriancell,Echo from an Empty Void,6
+Pastor T.L. Barrett and the Youth for Christ Choir,Father I Stretch My Hands,6
+Lisa Mitchell,Neapolitan Dreams,6
+Punch Brothers,Julep,6
+Lamp,Rainy Tapestry,6
+Jacques Brel,Quand on n'a que l'amour,6
+Felix Mendelssohn,Morgengebet (Morning prayer),6
+Pentatonix,Imagine cover,6
+Father John Misty,I Went to the Store One Day,6
 Coheed and Cambria,The Afterman,6
+Percy Grainger,Ye Banks and Braes O' Bonnie Doon,6
+Colbie Caillat,Bubbly,6
+Kaleo,I Want More,6
 Hikaru Utada,sanctuary,6
+Kai,Vanilla,6
+Marcin Przybyłowicz,"The Fields Of Ard Skellig (From ""The Witcher 3"")",6
+Edvard Grieg,Morning Mood,6
+Nico,These days,6
+Silvio Rodríguez,Ojalá,6
+New Order,Age of Consent,6
+Illenium,Fractures,6
+Marvin Gaye,My Love Is Growing,6
+Gamechops,Cherry blossom color season,6
+George Frideric Handel,"3. Largo in  Trio Sonata in G minor, HWV 393",6
+Janis Joplin,Me and Bobby McGee,6
 Dougie MacLean,The Gael,6
-"Adam, Jack and Ryan Met",Dear winter,5
-Tim Minchin,White Wine In The Sun,5
-Hooverphonic,Eden,5
-Thee Silver Mt. Zion Memorial Orchestra,13 angels standing guard round the side of your bed,5
-Melody Gardot,Baby I'm a fool,5
-Eisley,Marvelous Things,5
-Limp Bizkit,Break stuff,5
-Yuka Kitamura,Lord of Cinder,5
-Lil Pump,Gucci Gang,5
-A$AP Rocky,L$D,5
-Elis Regina,Chovendo Na Roseira,5
-Hem,Half Acre,5
-Kenshi Yonezu,Might*U,5
-"10,000 Maniacs",Verdi Cries,5
-Emancipator,First Snow,5
-Glen Hansard,Leave,5
-Alabama Shakes,Sound & Color,5
-Yasunori Mitsuda,Scars of Time,5
-Ana Carolina,Love Is A Losing Game,5
-Dmitri Shostakovich,Waltz No 2,5
-Type O Negative,I don’t wanna be you,5
-LP,Lost on you,5
-Alison,I Will,5
-Vindsvept,Through the Woods we Ran,5
-Eric Whitacre,October,5
-Korn,Ball Tongue,5
-Trevor Morris,Lost Elf,5
-Warren Zevon,Keep me in your heart,5
-Drake,I'm proud of you,5
-Amos Lee,violin,5
-La Oreja de Van Gogh,Rosas,5
-Mary Chapin Carpenter,"10,000 miles",5
-Anastasia,Once upon a December,5
-Debussy,Clair de Lune,5
-Duran Duran,Come undone,5
-Whiskey Myers,broken window serenade,5
-Kishi Bashi,Am I the antichrist to you,5
-Labrinth,Jealous,5
-EDEN,Rock & Roll,5
+Bob Carlisle,Butterfly kisses,6
+Donovan,Catch the Wind,6
+Michael Bublé,it’s going to be a lovely day,6
+Goldfrapp,Lovely Head,6
+Metalocalypse: Dethklok,Detharmonic,6
+Janet Devlin,Your Song,6
+Jon Gomm,Passionflower,6
+Juice,Legends,6
+Infant Annihilator,Cuntcrusher,6
+Caetano Veloso,Cucurrucucú Paloma,6
+Béla Fleck,Djorolen,6
+Dawid Podsiadło,Let You Down,6
+Groove Armada,Think Twice,6
 Tony Rice,Church Street Blues,5
+Anastasia,Once upon a December,5
+Télépopmusik,Breathe,5
+MINMI,Shiki No Uta (Samurai Champloo Ending),5
+Amos Lee,violin,5
+Drake,I'm proud of you,5
+Type O Negative,I don’t wanna be you,5
+Mary Chapin Carpenter,"10,000 miles",5
+Emancipator,First Snow,5
+Eric Whitacre,October,5
+Ana Carolina,Love Is A Losing Game,5
+Eisley,Marvelous Things,5
+Elis Regina,Chovendo Na Roseira,5
+Hooverphonic,Eden,5
+Duran Duran,Come undone,5
+EDEN,Rock & Roll,5
+Andrew Belle,sky's still blue,5
+Trevor Morris,Lost Elf,5
+Stan Rogers,The witch of the Westmoreland,5
+Korn,Ball Tongue,5
+Limp Bizkit,Break stuff,5
+Johnny Rivers,Moon River Rock,5
+Alabama Shakes,Sound & Color,5
+Aerosmith,Dream On,5
+Justin Hayward,Forever autumn,5
+Franz Biebl,Ave Maria,5
+Frederic Weatherly,Danny Boy,5
+Josh Ritter,The Curse,5
+Yuka Kitamura,Lord of Cinder,5
+AJR,Dear winter,5
+Four Tet,Two Thousand and Seventeen,5
+Future,The Fountain,5
+Janis Ian,Sixteen,5
+fun.,The gambler,5
+George Strait,A Fathers Love,5
+Giovanni Pierluigi da Palestrina,Sicut Cervus,5
+Glen Hansard,Leave,5
+A$AP Rocky,L$D,5
+Yasunori Mitsuda,Scars of Time,5
+Wolf Alice,the last man on earth,5
+Lil Pump,Gucci Gang,5
+Alison Krauss & Union Station,I Will,5
+Eva Cassidy,time after time,5
+Leon Bridges,Beyond,5
+Labrinth,Jealous,5
+La Oreja de Van Gogh,Rosas,5
+Vindsvept,Through the Woods we Ran,5
+LP,Lost on you,5
+Warren Zevon,Keep me in your heart,5
+Kishi Bashi,Am I the antichrist to you,5
+Foreigner,Waiting For A Girl Like You,5
+Flight Facilities,Clair de Lune,5
+Kenshi Yonezu,Might*U,5
+Whiskey Myers,broken window serenade,5
+Kenny Rogers,Thru the Years,5
+Keaton Henson,About Sophie,5
 Will Varley,Too late too soon,5
 William Ackerman,The Impending Death of the Virgin Spirit,5
-Midnight Youth,Endless Summer,5
-Wolf Alice,the last man on earth,5
-Aerosmith,Dream On,5
-Andrew Belle,sky's still blue,5
-Deniece Williams,Silly,5
-MINMI,Shiki No Uta (Samurai Champloo Ending),5
-BTS,Butterfly,5
-Kenny Rogers,Thru the Years,5
-Britney Spears,Everytime,5
-Flight Facilities,Clair de Lune,5
-Plants and Animals,Bye Bye Bye,5
-Josh Ritter,The Curse,5
-Claire Cottrill,Sofia,5
-Boston,Hitch a Ride,5
-George Strait,A Fathers Love,5
-Bon Iver,Exile,5
-Sebastien Tellier,La Ritournelle,5
+Melody Gardot,Baby I'm a fool,5
+Anne Murray,Danny's Song,5
+Tim Minchin,White Wine In The Sun,5
+Ronan Keating,When You Say Nothing at All,5
+Black Pumas,OCT 33,5
 Secret Garden,Sometimes When It Rains,5
-Petit Biscuit,Sunset lover,5
-Bobby Caldwell,What you won’t do for love,5
-Shinedown,I'll follow you down,5
-Clean Bandit,Rather Be,5
-Cody Fry,I Hear A Symphony,5
-Bloc Party,This Modern Love,5
-Cody Fry,Underground,5
-Skillet,The Last Night,5
-Justin Hayward,Forever autumn,5
-Soccer Mommy,Circle the Drain,5
-Sol Seppy,Enter one,5
-Solange,Don’t touch my hair,5
-Christina Aguilera,Hurt,5
-Broken Social Scene,Sweetest Kill,5
-Mindy Gledhill,Anchor,5
-Sabaton,Christmas Truce,5
-Rainbow Kitten Surprise,Freefall,5
-Franz Biebl,Ave Maria,5
-Charlie Megira,Yesterday,5
-Rebekah Del Rio,Llorando (Crying),5
-Frederic Weatherly,Danny Boy,5
-Red House Painters,Have You Forgotten,5
+Billie eilish,I Love You,5
+Calvin Harris,sweet nothing,5
 Carole King,Tapestry,5
-Four Tet,Two Thousand and Seventeen,5
+Big Head Todd and the Monsters,Bittersweet,5
+The Blue Nile,headlights on the Parade,5
+Sabaton,Christmas Truce,5
+Rogue Wave,Eyes,5
+Bruce Cockburn,Lovers in a Dangerous Time,5
+Charlie Megira,Yesterday,5
 Cher,If I Could Turn Back Time,5
 Robert Schumann,Träumerei,5
-Calvin Harris,sweet nothing,5
-Rogue Wave,Eyes,5
-Ronan Keating,When You Say Nothing at All,5
-Choir! Choir! Choir!,Hallelujah,5
-Fun,The gambler,5
-Johnny Rivers,Moon River Rock,5
-Priscilla,Dream,5
-Future,The Fountain,5
+Bedřich Smetana,The Moldau,5
+Red House Painters,Have You Forgotten,5
 Chris de Burgh,Forevermore,5
-Bruce Cockburn,Lovers in a Dangerous Time,5
-Foreigner,Waiting For A Girl Like You,5
-Sonny Cher,i got you babe,5
-Black Pumas,OCT 33,5
-Spiritbox,Constance,5
-Covet,Shibuya,5
-Barbra Streisand,Evergreen,5
-Dave Matthews,#41,5
-Ne Obliviscaris,And plague flowers the kaleidoscope,5
-Austin Farewell,New Home (Slowed),5
-Audioslave,Like a stone,5
-David Gray,Please Forgive me,5
-The Monkees,Me and Magdalena,5
-Arijit Singh,Laal ishq,5
-David Wise,Aquatic Ambience,5
-Dead Can Dance,I am Stretched on Your Grave,5
-The Pogues,12 stout street,5
-The Presidents of the United States of America,Peaches,5
-J.R.R. Tolkien,Lord of the Rings,5
-Keaton Henson,About Sophie,5
-Apashe,EDM mix,5
-Anne Murray,Danny's Song,5
-The SteelDrivers,Where Rainbows Never Die,5
-Dead or Alive,You Spin Me Round (Like a Record),5
-The Style Council,You're the Best Thing,5
-Deafheaven,Irresistible,5
-The Tallest Man on Earth,Like the Wheel,5
-Neverending White Lights,The Grace,5
 Basil Poledouris,Theology/Civilization,5
-The Blue Nile,headlights on the Parade,5
-Susumu Hirasawa,Guts theme,5
-Stan Rogers,The witch of the Westmoreland,5
-Star Trek: The Next Generation,The Inner Light,5
-Of Monsters and Men,Mountain Sound,5
+Rebekah Del Rio,Llorando (Crying),5
+Tedeschi Trucks Band,Midnight in Harlem,5
+Broken Social Scene,Sweetest Kill,5
+Dmitri Shostakovich,Waltz No 2,5
+Bobby Caldwell,What you won’t do for love,5
+Spiritbox,Constance,5
 Steely Dan,Any Major Dude,5
 Stephen Sanchez,until I found you,5
 Steve Reich,Duet for two violins,5
-Cuco,Lover is a Day,5
-Billie eilish,I Love You,5
-Norman Blake,isn’t that the way they say it goes,5
-Big Head Todd and the Monsters,Bittersweet,5
-Bedřich Smetana,The Moldau,5
+Sonny & Cher,i got you babe,5
+Solange,Don’t touch my hair,5
+Sol Seppy,Enter one,5
+Soccer Mommy,Circle the Drain,5
+Bon Iver,Exile,5
 Tamino,Habibi,5
-Tedeschi Trucks Band,Midnight in Harlem,5
-Telepopmusik,Breathe,5
+Skillet,The Last Night,5
+Bloc Party,This Modern Love,5
+Boston,Hitch a Ride,5
+Silver Mt. Zion,13 angels standing guard round the side of your bed,5
+Susumu Hirasawa,Guts theme,5
+Sébastien Tellier,La Ritournelle,5
+Shinedown,I'll follow you down,5
+Britney Spears,Everytime,5
+Christina Aguilera,Hurt,5
+Rainbow Kitten Surprise,Freefall,5
+Barbra Streisand,Evergreen,5
+Dead Can Dance,I am Stretched on Your Grave,5
+Dave Matthews Band,#41,5
+The Style Council,You're the Best Thing,5
+David Gray,Please Forgive me,5
+Norman Blake,isn’t that the way they say it goes,5
+The Tabernacle Choir at Temple Square,Hallelujah,5
+The Tallest Man on Earth,Like the Wheel,5
+David Wise,Aquatic Ambience,5
+Star Trek: The Next Generation,The Inner Light,5
 Nikolai Rimsky-Korsakov,Scheherezade,5
-Janis Ian,Sixteen,5
-NieR: Automata,Peaceful Sleep,5
-Giovanni Pierluigi da Palestrina,Sicut Cervus,5
+Claire Cottrill,Sofia,5
+Dead or Alive,You Spin Me Round (Like a Record),5
+NieR:Automata,Peaceful Sleep,5
+Deafheaven,Irresistible,5
+Neverending White Lights,The Grace,5
+Ne Obliviscaris,And plague flowers the kaleidoscope,5
+Deniece Williams,Silly,5
+Mindy Gledhill,Anchor,5
+Midnight Youth,Endless Summer,5
+Of Monsters and Men,Mountain Sound,5
+The SteelDrivers,Where Rainbows Never Die,5
 Dario Marianelli,Dawn,5
-Eva Cassidy,time after time,5
-Leon Bridges,Beyond,5
+Apashe,EDM mix,5
+Clean Bandit,Rather Be,5
+BTS,Butterfly,5
+Priscilla,Dream,5
+Austin Farwell,New Home (Slowed),5
+Audioslave,Like a stone,5
+The Monkees,Me and Magdalena,5
+Cody Fry,I Hear A Symphony,5
+Cody Fry,Underground,5
+Arijit Singh,Laal ishq,5
+Plants and Animals,Bye Bye Bye,5
+Petit Biscuit,Sunset lover,5
+Covet,Shibuya,5
+The Pogues,12 stout street,5
+The Presidents of the United States of America,Peaches,5
+Cuco,Lover is a Day,5
+J.R.R. Tolkien,Lord of the Rings,5
+Hem,Half Acre,5
+"10,000 Maniacs",Verdi Cries,5
