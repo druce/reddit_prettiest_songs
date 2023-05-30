@@ -27,25 +27,26 @@ Spotify search API is pretty wonky, doesn't like apostrophes, maybe they need to
 
 Top 20 tracks  below.
 
-| artist | track | votes |
-| :----- |:----- | ----: |
-|Claude Debussy|Clair de Lune|22088|
-|Simon & Garfunkel|Scarborough Fair|11922|
-|The Beatles|In my Life|9049|
-|Erik Satie|Gymnopédies|7620|
-|The Cranberries|Dreams|7305|
-|Israel Kamakawiwoole|Over the Rainbow|6681|
-|Neil Young and Crazy Horse|Harvest Moon|5337|
-|Jim Croce|Time in a Bottle|5285|
-|Mazzy Star|Fade into you|4357|
-|Don McLean|Vincent (Starry, Starry Night)|3989|
-|The Beach Boys|God Only Knows|3882|
-|Sigur Ros|Hoppipolla|3819|
-|Elton John|Your Song|3636|
-|Edith Piaf|La Vie en Rose|3205|
-|Lord Huron|The night we met|3187|
-|Fleet Foxes|White Winter Hymnal|2888|
-|The Righteous Brothers|Unchained Melody|2862|
-|Fleetwood Mac|Landslide|2822|
-|Joni Mitchell|Both Sides Now|2810|
-|John Denver|Annie’s Song|2779|
+| score | artist | track |
+| ----: | :----- | :---- |
+| 22150 | Claude Debussy | Clair de Lune |
+| 11123 | Simon & Garfunkel | Scarborough Fair |
+| 8900 | Beatles | In my Life |
+| 8272 | The Cranberries | Dreams |
+| 7568 | Erik Satie | Gymnopédies |
+| 7025 | Israel Kamakawiwoole | Over the Rainbow |
+| 5379 | Neil Young | Harvest Moon |
+| 4871 | Jim Croce | Time in a Bottle |
+| 4241 | Elton John | Your Song |
+| 4208 | Mazzy Star | Fade into you |
+| 4202 | Sigur Rós | Hoppipolla |
+| 4144 | Fleetwood Mac | Landslide |
+| 3859 | Don McLean | Vincent (Starry, Starry Night) |
+| 3778 | The Beach Boys | God Only Knows |
+| 3352 | Lord Huron | The night we met |
+| 3198 | Édith Piaf | La Vie en Rose |
+| 2993 | John Denver | Annie’s Song |
+| 2700 | The Righteous Brothers | Unchained Melody |
+| 2655 | Fleet Foxes | White Winter Hymnal |
+| 2492 | Joni Mitchell | Both Sides Now |
+
