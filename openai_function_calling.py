@@ -196,6 +196,13 @@ args = eval(fn_obj['arguments'])
 print(f"{fn_obj['name']}(**args)")
 eval(f"{fn_obj['name']}(**args)")
 
+# # Chain requests
+#
+# - prompt to get a dataframe based on name
+# - correctly gives first function, get id based on name
+# - run the function, would like to prompt with the convo so far and previous function returned X, what next?
+#
+
 chain_message1 = "get a dataframe of tracks in the Spotify playlist named 'Reddit Prettiest Songs'"
 messages = []
 messages.append({"role": "system", "content": system_prompt,})
